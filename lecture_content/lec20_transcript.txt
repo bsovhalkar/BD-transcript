@@ -1,0 +1,1121 @@
+Business Development: From Start to Scale
+Prof. C Bhaktavatsala Rao
+Department of Management Studies
+Indian Institute of Technology Madras
+
+Week - 04
+Market and Competitor Analysis
+Lecture - 20
+Competitor Analysis
+
+Hi friends, welcome to the NPTEL course Business Development: From Start to Scale. We
+
+are in week 4 with the theme of Market and Competitor Analysis. In this lecture, the 20th in
+
+the series, we discuss Competitor Analysis.
+
+(Refer Slide Time: 00:26)
+
+If you will recall, I have discussed competitor analysis in a different context, and that context
+
+was in terms of understanding the factors by which we can judge the competitors'
+
+performance as well as our own company's performance. In this lecture, I will talk about the
+
+competitor landscape and looking at competitors from a different perspective.
+
+Many times, firms limit their view of competition even within the industry to the players who
+
+they believe are in the same league. Some other companies think that the role models of the
+
+industry are the competitors, but neither view is wholly correct. Firms need to have a broader
+
+view of competition and players that could chip away at their business.
+
+Here is the summary of certain top-run, mid-run, and small-scale IT companies in India. So,
+
+we have TCS, which has got a revenue of rupees 152497 crores and a market cap which is
+
+more than 7 times that and a sales growth of 10.47 percent. Next in the line is Infosys,
+
+followed by HCL and then Wipro; Cognizant is another leading company with a revenue of
+
+30000 crore approximately, Tech Mahindra in 35119 crore, and L&T InfoTech at 10014
+
+crores.
+
+But if Mindtree is combined with that as per the latest amalgamation or acquisition, it will be
+
+17000 plus crore. Mphasis has 8000 crore revenues, Hexaware at 5300, Info Edge at 1360,
+
+and Happiest Mindset 773 represents the smaller companies. So, you can see three types of
+
+companies: one the industry leader, the second emerging industry leaders, and third mid-tier
+
+companies, which are there and having their own niches.
+
+The above description and depiction do not comprehensive it also indicates how any industry
+
+can be multi-tiered, but the point to note is that any company in any tier can offer competition
+
+to the companies in the other tiers; that is the essence of understanding the competitor
+
+landscape.
+
+(Refer Slide Time: 02:44)
+
+When you look at the IT services top 25 in 2021, it is heartening that India is the second
+
+largest in the world in terms of the brand value of IT companies, and it is next only to the
+
+USA. This speaks highly of the strides taken by the Indian IT industry over the last three
+
+decades, migrating global demand to itself. So, the brand value by country is the graphic on
+
+the left side.
+
+United States has a brand value of 47 percent, whereas India has a brand value of 29 percent.
+
+In a distant third, we have Japan at 9 percent and France at 9 percent again. And the number
+
+of brands by country has been quite interesting in respect of the United States and India. The
+
+United States has 8 leading brands, and India has as many as 6 leading brands. In terms of
+
+individual brands featuring in the global top 25 therefore, India is well positioned both by
+
+value as well as by the number.
+
+(Refer Slide Time: 03:47)
+
+Similarly, in respect of brand rating, Indian companies are in the AAA minus or AA plus
+
+category, which reflects positively on the capabilities of the Indian IT sector and the brand
+
+values also compare favorably with those of established international chains. I would believe
+
+that the time is not far off when the top Indian IT companies will occupy 3 of the top 5 slots
+
+by brand value.
+
+(Refer Slide Time: 04:19)
+
+In terms of IT services, the top 25 Accenture and IBM from the USA occupy the top two
+
+slots, but much of their operating leverage comes from their huge Indian operations. The
+
+ability of Indian IT companies to compete globally is well-proven. So, let us look at the
+
+position that has been given as per the table; Accenture is in number 1, position previous
+
+position was also number 1 in 2020.
+
+The brand value is 26000 crores. The previous brand value was 25000 crores, and it is rated
+
+triple-A. IBM is rated triple-A minus with a brand value of 16000 crores in 2021. Infosys is
+
+at 8400, but it is considered the bellwether of the Indian IT industry; TCS is much larger in
+
+terms of brand value and also in terms of sales value as we have seen earlier, and it is in
+
+triple-A minus category.
+
+So, Infosys and TCS are in the triple-A minus category, whereas HCL is in the AA plus
+
+category. Wipro is also in the AA plus category, comparing very favorably with the other
+
+competitors. How does this happen? This happens when strategic management of the
+
+companies is focused on establishing strong client relationships, which enhances repeat
+
+orders, which provides big deals and ensures brand visibility in the global IT services space.
+
+Underlying the business development approach in such companies is the service as the lever
+
+for long-standing relationships to power IT successes.
+
+(Refer Slide Time: 06:08)
+
+So, in this background, we need to look at competitor analysis in a different light; we have
+
+seen that for the firm, the best of market analysis and demand forecasting as discussed so far,
+
+as well as market segmentation and consumer analysis that will be discussed later, we will
+
+come to a naught if the competitors are not analysed properly.
+
+There are two or three themes here; one, strategic marketing or business development,
+
+constitutes a subset of competitive strategy. It involves positioning the business in the minds
+
+of the marketplace customers. So,
+
+if the value of the capabilities that the firm has or
+
+distinguished from its competitors, then only the competitive advantage accrues.
+
+Sustainable competitive advantage is achieved on a strategic plane; it is a way a firm
+
+positions itself by offering superior products, services, and features relative to competition.
+
+The tactical and operational metrics are in terms of revenues, profits and market share. So, for
+
+every company, there must be an aspiration which is supported by competencies and leading
+
+to execution.
+
+Just as a firm needs a framework for analyzing industry structure and its own strategy it also
+
+needs a framework for analyzing its competitors. This is the point I have made in the
+
+previous lecture. Please judge yourself as the company by the same standards as well as the
+
+same factors of analysis as you judge the competitor with. So, smugglers or alarm about
+
+competition must be replaced by systematic analysis.
+
+(Refer Slide Time: 07:56)
+
+What is the analytical framework that we must have to analyse the competitor repeating the
+
+same thought the market analysis and demand forecasting are helpful, but they are not the
+
+ultimate determinants. Market segmentation and consumer analysis will also be helpful, but
+
+they are also not the final determinants.
+
+Competitors have to be analysed to understand if the demand that is being forecast can be
+
+actually realized by the company. So, a company must look at the competitors in terms of
+
+four aspects what are the future goals, what is the current strategy, what are the capabilities
+
+and what are the assumptions.
+
+The competitor response profile comprises questions such as this: does the competitor want
+
+to improve its share, what strategies will the competitor adopt, and where is the competitor
+
+strong or weak? What could trigger strong retaliation by the competitor are the competitors
+
+acting singly or collectively in an industry where about 10 companies are there.
+
+And with different kinds of ownership, that is, indigenous ownership as well as overseas
+
+ownership, the response profiles of the competitors are likely to be different which means
+
+that the company has to really act on multiple fronts to be able to be competitive against each
+
+and every company.
+
+On the other hand, if all the competitors are of homogeneous type in terms of the ownership,
+
+capabilities and strategy, it is a singular strategy of the entire competitor block that needs to
+
+be attacked by the company. So, the future goals of a company occur at all levels and in all
+
+domains of the organisation.
+
+The strategy of the company is seen in terms of the evolution of the current business, the
+
+capabilities are seen in terms of the strengths and weaknesses and the assumptions the
+
+competition has about itself in the industry. Typically, whenever a company introduces a new
+
+truck, the competitor comes up with several trucks to say that I have got a much wider range
+
+and I am going to be in this business in a more competitive fashion.
+
+And these kinds of activities indicate the kind of assumptions the company is making about
+
+its competition, whether it thinks of itself as a long standing and dominant player for the
+
+future or it is just looking at a one-to-one relationship with the competition. The quantitative
+
+framework that is presented for company analysis, which is the analysis of your company,
+
+will be equally relevant for competitor's quantitative analysis as well. This framework
+
+enables a strategic analysis of the company and the competitor, that is much needed.
+
+(Refer Slide Time: 10:51)
+
+Analysis of competition has got several foresights; we should not limit competitor analysis
+
+only to direct competitors, which is firms providing the same or similar products. It is quite
+
+possible, we have seen it
+
+in the earlier lectures,
+
+that competitors could seek strategic
+
+adjacencies; therefore, although they are not direct competitors, sooner than later, they could
+
+come into the area where you are operating.
+
+Paytm may not have seen Reliance Financial Services arm as a competitor and would have
+
+seen it as a financial support arm for the reliance products, particularly the retail products as
+
+well as the telecom products; however, the spinoff of the Reliance Financial Service Arm is
+
+going to place the company in direct competition with Paytm and that has already impacted
+
+Paytm in terms of its business positioning as well as stock price.
+
+Therefore, trying to say that these competitors are my direct competitors, these competitors
+
+are my indirect competitors, and these are my distant competitors, and the fourth category of
+
+companies are completely non-competitors is probably not so easy as we may imagine.
+
+So, the problem is that we should have a very wide expanse of our vision in terms of looking
+
+at the competitors. Over and above that, forecasting who could be the potential competitor in
+
+the future is even more difficult. So, let us look at the categories of competitors. The first
+
+classification, which is easily understood classification is that of firms which are direct
+
+competitors and who are in the same industry.
+
+The second type of classification relates to firms which are not in the industry but who could
+
+overcome entry barriers easily. That
+
+is for a two-wheeler company; someone in the
+
+four-wheeler could probably overcome the entry barriers and come in. For Eicher, which has
+
+been in the tractor industry, it has been possible to overcome the entry barriers and enter the
+
+commercial vehicle industry, thus becoming a competitor for another commercial vehicle
+
+firms.
+
+The third category relates to the firms for whom there is an obvious synergy from being in
+
+the industry. If you are already in one segment of the industry, which is helpful for the other
+
+segment of the industry,
+
+it makes sense for it to get into that industry and become a
+
+competitor; suppose you are a company making oncology products; therefore, you have a lot
+
+of sterile injectable capability.
+
+For you as that company, it makes sense to leverage that sterile engineering capability to be
+
+in other sterile injectables place, although oncology drugs and those sterile injectable drugs
+
+are not the same industrial segment or same business segment; however, the synergy has
+
+driven the company to move into the next competitive position.
+
+The fourth category of competitors relates to firms for whom competing in the industry is an
+
+extension of the corporate strategy;
+
+the corporate strategy of the firm says that
+
+the
+
+co-business is saturated, you need to move to another industry or another business. The fifth
+
+category of competitors relates to the customers or suppliers who may integrate backward or
+
+forward.
+
+So far, they have not been your competitors, but after the strategic direction changed, they
+
+became competitors. Bharat Forge was never a competitor for defense undertakings;
+
+however, it chose to become forward integrated into defense products, including artillery and
+
+other armaments, and that made Bharat Forge a competitor to other companies in the defense
+
+services and defense products field. Let us look at
+
+the competitors and the potential
+
+competitor structure with some specific examples.
+
+(Refer Slide Time: 15:07)
+
+We have Apollo hospitals, and we have Lupin, we have Practo, we have Metropolis, and we
+
+have Angstrom. So, if you are a medical diagnostics company, you can have competition
+
+from all these companies. It is this is a just classroom illustration and does not reflect reality
+
+or possibility.
+
+So, you as the medical diagnostics firm, have direct competition from Metropolis, which is
+
+another medical diagnostics firm which relates to the first category I have talked about. You
+
+also have competition from Practo, which is a medical services company; they could pose
+
+direct competition to you.
+
+You could have competition from Apollo Hospitals, which is an end-to-end healthcare
+
+system, and it is a hospital, it is a clinical services chain, everything combined together, and
+
+you that could pose a problem to you in terms of the medical diagnostics business. Lupin is a
+
+pharmaceutical company. It never thought about medical diagnostics, but it decided to
+
+venture into that area. So, suddenly, a pharmaceutical company has become your competitor.
+
+Angstrom Biotech is a biotech test kit company, and therefore, it has the ability to create test
+
+kits for home testing it can create even a lab on the chip; with those kinds of developments,
+
+you will find that your medical diagnostics capabilities are challenged by a different types of
+
+technology substrate, which is that company is offering. So, this is a telling example that
+
+competition for any company could arise from more than one direct competition, it could
+
+come from strategic existence being pursued, any changes in the strategy and so on.
+
+(Refer Slide Time: 16:55)
+
+What are the goals of the competitors? The competitors and the company will have a
+
+hierarchy of goals related to the corporate and business structures; there will be physical and
+
+financial growth production, sales, capacity utilization, breakeven point, and growth rate.
+
+These are the physical parameters.
+
+In terms of the financial goals, there will be revenue, profit, return on investment, earnings
+
+per share, debt-equity ratio, interest cover cash flow, and market cap. In terms of the strategic
+
+goals, the company may pursue one of the three generic strategies, could have one particular
+
+type of portfolio, and can pursue specialisation, diversification, integration, outsourcing, or
+
+offshoring all of these as their strategic approaches.
+
+It could also pursue globalisation, intellectual property generation, strategic direction, and
+
+technological innovation as their strategic goals. Other companies may pursue governance
+
+goals as well as compliance, ethics, values, corporate governance, risk management,
+
+environment health and safety, social responsibility, and business continuity; these come up
+
+as governance goals.
+
+In terms of the structural goals, that is, how the organisation is structured, there would be
+
+very specific indicators of the competitors' value systems as well as the objectives of the
+
+board of directors, how it is constituted, the number of committees of the board and their
+
+purpose, the CEO and leadership team the managerial team these are all structure related
+
+goals.
+
+Corporate structure, business structure, and organisation structure emerge as the structural
+
+aspects of goals from an overall organisational perspective. There will be people-related
+
+goals: should I have a CEO of this kind of pedigree, should I have a CXO of this kind of
+
+pedigree, or the questions that leaders in the company get and they solve these things by
+
+having certain goals.
+
+Some companies believe that I will make extraordinary people out of ordinary persons and
+
+that is the way they define their goal, whereas some other companies feel that they must get
+
+people from the best possible pedigree to deliver the kind of expectations they have.
+
+So, people goals could be in terms of CEO profile and background CXO profiles
+
+organisational alignment
+
+rewards long-term investment
+
+incentive plans, non-financial
+
+recognitions, and so on; there would also be national goals for competitors; some companies
+
+try to align themselves more strongly with national goals.
+
+So, out of the whole set of companies operating in an industry, only a few may align
+
+themselves with government moves such as semiconductor development or production
+
+incentive plans for the tough aspects of product development and so on. So, alignment with
+
+national goals, ranking in terms of the national industrial canvas, and self-reliance initiatives
+
+are all goals which prompt companies to align themselves.
+
+Similarly, support to startups, support to macros small and medium enterprises, privatisation
+
+and making India programs or other methods by which the national goals are met by the
+
+individual companies. Every competitor, as well as the company, will have a hierarchy of
+
+goals related to the corporate and business structures as I have discussed here.
+
+(Refer Slide Time: 20:38)
+
+So, once we know these kinds of goals, how do we analyse the competitor's goals. The first
+
+way is to understand how the competitor's goals compare and contrast with the company's
+
+goals. The second step is to understand how competitor's performance measures compare
+
+with the company's performance measures.
+
+How sustainable are the competitors' goals relative to the companies, and how sustainable are
+
+the competitor's achievements relative to the companies? So, it has three-step process:
+
+identification of goals and achievements, gap analysis of goals and achievements and,
+
+therefore, determination of sustainable competitive advantage.
+
+If the gap between the goals and achievements of the competitors is very wide compared to
+
+the narrow gap that you have then it means that you have a superior competitive advantage
+
+relative to the competition. So, every analysis of the competitor and your firm should lead to
+
+identification of gaps and actions for sustainable competitive advantage for the firm.
+
+You can see how the new company introduces its products. The mean time between product
+
+introductions is different in respect of your company and the competitors. There could be
+
+several insightful measures that can be used to understand the gaps between goals and
+
+accomplishments.
+
+(Refer Slide Time: 22:04)
+
+Competitors have assumptions about themselves as also about the competitors similarly, the
+
+firm which is trying to analyse the competitors has assumptions about itself and others. And
+
+these assumptions can be about a firm's future capabilities, future industry scenario, and such
+
+other factors and the variations of these assumptions with reference to the competition and
+
+also the likely evolution of the actual parameters determines how strong or how weak the
+
+competition is going to be.
+
+So, what is important is the relative position with reference to the other parameters. Some
+
+examples of the parameters on which you can have these relative assumptions are cost,
+
+quality, technology, processes, and facilities; this is the technical set of how good you are in
+
+terms of your cost engineering, how good you are in terms of your quality assurance, what is
+
+the level of technology that you have and the manufacturing process controls that you are
+
+able to incorporate.
+
+And the state-of-the-art facilities that you have relative to your competitors, this is the
+
+technical set as an example; then you have the pipeline that is how well endowed are you to
+
+launch products not only tomorrow but years later. So, for that, you need to understand the
+
+product pipeline regulatory approval status of yourself as well as the competitor, the capacity
+
+profiles market finances.
+
+Generally, a company which has got higher capacity is likely to be better positioned to meet
+
+any uptick in demand. Therefore, this is the set of factors that determine the future capability
+
+of the firm. Then we have reputation parameters, the brand value, the corporate reputation,
+
+the ESG reputation, occupational safety and health reputation, and the ratings by various
+
+credit rating agencies that is the brand value-related factors.
+
+Next, you have the fourth tier, which is the identification that the company evokes, or the
+
+competitor evokes with the stakeholders, and that could be historical identification; if a
+
+company has been in a nation for 100 years, it has a different historical identification
+
+compared to a company which has just started its business 1 year ago.
+
+Then there is the emotional identification when Tata Group of companies or Tata Son's had
+
+destabilizing influences a few decades ago. It is the emotional identification of the population
+
+at large or the society at large and select segments of the government that has led the Tata
+
+group's position to be strengthened, and that emotional identification is necessary for a
+
+company to make its mark on the overall industrial scene.
+
+The third is the belief in the future environment; companies get known as companies which
+
+will go for the futuristic development. So, when a group such as Tata wants to enter the
+
+semiconductor industry or when it
+
+takes over Air India, such a behemoth which the
+
+government could not manage with profitability because of the belief in the future
+
+environment, the stakeholders believe that the company can deliver.
+
+Then there is also belief in the future of the industry where the company is operating, that
+
+leads to strong positive assumptions on the competitive capability of the company. And also,
+
+there are beliefs related to the future competition whether the future competition would be
+
+high or would be low. Interestingly, firms tend to have beliefs on the future while taking
+
+quantitative facts somewhat less seriously; that is, there is in some companies a higher level
+
+of preoccupation with future parameters than with current realities on the ground, that is not
+
+good.
+
+Similarly, getting fully occupied with the current realities, but not talking about or thinking
+
+about future evolutions is also not correct. So, again, it has to be a balanced way of looking at
+
+yourself as well as the competition in terms of the assumptions.
+
+(Refer Slide Time: 26:27)
+
+So, how do we assess the assumptions? We can make assumptions all the while, but how do
+
+we know that the assumptions are fair and proper? So, we have to do this analysis carefully to
+
+understand who will have a competitive advantage and what can be done to enhance it. There
+
+are many methodologies to analyse assumptions, but these are by and large, qualitative and
+
+experiential.
+
+First, you need to collect all
+
+the assumptions that are made by the company and the
+
+competitors' filter against the history of past realities does the competitor have the habit of
+
+making pompous announcements and not turning out real performance? Do I have myself the
+
+history of making pompous announcements but not fulfilling those announcements in doing
+
+so, you will find out the blind spots of yourself as well as the competitors.
+
+Then, you assess the managerial competencies of both companies. Assess the support factors
+
+such as the board, the auditors, advisors, and consultants that is the company you are keeping
+
+as a firm. Then, decide on the probability of the company's success vis-a-vis the competitors.
+
+Again,
+
+some divisions,
+
+such as marketing and business development which, are
+
+customer-focused and customer connected or better positioned to provide inputs to the senior
+
+leadership team in analysing these assumptions.
+
+(Refer Slide Time: 27:56)
+
+So, what
+
+is the framework for analysing assumptions and achievements? We have the
+
+company's assumptions, and these assumptions could be worse than the competitors or better
+
+than the competitors then, there would be the company's achievements, which could be worse
+
+than the competitors or better than the competitors.
+
+So, as a company, I make assumptions about myself vis–a–vis the competition. As a
+
+company, I make achievements vis-a-vis the competition, better or worse in either case. So,
+
+what happens in such a situation? If your assumptions are worse than the competitors, that is,
+
+you are on a lower pedestal even on an assumption basis, and your actual achievement is
+
+worse than the competitors then you have an endemic competitive disadvantage which is an
+
+innate which is an innate inherent competitive disadvantage.
+
+Suppose your assumptions are better than the competitors, but your performance is worse
+
+than the competitors, you are likely to end up in competitive failure. Let us say that your
+
+company's assumptions are worse than the competitors', but your performance in fact, has
+
+been better than the competitors then you end up with likely competitive success.
+
+But let us assume that you have consistently better ranking assumptions than the competitors
+
+and your performance is better than the competitors then you will have likely sustainable
+
+competitive advantage. This analytical framework, again is an original framework that I am
+
+presenting to you as part of this course.
+
+So, the central tendency would be that the assumptions and achievements are the same
+
+between the company and the competitor;
+
+that means that the entire industry is in an
+
+equilibrium state. As we deal with futuristic assumptions and past achievement records, we
+
+may arrive at likely competitive scenarios as well.
+
+(Refer Slide Time: 29:59)
+
+This is as far as the structure and strategy are concerned, but we need to delve deeper into the
+
+competitive strategies that are being adopted by the competitors. So, three generic strategies
+
+as we have considered earlier, are differentiation, cost leadership, and focus or niche. Now,
+
+let us see how it works out.
+
+Let us say you are a company wedded to cost leadership, and the competitor is also wedded
+
+to cost leadership. What would happen there would be intense rivalry because you are
+
+similarly positioned and you are similarly capable in terms of the cost parameter. Let us say
+
+you are differentiated, and the competitor is also differentiated; then again, you will have
+
+intense rivalry because you are equally pitched in terms of your capabilities and
+
+accomplishments in the marketplace.
+
+Let us say you are differentiated, but the competitor is having cost leadership; then what
+
+happens? The rivalry is co-existent; the competitor performs at one level, and you perform at
+
+another level. So, both companies coexist. Let us say you have differentiation or cost
+
+leadership as your strategy and competitor has focus or niche again, you are operating in
+
+different places and therefore, you will be coexisting as rivals.
+
+So, if the same generic strategy is adopted by both the firms, the intensity of competition will
+
+be much higher than when you have different strategies to work on and that is why you try to
+
+choose competitive strategies, which are somewhat unique to your position.
+
+(Refer Slide Time: 31:40)
+
+Let us look at the current strategy; current strategy nothing but a is a combination of the goals
+
+that you set for yourself and the capabilities that you have built for yourself together, these
+
+become the strategy of the company. And these are set based on certain assumptions with the
+
+objective of achieving certain things in the business space. And the goals, capabilities,
+
+assumptions and achievements are tied together by what we call the corporate strategy or the
+
+business strategy.
+
+(Refer Slide Time: 32:16)
+
+When you look at competitors, you will find that all the time, they make statements, and
+
+those statements can be bold and provocative; they also tend to be powerful enough to
+
+preempt competition, but all the firms in an industry may not make the announcements or
+
+take the announcements in the same way. There could be adjustments amongst
+
+the
+
+competitors.
+
+But at the same time, there could be multiple new collaboration opportunities in the broader
+
+industry. The classic case is the Adani Group. Adani Group has been a pioneer in renewable
+
+energy Adani Group has agreed to invest as much as 30 billion US dollars across the entire
+
+energy sector with thrust on renewables and clean fuels such as hydrogen.
+
+Mukesh Ambani's Reliance Industries, which has focused until now on petrochemicals,
+
+decided to participate in renewable energy or what it calls as the new energy initiatives in a
+
+big way. So, the company said that it would invest 20 billion dollars, including giga factories
+
+and partnerships. There is a subtle difference in the strategy between Adani Group as well as
+
+Ambani Group, but the ultimate strategy is to lead to the production of renewable energy, and
+
+having a dominant position, we have Ola Electric which announced that it is investing in an
+
+electric scooter plant of 10 million units per annum capacity. Sudarshan Venu of TVS motor
+
+announced plans to invest just 1000 crore in a 2-wheeler plant of 100000 per annum capacity
+
+both are operating in the electric vehicle industry, but they have decided to choose different
+
+investment levels and different capacity levels, whereas Adani and Ambani have chosen to
+
+operate in the same kind of investment and capacity scale. Now, when Gautam Adani says
+
+that he is buying cement companies it is a signal that the infrastructure play is going to be
+
+much stronger for the company in future.
+
+The company says it is committed to becoming the biggest infra-developer in terms of its
+
+ports and roads. It is a signal that the infrastructure space will be dominated by the company
+
+when it makes a statement that it would invest in the petrochemical complex which may be
+
+seen as a kind of retrograde decision one may also feel that there is a plan behind that;
+
+similarly, when Adani Group says that it is going to compete for 5G auctions, but only for
+
+private networks it looks like a humble initiative, but there could be something more than
+
+what is visible in such a step. So, competitive statements cannot always be taken at face
+
+value; they have to be judged for the importance they bring to the business strategy and
+
+corporate strategy. So, competitive statements have to be looked at in their totality and at
+
+times, reading between the lines.
+
+(Refer Slide Time: 35:20)
+
+So, to judge these capabilities is the next task because vision statements, objectives missions
+
+are all statements of purpose, but the companies should have functional capabilities to be able
+
+to fulfill
+
+those mission statements. These are the determinants of a firm's competitive
+
+advantage. In the ultimate analysis, some examples of typical strengths and weaknesses of a
+
+firm or its competitors are listed below.
+
+In respect of R&D, the product depth, as well as the product breadth, the product standing,
+
+the product pipeline, the patents and copyrights, in-house capability, R&D contracts, design
+
+language, R&D facilities and the number of R&D scientists and technologists are a few of the
+
+R&D capabilities this is the functional capability of the R&D system; When you look at the
+
+operations of the manufacturing facility network, the capacity, and the breakeven point, the
+
+lower the breakeven point, the better will be its competitive advantage process efficiency the
+
+least loss operation is the most profitable operation. Economies of scale as well as scope
+
+when you talk about economies of scale the higher unit volume that you have.
+
+When you talk about economies of scope the ability to manufacture a range of products with
+
+some modularity using the same facilities. So, that is the economies of scale and scope
+
+concept own vendor locations, labor skills and unionization, access to raw materials and
+
+components integration levels and outsourcing levels, process technologies and intellectual
+
+property lean and flexibility in manufacture these are all the considerations in operations.
+
+When you look at marketing, the channel relationships that you have, the channel location's
+
+exclusivity, non-exclusivity, and the extent of legacy relationships as well as forward-looking
+
+relationships these all matter. Salesforce strengths and skills, strengths in 4 Ps, customer
+
+relationships, skills in MR and design thinking, that is, skills in market research and design
+
+thinking.
+
+Sales parts and service support, digital marketing skills or marketing attributes reflect well on
+
+the functional capabilities of marketing. In terms of finance, you have cash flow and reserves,
+
+debt and equity headroom, borrowing capacity, equity raising capacity,
+
+financial
+
+management, accounting and auditing skills, corporate governance, and the ability to incubate
+
+ventures.
+
+These are all financial capabilities, but this list is not exhaustive. There could be several other
+
+competencies such as organisational competencies, the ecosystem competencies, and cultural
+
+competencies; these are also important. A company which is scoring very high on cultural
+
+integrity is likely to be a better performer than a company which does not subscribe to good
+
+cultural anchors.
+
+(Refer Slide Time: 38:29)
+
+This is about functional capabilities then there would be general organisational capabilities in
+
+how the organisation plans and conducts its business. These are apart from technical and
+
+functional capabilities and these organisational capabilities distinguish firms in a very
+
+substantive manner in respect of structure is the structure aligned to the strategy is the
+
+structure promoting efficiency and effectiveness.
+
+If you have a large company which has business verticals and with the business within
+
+business verticals product verticals, one may say that the company is get for specialization as
+
+well as growth. Roles and responsibilities how well they are defined does one person look
+
+after many tasks, or he is specialized enough with an appropriate collaborative network
+
+within the organisation?
+
+The structural strength of an organisation structure, and the flexibility to reconfigure as
+
+required these are all important and as far as the processes are concerned the clarity of
+
+purpose that prevails within the organisation. The activity clarifies what I should do in terms
+
+of the sequence and in terms of the parallel activities.
+
+The structure of process alignment, the process efficiencies, coordination, resilience, integrity
+
+of the process, code of conduct of managers and executives, and the compliance standards
+
+these are some of the ramifications of process capability. Then, you have leadership
+
+capabilities.
+
+Leadership qualities of CEO and CXOs, ability to drive business, succession strength, depth
+
+of management, flexibility and adaptability these are all the factors which provide extra drive
+
+and pep to an organisation. Then you have talent-related capabilities, the skill set or the
+
+competency set,
+
+the cultural moorings,
+
+the unity of values or purpose, the age of the
+
+organisation, learning and development capabilities, collaboration and networking capability,
+
+and so on.
+
+Again, these are not exhaustive; we can look at several other organisational competencies
+
+when you sit to analyse them in greater detail.
+
+(Refer Slide Time: 40:42)
+
+So, when a company is faced with competition, how does the company respond, or how does
+
+the competitor respond? If both companies are in a neutral state where nobody responds
+
+against the other, one may assume that they have become happy in retaining the current state;
+
+they do not want to disturb the equilibrium it is a kind of live-and-let-live situation.
+
+But it is hardly the case in real life when each company tries to get the better of the
+
+competition. And to be able to do that, after all the analysis that we have laid out so far, you
+
+may decide to make either competitive moves that are offensive on purpose or defensive on
+
+purpose. So, what are the offensive moves? How aggressive is the competitor to improve the
+
+position?
+
+Is he going to do something to disturb the equilibrium and how would the competitor try to
+
+reach the improved position and how strong and persistent would be the moves? Your
+
+assumptions on the offensive moves of the competitor would determine how you are going to
+
+make your moves.
+
+On the other hand, you will look at the defensive moves as well as how vulnerable is the
+
+competitor to the firm's actions and the firm I take certain actions. Is the competitor capable
+
+of defending itself, or its going to buckle? If I make a move, how would the competitor
+
+retaliate? How strong would it be?
+
+So, you are being circumspect; you are going to make your moves in a defensive manner,
+
+thinking of the competitors' retaliation possibilities and in case the competitor reacts, how
+
+strong would be the firm in the face of retaliation. So, you are having two sets of thought
+
+processes, and that helps you to craft either an offensive move or a defensive move.
+
+Companies must analyse themselves and their competitors comprehensively, and they must
+
+think strategically about retaliation both from the firm's viewpoint as well as from the
+
+competitor's viewpoint. For every action, there will be a consequence similarly, for every
+
+competitive move, there will be a counter-competitive move.
+
+So, we should be able to focus those moves and move accordingly; every firm should
+
+understand the degrees of freedom available to both sides in the competitive game; there is no
+
+point in your trying to lower the pressure when you know that you are not the least cost
+
+producer. And even more, if the other company is a lower cost producer.
+
+So, it is just not going to be a good competitive action to proceed in that direction. On the
+
+other hand, if you have the ability to differentiate yourself and the other company is a cost
+
+leader, you may build upon your strengths and make offensive moves in terms of
+
+differentiation. Therefore,
+
+the key to good competition is to understand the degrees of
+
+freedom that are available to both the sides in the competitive game and that is because
+
+competitors could react in multiple ways.
+
+(Refer Slide Time: 43:52)
+
+In terms of retaliation by the competition, there could be three types of retaliation; one type
+
+matches a competitive move by similar conduct, you reduce the price, and the other
+
+competitor also reduces the price. So that the competitive balance is not disturbed. The other
+
+type is that apart from matching in the operations in part or in full there would be plotting of
+
+a broader strategic response.
+
+And the third way is to have a simply non-retailing approach, thinking that this competition
+
+will be a transient phase, seeing that the firm is not responding, the competitor would roll
+
+back. So,
+
+there are three ways: operational retaliators who match the moves, strategic
+
+retaliators who plot a broader script, and non-retaliators who succumb or succeed over time.
+
+It is not necessary that a firm should retaliate against every competitive move. It may be
+
+wholly unnecessary if companies have sustainable brand equity; it will be possible for such
+
+companies to write out this storm. Only those companies which lack such differentiated
+
+capability must look at doing certain things to provide that defensive capability.
+
+And if those companies do not have the defensive capability and are not able to conjure up
+
+any particular strategic retaliation, they are likely to succumb to competitive pressures over
+
+time.
+
+(Refer Slide Time: 45:25)
+
+So, what are the battlegrounds for competition? Many firms have several options to choose as
+
+battlegrounds for competitive actions; features and price are usually the more chosen
+
+competitive arenas; whatever be the option that is chosen, it must have a linkage with the
+
+overall generic strategy of the company.
+
+As I alluded to earlier, a company should not try to differentiate itself as a competitive move
+
+when it does not have the R and D capability to differentiate itself beyond one or two
+
+features. So, you have to choose your battleground appropriately. So, when you look at the
+
+area of competitive action by a firm it could be just price, it could be features, it could be
+
+service, or it could be a combination of the above.
+
+Price-based competition works well
+
+for differentiated firms because you are already
+
+differentiated, and if you are able to offer the differentiation at a more competitive price, you
+
+are likely to be a winner. Suppose you have features that are now added as competitive action
+
+that will work well if you are already a cost leader; when you are a cost leader, you are seen
+
+as a generic company or a commodity company, but when you add features, then you will be
+
+seen as a differentiated company it, therefore, works well for cost leaders; suppose you have
+
+decided to use service as your competitive weapon, which is you establish a network of
+
+service stations, you train your service mechanics to be at service in a very great manner, and
+
+you make available the spare parts in a surplus manner.
+
+Then you are seen as a service provider of the highest standard. It is a competitive move and
+
+that works well for both the strategies which I have described earlier. Suppose you use a
+
+combination of the above, you could diffuse the impact because you are there everywhere,
+
+and the customer is unable to judge you similarly, the competitor is also unable to judge you
+
+where you are positioning yourself.
+
+And any abrupt action or, random action or knee-jerk action by the competitor could take
+
+away the (Refer Time: 47:32) from the combination that you have thought about. When
+
+features and price are further supported by service, certainly, a firm gains competitive
+
+advantage on a holistic basis.
+
+Why and how firms and competitors work on these options depends on who the customers
+
+are and how well
+
+they understand the customers and how well they connect with the
+
+customers. So, competitive actions have to be carefully chosen and the battlegrounds also
+
+must be carefully chosen. With this, we come to the end of this lecture. I hope to see you in
+
+next week's lectures.
+
+

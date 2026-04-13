@@ -1,0 +1,1069 @@
+Business Development: From Start to Scale
+Prof. C Bhaktavatsala Rao
+Department of Management Studies
+Indian Institute of Technology Madras
+
+Week - 04
+Market and Competitor Analysis
+Lecture - 19
+Demand Forecasting
+
+Hi friends, welcome to the NPTEL course Business Development: From Start to Scale; we
+
+are in week 4 with the theme of Market and Competitive Analysis. In this lecture, the 19th in
+
+the series, we discuss the very important topic of Demand Forecasting.
+
+(Refer Slide Time: 00:27)
+
+Understanding the demand is at the core of business development. One can look at 90 types
+
+of demand measurement as I have indicated in this example, that shows how complex
+
+demand forecasting process can be. Let us look at three types of time levels: short run,
+
+medium run, and long run.
+
+Different companies define these in different ways. Some companies will consider 1 year as
+
+the short run, and some 1 to 2 years. Some companies will look at 2 to 3 years as medium run
+
+and some companies look at 2 to 3 years as the medium run, and some look at three years and
+
+beyond as the long run.
+
+So, whatever that be, every industry and every company has its own understanding and
+
+perception of what these time spans are, but at the product level, there could be several
+
+factors that may vary depending upon the time frame chosen; it could be at the lowest level
+
+the product item sale moving to product form sale, product line sale company sale, industry
+
+sale and all sales together.
+
+And the regions which are covered in the demand forecasting exercise could be the customer
+
+itself, the territory, the region, the USA, and the world. The more global a company is and the
+
+more diverse the product range is, the greater will be the number of market measurements.
+
+This still needs to contend with the fact that further segmentation can be achieved or required
+
+based on customer characteristics, and this is not unusual; this is very much usual for every
+
+type of company.
+
+(Refer Slide Time: 02:10)
+
+So, demand estimation, which is a complex process, is the core of business development. At
+
+times, even sophisticated economic models may not predict the unraveling of demand. Ola
+
+Electric had one lakh orders in 24 hours when it announced the digital launch of its scooter.
+
+But the question is how long the steady state will remain?
+
+There is a semiconductor shortage even now, two and a half years after this semiconductor
+
+shortage first popped up. Millions of products have been affected in terms of loss sales,
+
+automobiles to white goods were impacted by the semiconductor shortage. Can we predict
+
+when the semiconductor shortage? Will really go away; it was difficult at least 1 year ago.
+
+China's power crisis, as well as the COVID lockdowns, steep power cuts and outages
+
+industrial disruptions, factory production is roiled. Can we predict when the items will ease?
+
+India's Demat Account Surge: fourteen point million demat accounts were opened in the
+
+period 2020-21. These were 3 times the numbers opened in the previous financial year, and
+
+no one could predict this level of interest in the stock markets of India.
+
+So,
+
+there are four types of demand: surge demand, the one like demat account surge,
+
+cascading demand, depending upon how the economy impacts a particular product and
+
+therefore,
+
+the sub-products and the components how they are affected is the cascading
+
+demand aspect. Snowballing demand that is something is favored, and the demand for it
+
+keeps on moving up the kind of one-year waiting period you saw for Rakia (Refer Time:
+
+03:57) product is a snowballing demand. Everybody thought that it offered features for
+
+greater than the price at which it was marketed; therefore, there was a snowballing demand
+
+disrupted demand that is when the demand gets disrupted by something which is completely
+
+out of the blue.
+
+Availability of statistics, therefore, is no assurance that there would be predictability arising
+
+from the data; there is a need to integrate quantitative forecasting which is, of course,
+
+essential with qualitative forecasting as well as scenario planning to arrive at proper demand
+
+estimation.
+
+(Refer Slide Time: 04:33)
+
+What are the approaches that are available for demand estimation? It is actually a progressive
+
+approach. We have to first look at the macroeconomic forecast that is the gross domestic
+
+product that would be occurring in the economy, and that must take into account several
+
+independent variables such as inflation, employment, savings, incomes, consumer spending,
+
+foreign trade, interest rates, business investments, government expenditures, foreign direct
+
+investments, sectoral outputs.
+
+Then you have the industry forecast, which is industrial growth for the growth inputs for the
+
+specific industry, growth inputs for the related industries, growth inputs for the vendor
+
+industries, growth inputs for the channel industries, and supply chain factors; then comes the
+
+company forecast the demand growth.
+
+Past sales, buyer's intentions, buyer's purchasing power, sales force forecasts, expert opinions,
+
+market research, and market tests these are not comprehensive factors; these are suggestive
+
+factors. In contemporary times, several agencies provide economic forecasts; these range
+
+from governmental agencies to multilateral agencies and private consultants to rating
+
+agencies.
+
+However, firms may choose to rely on their own judgments; industry forecasts and company
+
+sales forecasts must, however, be customized forecasts.
+
+(Refer Slide Time: 06:04)
+
+What are the demand estimation approaches? Basically, there are two types of approaches for
+
+estimating demand: one is top-down: In this approach, a central department which is
+
+well-qualified and well-equipped takes responsibility for demand forecasting, and it goes
+
+through these three phases of demand forecasting which I mentioned earlier that is economic
+
+forecast, industry forecast and therefore, the company demand forecast; this approach is
+
+typically data and model driven. In the bottom-up approach, the ownership for demand
+
+forecasting is diffused to the operating levels. This approach is both quantitative and
+
+qualitative; both these approaches have their relevance with pros and cons.
+
+(Refer Slide Time: 06:46)
+
+What are the pros and cons of the top-down approach? It is managed by a department which
+
+is dedicated to quantitative techniques, economic understanding, and understanding of
+
+various industry linkages. In fact, that department looks at the whole economy and the
+
+industry, including the firm as a system, and they are able to provide the demand estimations
+
+in that background.
+
+They also may be a centralized demand planning department within one function, such as
+
+marketing and that may be undertaking a similar task; this is centrally driven and, hence, very
+
+responsive to the management. It has access to macro-level data from multiple sources, and
+
+therefore, modeling is facilitated.
+
+It is appropriate for gross demand estimations, but the negatives are that there would be a bias
+
+because of the close proximity with the top management. Also, it is not so sharp for
+
+segmental estimations. The risk of autocorrelation and false correlation of data sets is very
+
+much a risk in this kind of approach.
+
+Smaller companies are well advised to subscribe to syndicated studies of the macroeconomic
+
+environment and macro-industrial environment bigger companies are well advised to have
+
+in-house strengths in economic and industrial interpretation, if not detailed analysis.
+
+(Refer Slide Time: 08:14)
+
+Let us look at the pros and cons of the bottom-up approach. The bottom-up approach is
+
+managed hierarchically, with operating level estimations bubbling up through the successive
+
+layers of discussion and authentication; often, the sales force develops the first building
+
+blocks typically in an organization you have frontline sales offices.
+
+They have area sales managers,
+
+that
+
+is a cluster of sales officers is reporting in any
+
+organization to the area sales manager and a few area sales managers report to the regional
+
+sales manager and, a few regional sales managers report to the general manager, and three or
+
+four general managers depending upon the zones that exist in the country's sales network
+
+would report to the sales head.
+
+And the sales requirements, as well as the sales projections are bubbled up from the bottom.
+
+Philosophically,
+
+this approach is organizationally inclusive, and hence it has greater
+
+ownership. Proximity of the forecasts just
+
+to the ground-level customer leads to more
+
+accurate forecasts, it will be effective in projecting detailed segmental and sub-segmental
+
+demand.
+
+If you are planning the sale of an FMCG product in an area, then you would know how the
+
+demand would vary between different neighborhoods of that area, and to that extent, the
+
+bottom approach could be helpful. But again,
+
+it
+
+is likely to be biased by day-to-day
+
+happenings, it is unlikely that the forecasters at the ground level have the big picture in mind.
+
+They would be unable to perceive multiple data points and emerging trends, they will favor
+
+incrementalism rather than breakthrough thinking. So, these are the disadvantages of the
+
+bottom-up approach: it is business as usual with some incrementalism that happens, and they
+
+tend to react far more dangerously to the current disruptions.
+
+And most exuberantly to the excitements that happen in the marketplace with, none of these
+
+is good for the demand forecasting process. A bottom-up approach helps the company focus
+
+on the current evolutionary trends and thus enables a better fit between the production and
+
+marketing mix of the organization. So, there is space for a bottom-up approach, and there is
+
+also a space for top-down approach.
+
+(Refer Slide Time: 10:41)
+
+How do you juggle between these two approaches is the critical factor of demand estimation
+
+in a balanced way. There are 6 popular demand forecasting techniques that can be used by
+
+companies individually or in select combinations.
+
+The first is a statistical technique; the second is the observation method; third is a survey or
+
+focus groups; the fourth is the analogy; fifth is judgment and the sixth is experimental test
+
+method. Each method has its advantages as well as disadvantages and these will be discussed.
+
+Certainly, combinations of several of these six techniques will help in getting at the right type
+
+of demand estimation.
+
+(Refer Slide Time: 11:22)
+
+Let us look at the statistical techniques; without doubt, these are popular methodologies to
+
+estimate demand because they offer data-driven estimates. They use past history and multiple
+
+regression or time series analysis. Very useful when the demand triggers, positive or negative,
+
+are well known.
+
+The negative about these kinds of techniques is that they cannot adequately capture future
+
+triggers, more so disruptors. The result will be only as good as the data and the tenability of
+
+the assumptions that are built into the model. The key lies in choosing the right number and
+
+the right type of independent variables that can predict the dependent variable.
+
+(Refer Slide Time: 12:05)
+
+An example of demand forecasting for the flexi fuel policy is the blending of ethanol and
+
+petrol for lower emissions. Let us explore how a model can be constructed focusing on the
+
+passenger car industry.
+
+So, the sugar mills, which are the major producers of ethanol, have this problem on hand; the
+
+government has announced a 30 percent blend of ethanol in the petrol fuel for the passenger
+
+car industry. What would be the demand requirement of the passenger car industry out of the
+
+sugar mills? That is the question.
+
+So,
+
+the equation will
+
+look at
+
+the following independent variables: ethanol production
+
+capacity, number of cars on the road, average passenger kilometers traveled per car, flexi fuel
+
+dispensing stations, pricing of petrol, and expected savings per passenger kilometer. You have
+
+certain assumptions for each of these independent variables.
+
+And you create an equation to relate these independent variables to the dependent variable
+
+that is the demand. There could also be other factors, such as different technology levels of
+
+different internal combustions as well. So, the complexity of the model can go up based on
+
+the data you are able to (Refer Time: 13:19)
+
+(Refer Slide Time: 13:20)
+
+The second method is the observation method. In this, we build focus based on the
+
+observations of real-time consumer behavior in the product market spaces of interest to the
+
+company. You look at a retail store scenario, you go to a retail store you look at how the
+
+products are flying off the shelf and based on the promotion.
+
+Let us say more products are taken by the consumers, or in spite of the promotion, the
+
+products are not taken by the consumers; you get a feel for the brand power as well as the
+
+demand for that particular kind of product. Now, this is observational, and it cannot be
+
+universal; it has to be based on certain sampling.
+
+On the positive side observation is very relevant because it is based on what people exactly
+
+do in the marketplace at the point of sale. With artificial intelligence, it is not necessary that
+
+people should be physically present. Artificial intelligence can help extend this to every
+
+customer who moves into the store and also govern the customer's thoughts and behavior.
+
+Thirdly, it is faster and cheaper than other forms of real-time studies. The negatives are the
+
+consumer behaviors in real time can be structured, random, or even misleading; just some
+
+curiosity may make you behave in a particular manner towards a product that does not mean
+
+that the customer is interested in buying the product or is influenced by the product.
+
+The technique may not be applicable to newly introduced products; some people may be
+
+interested, and some people may be disinterested; the technique will be more useful when the
+
+product market space is well defined. Observation will soon be a powerful technique with the
+
+integration of sensors and artificial intelligence with data analytics.
+
+Observation, I believe, is going to be the trend of the future in demand distribution, and it is
+
+going to be very powerful as we move along.
+
+(Refer Slide Time: 15:28)
+
+Examples of observation by design or default building of a demand profile through
+
+observation has been part of the marketing toolkit; when a movie trailer is screened, it is an
+
+observation of people's interest in that movie, when product samples are given to doctors and
+
+when they are administered to the patient it is an indication of the demand profile.
+
+The clinical trials are an observation of the therapeutic efficacy of a pharmaceutical product.
+
+The retail purchasing power which we talked about is an indicator of the latent demand in the
+
+marketplace. Trade exhibitions for new products, the way people look at various products,
+
+and the way they come to various stalls are indicative of the company's brand equity as well
+
+as the product brand equity.
+
+Targeted leaks on new products over the internet and the kind of views they generate, the
+
+likes they generate, or observational outcomes of such activity. Process observations that is
+
+queuing, line balancing, and crowding around a product all of these things are observations
+
+related to consumer demand.
+
+Building your design that is allowing people to assemble their own product and feel happy
+
+about it is an indication of what kind of product customers would like to have. Pre-orders is
+
+another example of observation; observation could be time and cost-consuming, but it would
+
+work very well in conjunction with other techniques.
+
+(Refer Slide Time: 16:58)
+
+Then, we have surveys or focus groups. This method relies on choosing an appropriate
+
+microcosm of the potential market universe to build demand trends. Appropriate when the
+
+product concept
+
+is well defined and can be presented for feedback to customers. The
+
+technique can be used for eliciting the opinion of a firm's sales force as well.
+
+Has the collateral advantage of enhancing customer connection. There can be a significant
+
+gap even a chasm, between what people say and what people actually do that is the negative
+
+other two negatives are the respondents may not be knowledgeable, especially on new
+
+concepts.
+
+The firm itself may fail in getting out a product close to the concept that is voted in, but these
+
+kinds of surveys or focus groups are extensively used by startups when they come up with
+
+disruptive products, and they need some kind of specialist group to say whether these
+
+products are under a kind of hypothesis which can be validated by them.
+
+Also, when the product is supported by a well-distributed sales force who can reach out to the
+
+customers who actually use those products, it will be helpful to have this technique deployed.
+
+(Refer Slide Time: 18:14)
+
+Given below is an example of surveys or focus groups. The focus group survey needs a
+
+setting that has the most appropriate customer flow related to the product or service. You will
+
+recall that when I spoke about design thinking, I talked about having a space where the
+
+design thinking activity can be conducted.
+
+Therefore, you have to select the product market space; you have to select the focus group
+
+venue to interact, seek feedback, and check the representativeness through flow analysis. In
+
+this case we have got a KUV 100 of Mahindra and Mahindra being displayed in a mall in
+
+Chennai, and the executives of the company conducted the focus survey based on the
+
+customer interactions.
+
+But what is to be noted here is that focus group surveys could give out information to
+
+competitors as well in terms of market signaling. So, it's a very transparent process which can
+
+lead to results other than what have been envisaged. Analogy is another important method; it
+
+relies on gaining insights from similar products and services of the firm or its competitors.
+
+(Refer Slide Time: 19:15)
+
+Analogy is very useful when the product and competitor universe is indeed diverse; it is also
+
+useful when product prototypes for new products are not yet available; both successes and
+
+failures offer relevant analogies to work on the negative side any new product will not be an
+
+exact clone of the previous product. In fact, it may be a generation ahead and it would have
+
+features that have never been there in the earlier product.
+
+So, the analogy cannot exactly represent the future trend; it could be misleading as the
+
+consumers' past experiences need not necessarily be indicators of future evolution, and
+
+finally, it could be very judgmental and subjective. For established companies analogies must
+
+lead to reflection and circumspection; apart from mindful demand profiling, it is something
+
+which is a very meditative style of demand forecasting.
+
+The observations that come out of analogy cannot be just like that acceptance; they have to be
+
+mulled upon, they have to be discussed and deliberated, and an appropriate sustainable
+
+analogy established as a result of the thought process.
+
+(Refer Slide Time: 20:35)
+
+There are several examples of analogy working out very well as predictors of market demand
+
+in a host of sectors. Music streaming, Apple had Napster, which worked earlier. Spotify had
+
+Apple as a result, music streaming was the perfect example of analogy. Sleeper buses first,
+
+we had the aircraft seats, which provided comfortable sleeping posture even in the sitting
+
+space.
+
+Then we had the railway sleepers; therefore, sleeper buses had these analogies to work on.
+
+Autonomous mobility we have guided transport even in the factory floors we have
+
+fly-by-wire aircraft, and this has given the impetus to autonomous mobility as being a
+
+sustainable product.
+
+In the foods and beverages space, we had products of different flavours and products of
+
+different recipes, but the way the consumers responded to those different flavours and recipes
+
+gives confidence to the buried company that more such products can be utilized a classic
+
+example is Denon.
+
+It experimented with Greek Yogurt in the beginning, and then it started mixing different kinds
+
+of fruits and nutritious ingredients. The kind of good response the products got encouraged
+
+the company to keep on coming up with the newer variants, and what has been achieved by
+
+Denon has been seen by others as an analogy for their own activities.
+
+Then we had COVID pill acceptance. Tamiflu was for influenza, and there have also been
+
+other oral anti-retroviral medications. Although in this case, analogy has been supported by
+
+scientific evaluation but given also that the scientific evaluation has not been 100 percent
+
+complete or correct.
+
+An analogy has been used by the doctors in prescribing these as somewhat off-level
+
+recommendations, and then we have from Ashok Leyland an LCV called Bada Dost. It has
+
+been developed based on the way its earlier LCV called Dost took off, and Dost took off very
+
+well; they thought that an L Bada Dost also will be taking off very well, and the company
+
+also had the analogy of Tata Ace.
+
+If Tata Ace could create a huge product stream and product space for Tata motors, the
+
+company thought, why will not Dost and Bada Dost create one for the company? So, a
+
+conceptual analogy is useful in estimating the demand profile for a new product that could
+
+make a similar thematic impact; however, launches may not always be accompanied by
+
+analogical specs and service conditions, limiting the applicability of analogy as a tool for
+
+demand projection, it is very useful adjunct.
+
+(Refer Slide Time: 23:22)
+
+Then, we have a concept called test marketing. Test marketing is the concept of testing out a
+
+fully finished product to assess demand and finetune positioning. It comes the closest to
+
+determining the likeliest demand for the final product because the product that is going to be
+
+offered is available in full form, style, and performance considerations.
+
+It eliminates unanticipated bugs and brings out special requirements in actual usage by
+
+customers. Test marketing goes one step further to demand estimation. It is not just demand
+
+estimation or the satisfaction levels of the customers with reference to the product; it also
+
+brings out any mistakes or any bugs that are resident in the product and helps the company to
+
+fine-tune the product to meet the requirements or at least eliminate the most important bugs.
+
+But the negatives are. So, what it is too late to take up demand-related redevelopment and
+
+supply course corrections,
+
+test marketing may come up with a host of suggestions or
+
+observations, but that is not going to be any solace for the company because the company has
+
+already rolled out an entire product launch plan and it is costly and time-consuming and is
+
+open to competitors stalking and competitors developing certain anti postures on the product
+
+with the advent of digital marketing and AR VR.
+
+Some of the test marketing activities can be carried out much in advance and at a much lower
+
+cost, and this is the advantage of test marketing in this new digital world.
+
+(Refer Slide Time: 24:58)
+
+What are the examples of test marketing? From floor shift to paddle shift that is the car
+
+instead of having the gear shift at the floor level could have the paddle shift at the steering
+
+wheel level.
+
+And this has been test-marketed and companies have found out the best way to do that. From
+
+straw punch to flexi spout pouch that has been another example of test marketing, from bottle
+
+shampoo to sachet shampoo that has been an example of test marketing.
+
+SpaceX Civilian Flight itself is a test marketing of a concept that is going to be commercial
+
+very soon. From vials and syringes to prefilled syringes, has been test marketed and found
+
+acceptable to the patients as well as the doctors, and from bottle spirit to alcohol swabs again
+
+has been test marked and found acceptable.
+
+An FMCG company desiring to switch over to stand-up pouches from pillow pouches that is,
+
+pillow pouches are those ones which are flexible even after filling of the product and
+
+therefore, they lie horizontally. On the other hand, stand up pouches are pouches which have
+
+certain rigidity, so that they can stand up on this shelf space.
+
+And typically, stand-up pouches have a cap through which the product can be flowed out; it
+
+could be for the detergent liquid, it could be for the edible oil, and things which are fluidic in
+
+nature. And the disadvantage if one may so say so of the stand-up pouches is that they would
+
+have higher costly impact on this consumer.
+
+The pillow pouches can be packed, but it looks not so elegant, and the price advantage may
+
+give also the commodity feel for the product the way it is displayed and if the packaging is
+
+really good, a stand-up pouch really stands out whereas, the pillow pouch looks lost in the
+
+crowd that it is in and this needs to be test marketed.
+
+And the only way you can do the test marketing and assessment of demand is by displaying
+
+these two types of products and see how the consumer responds to the two types of the
+
+products.
+
+(Refer Slide Time: 27:12)
+
+Then there is also an adoption process because demand could be there, but how the demand
+
+will be adopted in terms of the products that are available and what are the influences for
+
+that? For demand to materialize, people should accept and adopt the new product or service.
+
+Some people adopt a product early on, while some people adopt the product very late.
+
+Some people are innovative; we call them tech geeks; for example, they adopt some new
+
+smartphones and new smart variables; however, many people do not adopt so easily, and
+
+some may never adopt as well. The shorter the time frame in the market adoption process the
+
+faster would be the demand realization.
+
+So, there are several types of adopters which a company must be cognizant of; such adopters
+
+could be innovators they could be early adopters, they could be an early majority of the
+
+customer group, there could be a late majority that could be happening later, and there could
+
+be just laggards these all are types of adopters that could exist in the marketplace.
+
+Companies have started realizing that there is a difference between demand being there, but
+
+and the demand getting adopted. So, companies have started putting on the retail floors
+
+people called promoters. Their job is to promote the product, although a retail mall is open to
+
+every manufacturer, and these are multi-brand retail shops, and everything is uniformly
+
+displayed.
+
+It is left to the individual company to post a person who would explain the features of the
+
+product and why the demand perception of the consumer has must be translated into actual
+
+purchase. So, the time dimension of the market adoption process is accelerated by having the
+
+promoters on the retail mall flow.
+
+The time dimension reflects the rate at which people in the target group, which is those
+
+people who are ultimately adapting, move through these five stages in the adoption process.
+
+Innovators embrace the concept immediately, and early adopters also take the product, but
+
+after little research on the product, the early majority look at the people who are already
+
+embracing the product and then join into a kind of cluster of customers.
+
+The late majority these are the skeptical people; they are price conscious probably they want
+
+to understand what value is getting generated and then only they would take the product, and
+
+finally,
+
+laggards they just are not
+
+interested in moving with the new stream. Strategic
+
+marketing or business development must aim at shortening the time span as much as possible.
+
+The shorter the adoption process the better it is to have the demand realized.
+
+(Refer Slide Time: 30:14)
+
+So, let us look at the fast-forward adoption examples that we have. We are having today
+
+examples of products or services facing phase out due to either new disruptive technologies
+
+or strong regulatory mandates. In fact, there is some kind of belief in the leading Smartphone
+
+makers that the average life of a Smartphone in the hands of the millennial generation is only
+
+8 months.
+
+After 8 months another phone which has been launched will be taken up with eagerness and
+
+that would be having another life which means that there is an inbuilt bias in the marketplace
+
+towards technology, towards change and towards the lifestyle display that comes out of
+
+possessing a new generation of devices.
+
+So, let us look at some of the examples: we had blackberry-type pure qwerty phones; they
+
+were overtaken by touch phones, and touch sensitivity began increasing across the
+
+generations; that is one example. We had ubiquitous sensors and sensors have had the fastest
+
+adoption rates amongst any industrial or electronic product; every appliance in the house is
+
+getting to be sensor covered, and the house itself is getting sensor covered, that is the fastest
+
+adoption that has taken place.
+
+This adoption at the first level has occurred at the industry level or at the design level. People
+
+started appreciating the importance of the internet of Things, the sensor environment and
+
+developing products which had that kind of ubiquitous capability, but once the products
+
+became available, customers started adopting this kind of sensory mechanism.
+
+Similarly, android from Microsoft exited Windows mobile OS after several years of
+
+experimentation with Nokia. Microsoft Duo 2 mobile phone came with Google Android OS.
+
+It is an adoption of a technology that is different, but whether the customers have adopted the
+
+dual type of foldable phone from Microsoft is still a question mark.
+
+The adoption by the customers of the Samsung fold is far higher than the adoption by the
+
+customers of the Microsoft Duo 2. Microsoft's previous track record with the hardware could
+
+have been one factor or the reluctance of Microsoft to aggressively advertise it, waiting for
+
+any other inputs coming from the actual usage could be the other factor, but this is one
+
+example of adoption intended to be fast forward is not getting fast-forwarded as much as it
+
+should be.
+
+Then we have the BS VI fuel emission standard; the government of India has said that there
+
+should be a direct jump BS IV emission standards to BS VI emission standards, and it was
+
+simultaneous with other clean energy initiatives as well. So, it is a leap into the future of
+
+technology, and there are no two ways about it, and it is legally mandated. So, it was a
+
+fast-forward adoption.
+
+But looking at the way these clean energy initiatives have been coming up, other companies
+
+have been getting into the allied businesses, and there have been biodiesel manufacturers who
+
+have come into the play. Companies which are in the edible oil industry started using the
+
+edible oil basis for developing biodiesel product lines.
+
+Sugar mills have ramped up their ethanol manufacturing capability, and the oil companies
+
+themselves are putting up stand-alone ethanol manufacturing refineries. So, this is one
+
+example of fast-forward adoption in one line having a ripple effect across the product lines.
+
+Then we have the Norway EV Mandate, it says that all passenger cars sold by 2025 should be
+
+0 emission cars, and Norway leads the world in EV adoption this is a mandate which has
+
+been eagerly adopted by the country and its citizens. Then there is the renewable energy in
+
+India.
+
+It has been a concept brought forward by one or two companies and also supported by the
+
+government of India. Adani and Ambani have led the way more, particularly Adani. Now, all
+
+public sector refiners and energy producers are entering the renewable energy space.
+
+So, people are adopting this kind of technological platform and this kind of market change
+
+that is going to occur. So, the rate of adoption is a function of the real net benefits a new
+
+product offers with ease and assurance this; adoption, unless it is mandated, will not happen
+
+automatically and will not occur in an accelerated fashion.
+
+The rate of adoption will be a function of the tangible, experienceable, real net benefits that a
+
+new product offers with ease and assurance at
+
+times; mandated withdrawal of older
+
+generation technologies may fast forward adoption and hence achieve demand buildup.
+
+If there is a mandate that all the vehicles which are over 15 years of use or life shall be
+
+scrapped there would be an adoption of the newer vehicles at a faster pace than would
+
+otherwise be possible. So, there are several dimensions to the fast-forward adoption theory.
+
+(Refer Slide Time: 35:49)
+
+When we are doing this kind of forecasting, we need to be looking at some cautions and
+
+caveats. Holistic forecasting is a methodology that benefits from strong statistical science and
+
+good experiential judgment. However, forecasting is susceptible to certain biases and errors,
+
+forecasting must be deployed with caution.
+
+There is a tendency to decide based on delusional optimism or exuberance or misplaced
+
+pessimism; when you look at a product, or when you look at a product performing in the
+
+marketplace, you get excited, and when people get excited, the company's representatives
+
+also get excited, and they would feel that there is an optimism and that could be leading to
+
+wrong judgments of the demand situation.
+
+Similarly, when a product is advertised or when a product is placed on the shelf, there may
+
+not be immediate acceptance and that could lead to misplaced pessimism. Even in the movie
+
+situation, there are cases where the first-day shows may not be adequately patronized, but
+
+word of mouth would ensure that subsequent shows are well-occupied.
+
+So, there is a tendency which cannot be easily predicted; therefore, there is a caveat related to
+
+this. Second, anchoring bias always exists, and this anchoring bias in the demand forecasting
+
+system and also on the part of the demand forecasters is based on the previous events of deep
+
+impact or recent events of halo.
+
+Every demand forecaster would have either benefited from the demand forecasting exercise
+
+or deeply disappointed with the demand forecasting exercise that would provide some kind of
+
+exuberance or disappointment or caution in estimating the demand, that is another thing that
+
+is human bias.
+
+The third is the misinterpretation of demand caused by capacity constraints, channel stuffing,
+
+income effects, financing etcetera. We may say that the demand for passenger cars has (Refer
+
+Time: 38:00) in 2021 because of the economic situation, but probably the demand has not
+
+because of the economic situation, but because of the semiconductor shortages.
+
+After Diwali, people may expect a high level of sales, but the sales could be just half of what
+
+has been achieved in the Diwali season; that is not necessarily because of a lack of demand in
+
+the post-Diwali period for the product it is because this channel stuffing that has taken place
+
+if there is a recession the income effects would have an impact in terms of the demand.
+
+If the loan rates go up and, therefore, the EMI rates or EMI levels go up, there would be an
+
+impact on the real estate demand. So, these are all the ways in which certain other factors
+
+distort the demand and biases from actual demand estimation. Then, there are personal and
+
+professional concerns related to the business impact of forecasts as well.
+
+People believe that forecasts tie us down into a particular way of planning for the future. So,
+
+either you over-invest or under-invest, and given that the demand forecasting process has so
+
+many caveats, which we have considered in the past slides as well as in this slide, people tend
+
+to take it into account, but not completely rely on forecasting.
+
+Then we also have process failures related to qualitative methods; we saw earlier that the
+
+quantitative models need not always be perfect; there could be some erroneous assumptions
+
+built in or there could be the wrong equation that has been developed.
+
+In the qualitative methods there could be process failures that are related to qualitative
+
+methods, which is gaps in communication. I have left the yellow rectangle free for you to
+
+think of any other cautions and caveats that could arise in forecasting based on your
+
+experience as a forecasters of demand in real life or in your professional life.
+
+(Refer Slide Time: 40:02)
+
+So, what are the keys to good demand forecasting? There are certain dos and don'ts that can
+
+be adopted to utilize forecasting as a viable tool for understanding the likely demand. First,
+
+we should understand the purpose. We should not use demand forecasting as a one-time
+
+extended budgeting tool.
+
+Many people wake up to the need for demand forecasting, and the time for developing the
+
+budget for the next year comes up, and after that, it is just kept in the document that is not the
+
+way to look at the demand forecasting; it has to be a dynamic exercise. Second, we have to
+
+recognize the targets what the firm wants to achieve and forecast that is what could happen
+
+for the industry.
+
+And the firm are two different things; we have to be perspicacious enough to distinguish
+
+between these two targets versus forecasts. The second time we should not do forecast
+
+without adequate time for data collection or fieldwork, then you would be negotiating against
+
+yourself in arriving at a demand forecast.
+
+What you need to do is to keep revising forecasts as more comprehensive data becomes
+
+available. The industry operates on a certain time principle; you cannot keep on eternally
+
+waiting for things to happen; a company has to plan its future in good time. So, if the
+
+company has to take 2 months, let the company take 2 months and then release the budget.
+
+But as more data comes to the (Refer Time: 41:32) those must be used to keep revising the
+
+forecast and, therefore, keep changing the strategy as well as the tactics. The third model does
+
+not rely on just one methodology. We have seen several interesting methodologies that are
+
+relevant for demand forecasting.
+
+Triangulate the outcomes based on the use of multiple methodologies, both quantitative and
+
+qualitative. The forecast must make sense in the context of the inputs which you get from the
+
+company's personnel from the competitors' behavior and so on. Look at the measurement do
+
+not take random views on the quality of the forecast as expert opinions.
+
+Do not think that any opinion expressed is the ultimate subject matter expert opinion it need
+
+not necessarily be so. You should focus more on forecast errors to continuously refine
+
+forecasting errors; you have to look at that a forecasting process, however machine-driven or
+
+however machine dependent it is, ultimately a human process. Therefore, there would be an
+
+inaccuracy that is there in the forecasting process.
+
+So, your drive should not be to get just an as accurate a forecast as possible because it is a
+
+perfect scenario which you may not reach to what you should do is to keep on reducing the
+
+Arial levels in the forecasting so that your accuracy gets enhanced.
+
+So, you should understand how the assumptions are impacting in a not so correct way the
+
+forecast there is another thing which you need to keep in mind then the risk we should not
+
+ignore the need for integrating the probability of something happening the risk of happening
+
+are not happening and the sensitivity of the outcome to whatever are the other factors that
+
+would be impacting the demand.
+
+And therefore, when a forecast is challenging to simulate, scenarios there would not be one
+
+single forecast; there would be many forecasts what happens if the geopolitical situation
+
+suddenly becomes very nice, what happens if the US fed stops increasing the rates, what
+
+happens if the government announces stringent measures to rain in the fiscal deficit? What
+
+happens if suddenly the banks decide that we need to inject far more liquidity into the
+
+system? So, these are all the factors which will require scenario planning rather than one
+
+singular demand forecasting. Then, look at the process itself do not think of forecasting as an
+
+optional exercise; think of forecasting as one of the integral parts of the thinking of the
+
+company towards the future.
+
+So, forecasting has to be one of the components of the DNA in fact it must be the key DNA
+
+strand of the company's process. So, prediction of future with a fair degree of plausibility is
+
+not easy that we must realize fundamentally it is tough. It is complex, even if you have tools
+
+and techniques.
+
+Therefore, while taking demand forecast as a guidepost, firms should shape their products
+
+and services and use strategic marketing to shape demand and the whole journal of demand
+
+forecasting, which I have outlined here, provides a lot of perspectives as well as tools and
+
+techniques, with all the pros and cons for you to choose the appropriate set of demand
+
+forecasting techniques and that would help you become a better business strategist as well as
+
+a better business development professional. So, with this, I come to the end of this lecture. I
+
+hope to see you in the next lecture.
+
+Thank you very much.
+
+

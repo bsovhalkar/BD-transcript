@@ -1,0 +1,993 @@
+Business Development: From Start to Scale
+Prof. C Bhaktavatsala Rao
+Department of Management Studies
+Indian Institute of Technology Madras
+
+Week - 04
+Market and Competitor Analysis
+Lecture - 18
+Market Structures
+
+Hi friends, welcome to the NPTEL course Business Development: From Start to Scale. We
+
+are in week 4 with the theme of Market and Competitor Analysis; in this lecture the 18th in
+
+the series, we discuss the topic of Market Structures.
+
+The objective of this lesson is to illustrate how product clusters create macro markets, and
+
+individual product lines can create micro markets. This principle is illustrated with reference
+
+to two industries; most of the information is taken from public domain websites of the
+
+companies as well as analyst and other annual report related data sources.
+
+(Refer Slide Time: 00:54)
+
+So, the first of the two industries are the off-highway brakes industry; it is a co-learning
+
+presentation developed by Murugesh B, an IIT Madras DOMS MBA student.
+
+(Refer Slide Time: 01:08)
+
+So, let us look at the industry focus; if you look at mobility as one large industry, it can have
+
+passenger transport and goods transport as the two sections, passenger transport has personal
+
+transport and public transport as two subsections.
+
+When you look at goods transport, there is an on-highway and there is also an off-highway
+
+division. On highway again is in terms of inter-city and intra-city, off-highway is in terms of
+
+farm equipment, construction, and mining equipment, and construction and mining
+
+equipment is further subdivided into earth moving equipment, material handling equipment,
+
+and road construction and infrastructure.
+
+So, if you look at the whole universe of mobility vehicles, these are classified in terms of
+
+different transportation modes and each transportation mode is further subdivided into more
+
+specialized transportation modes. Whatever we see on the roads regularly is the passenger
+
+transport or goods transport at the macro level.
+
+And passenger transport is divided into what we travel personally by way of 2-wheelers and
+
+4-wheelers or in public buses as public transport. However, when you look at goods transport,
+
+the division is even more complex as I have read out, on highway means it could be within
+
+the city public transportation or between cities coach and bus transportation.
+
+What is more complex is the off-highway transportation which comprises tractors, tillers and
+
+such other farm equipment and the infrastructure related construction and mining equipment.
+
+These again are further divided as you have seen. Out of this,
+
+the brakes and other
+
+components vary in terms of the design characteristics, strength characteristics, and also the
+
+overall volumes.
+
+When you look at the passenger transport, the requirements are in large numbers, and the
+
+sophistication of the design is high in terms of the tolerances; however, the duty cycles are
+
+not as rigorous as in the off-highway component industry. The brakes or other components
+
+for off-highway vehicles or less in numbers but are expected to be much more durable in
+
+consonance with the nature of the equipment that handles off highways.
+
+This presentation is focused on off-highway vehicles and related components which is brake
+
+systems and that constitute an industry as far as this study is concerned.
+
+(Refer Slide Time: 03:58)
+
+As I said, each of the categories can be further subdivided; even the passenger category can
+
+be subdivided, but it cannot be as extensive in its subdivision as the off-highway vehicles. So,
+
+when you look at the farm equipment within the off-highway vehicle segment, you have
+
+tractors, sprayers, combines, cotton harvesters, field cultivators, cutters and shudders, wheel
+
+tractor scrapers, planters, seeders, plows, balers, binders, sub soilers, harrows, rotary tillers,
+
+loaders, hullers and grain carts.
+
+And what is common amongst all of these is they are all agricultural equipment of different
+
+types and for different kinds of agricultural use and probably also for different types of field
+
+conditions. When you look at construction and mining equipment, they are broadly going to
+
+fall under three classes.
+
+The first is the earth-moving equipment: excavators, graders, loaders, skid loaders, backhoes,
+
+bulldozers, trenches, scrapers, wheel-loading shovels, and underground mining equipment
+
+these all fall under earth-moving equipment. The purpose of these earth-moving equipment is
+
+to take away the earth from the construction sites or non-construction sites, move them and
+
+put them under required usage conditions in other sites.
+
+The second classification is the material handling equipment; these are cranes, crawlers,
+
+off-highway tractors, off-highway trucks,
+
+tankers,
+
+telehandlers, underground mining
+
+equipment and so on. They move very robust, very weighty construction equipment or the
+
+components thereof from one place to another place. These are the material handling
+
+equipment also within the construction site; they undertake the handling of materials from
+
+point A to point B.
+
+Then we have road construction and other infrastructure equipment; these are graders, other
+
+construction equipment, pavers that is which make the road surface very smooth, plate
+
+compactors, rollers,
+
+tunnel boring machines, and so on. Tunnel boring machines are
+
+important in the construction of metro rails and could even be important for the hyperloop
+
+kind of infrastructure development which Elon Musk is proposing.
+
+This data has been sourced from Frost and Sullivan's report on the global off-highway vehicle
+
+industry outlook 2021. What this chart illustrates is that there could be a macro market based
+
+around off-highway vehicles; however, each product line and in some cases even each
+
+product could constitute a micro market, and the development of market structures is
+
+dependent on the product hierarchy that we may encounter in each product cluster.
+
+(Refer Slide Time: 06:57)
+
+So, this firm, Carlisle Brake and Friction, is a specialist in the development of brake items
+
+and frictional items for highway equipment; they also provide hydraulic solutions. This
+
+company is a leading global solutions provider of high-performance and severe duty cycle
+
+brake, clutch, and transmission applications which are suitable for a wide range of markets.
+
+There is a combined R&D and testing capability, there is global manufacturing capability and
+
+as group of subject matter experts. Therefore, the products are in terms of highly engineered
+
+precision braking systems, very durable along with transmission and hydraulic actuation
+
+products.
+
+The company has 80-plus years of experience in the highly demanding off-highway brake
+
+system solutions. It is also a preferred partner with many OEMs in specialty applications such
+
+as energy, military, railways, and aviation. So, two things come out of this one: the overall
+
+focus on the off-highway situation and the kind of customized solutions that are offered for
+
+each product
+
+line, and thirdly, collaborative business development along with domain
+
+organizations as well as individual vehicle organizations.
+
+(Refer Slide Time: 08:23)
+
+So, the off-highway component brakes industry is also subject to the five forces; the threat of
+
+new entrants is generally low because the whole industry is capital-intensive and the volumes
+
+are not too high; therefore, only those companies which can afford a capital-intensive entry,
+
+even for low volumes can sustain themselves with new entries. And those established
+
+companies gain this as their entry barrier against the new competition.
+
+The bargaining power of suppliers, that is the brake offering, is very high because the
+
+volumes are low, and the requirements are special. As far as the threat of substitutes is
+
+concerned, one may see that the overall design profile of the vehicles tends to be standard and
+
+rather unvaried over the years that is there is no great technological obsolescence, or there is
+
+no great rapid technological evolution in the off-highway industry.
+
+Therefore,
+
+the threat of substitutes is rather low, and new technologies come more as
+
+improvements rather than disruptive technologies. The bargaining power of customers is
+
+medium, and the switching costs are very high because spare parts occupy a central place in
+
+the overall operating cost of the half highway vehicle.
+
+As far as rivalry is concerned, R&D dictates the level of rivalry, flexible manufacturing
+
+dictates the level of rivalry, and the proximity to the customer moderates the level of rivalry.
+
+There could be still some kind of new development, such as clean engines off highway
+
+vehicles, but that seems to be on a longer-term horizon.
+
+Because for these kinds of new clean energy options to be successful, high-volume viability
+
+is required, which this industry does not offer in the immediate scale. Already the vehicles
+
+are priced high and if you want
+
+to have low-volume energy efficient or clean energy
+
+alternatives, the prices will only go up further.
+
+(Refer Slide Time: 10:35)
+
+The vision and strategy of the company were as follows; the vision is to be a leading system
+
+solution provider for off-highway specialty vehicles. The vision is very focused, and it is as
+
+good as the off-high specialty vehicle industry moving forward. The mission is to provide
+
+cutting-edge technological solutions to customers.
+
+Strategy focused on extensive R&D with local manufacturing locations to support a global
+
+customer base. Note this:
+
+the company has decided to outsource as well as offshore
+
+manufacturing to support a global customer base and the idea is to be close to the customer
+
+mainly because the equipment is so heavy that it does not make much sense to keep moving
+
+components and vehicles from geography to geography.
+
+The other component which is very important is the R and D strategy; the focus is on
+
+futuristic brake system solutions focus on new material development, which gives value to
+
+the customer and cross-industry applications that is, if one type of brake system is applicable
+
+for more than one type of vehicles in this off-highway application then that would be
+
+synergistic in terms of the R and D strategy.
+
+Manufacturing is in terms of modern and asset-light manufacturing locations close to
+
+customer region by region and the marketing strategy is to co-create with customers the kind
+
+of earth-moving equipment or the off-highway equipment that are required, and generally the
+
+solution is not in terms of vehicle but in terms of system level solution.
+
+A coal mine may require different kinds of tractive power and different kinds of mobility
+
+parameters compared to iron-ore equipment or road construction equipment. The marketing
+
+strategy has to be customized to each application.
+
+(Refer Slide Time: 12:32)
+
+In this situation, strategic marketing plays a very big role at the component level; master
+
+cylinders and friction packs are the ones which are positioned as the key differentiators. At
+
+the assembly level, actuators and follower cylinders, as well as clutch assemblies, are
+
+positioned.
+
+At the system level the type of brake system, whether it is the wet brake system or the
+
+hydraulic system, is positioned and at the solution level, pedal to wheel or a full system with
+
+ABS ASR are positioned. This indicates that marketing and business development in this
+
+industry is not just marketing as commonly understood in an FMCG industry or a consumer
+
+electronics industry.
+
+It is much more techno-economic in terms of conveying the technical features and getting the
+
+buying. If a company has increased content per vehicle and it provides full ownership of the
+
+brake system, then it automatically leads to less number of suppliers for the OEMs and the
+
+OEMs also prefer one-stop solution.
+
+Therefore, in this focused area to be as comprehensive as possible in terms of technology and
+
+cost competitiveness would drive business development.
+
+(Refer Slide Time: 13:49)
+
+Let us go to the semiconductor process control solution again. This is an IIT Madras DoMS
+
+project; student credits are Muki V. S. Nithya Ramamoorthy and Srinivas Kanala.
+
+Information is again sourced from the publicly available website information.
+
+(Refer Slide Time: 14:08)
+
+As we know the, computing devices are multifarious today: personal computers, portable
+
+computers, LCD screens, cellular phones, smartphones, tablet computers, smart watches,
+
+hybrid car or some of the devices or equipment which require semiconductors. But in terms
+
+of the operation of certain accessories as well, semiconductors are required for the OLED
+
+screen, autonomous car, flexible screens, virtual reality, cloud, space exploration, robotics,
+
+and AI.
+
+What is to be noted is the semiconductor, or the chip is the heart of any computing device as
+
+well as the connectivity with the accessories and the connectivity of this system with the
+
+storage facilities, either server-based or remote cloud-based. In such a situation, we can
+
+understand the ubiquitous nature of the semiconductor industry; it is there in every product, it
+
+is going to be there in every household product, even to a greater degree.
+
+Sensor systems also require semiconductors to operate; the goal of a semiconductor industry
+
+in this context
+
+is to manufacture at very high volumes: smaller, cheaper, and faster
+
+semiconductors and this strategy is required to facilitate more streamlined, more powerful,
+
+and more affordable technology products.
+
+We have seen during the COVID times that there has been a significant shift towards
+
+computing devices,
+
+telecommunication devices, and sensors, as a result of which the
+
+semiconductors which traditionally used to go to vehicles have faced a serious supply
+
+roadblock and this has, in turn, affected the output of those kinds of products.
+
+Semiconductors may be one item in terms of the overall technical characteristic or the design
+
+feature but
+
+in terms of how a semiconductor powers different products and therefore,
+
+different
+
+industries are really multifarious. We need to understand this positioning of
+
+semiconductor technology to appreciate better how business development for semiconductors
+
+could take place.
+
+(Refer Slide Time: 16:38)
+
+KLA Tensor Corporation is a provider of process control and yield management solutions for
+
+semiconductors and related non-electronics industries. They develop and manufacture
+
+process control and process-enabling solutions that accelerate electronic devices. Here we are
+
+not talking about the chip per se if a chip has to be done.
+
+We require the foundry for the chip, we require the manufacture of the chip and finally, the
+
+coding of the chip. There are several instruments which are involved in this process defect
+
+inspectors, nanoindenters, optical profilers, sheet resistance mappers, stylus profilers, and
+
+thin film reflectometers. So, this is very sophisticated technology in terms of design and
+
+manufacturing.
+
+(Refer Slide Time: 17:27)
+
+So, in this, the strategy of the firm has to be accordingly developed; semiconductors being a
+
+highly competitive industry,
+
+the business strategy must aim at minimum cost
+
+through
+
+industry-leading, efficiency and automation. The corporate strategy that is the next higher
+
+level of strategy must look at 'zero uncertainty' in the minds of customers and the customers
+
+are the businesses which deal with computers which deal with automobiles through consistent
+
+on-time delivery of the highest quality product. And the highest-level conglomerate strategy
+
+is one of acquiring as many companies as possible to ensure that the companies cover a large
+
+market across all types of automation like solar, nanotechnology, etcetera.
+
+We have seen earlier that the semiconductor by name could be one, but the applications it
+
+powers are several, and each of the chips that powers each of these special applications would
+
+in itself be special; therefore, there are companies which are specialize in different types of
+
+chips for different types of industries.
+
+Here the business development approach comes up as one of acquiring companies to be able
+
+to broad base the product and manufacturing capability across the various industrial verticals.
+
+The corporate strategy is in terms of the R&D focus, operational excellence and global
+
+collaborations; only when all these three are combined the strategy of a semiconductor firm
+
+can be comprehensive and fruitful.
+
+(Refer Slide Time: 19:13)
+
+So, what are the demand types that are experienced by the semiconductor industry? The types
+
+of demand have been mentioned by me in an earlier lecture, from something as negative
+
+demand to something as over full demand I have mentioned. So, as far as the semiconductor
+
+industry is concerned, it is encountering or it is facing a full demand situation, the industry
+
+demand for semiconductors is only going to continue to improve.
+
+And the customers' R&D investments and leading-edge product developments are only
+
+increasing. There are strong growth drivers for semiconductors from the digitization of more
+
+industries and related end-market products; every interface in fact, can have a semiconductor
+
+going forward.
+
+Every agricultural action, every mechanical action, and every service action would have
+
+semiconductors in their activity platforms. Some of the emerging markets for semiconductors
+
+are electrification of automobiles, automation of automobiles, rising data centers, 5G
+
+infrastructure setup, digital healthcare, work from home, virtual
+
+learning, digital
+
+entertainment, etcetera.
+
+There are also emerging technologies in robotics, virtual reality, etcetera which will demand
+
+high use of semiconductors, gamification, or the use of games in mainstream industries or the
+
+educational and learning industries is going to give a further Philip to the use of
+
+semiconductors in such industries.
+
+(Refer Slide Time: 20:57)
+
+We have seen earlier the new age marketing mix, which I referred to these are the additional
+
+4Vs; we need to have not only the 4Ps which we talked about earlier in terms of product,
+
+place, promotion, and pricing. We need to have these 4 Vs validated experiences in the case
+
+of this company. It was founded in 1976, along with the growing use of chips, and it has
+
+grown over the past several years as a global leader in the electronics value chain.
+
+Second, velocity: is it going to be a single product, single country company or it is going to
+
+be multi-product, multi-country company? The velocity of growth has been very high and the
+
+company being present in 16 countries across multiple product lines illustrates that. Then the
+
+third one is the vendors' responsibility; process control itself is for reducing the defects at the
+
+end of the production cycle. This semiconductor is known for the quality of the process
+
+control.
+
+And the value over lifetime depends on the kind of applications for which the semiconductor
+
+can be used, and this could include the adoption of artificial intelligence and machine
+
+learning, precision, higher yields, improved time-to-market and reduced customers cost of
+
+ownership.
+
+So, these are the 4Vs that are relevant for a technology-oriented company such as the
+
+company we are discussing in the field of semiconductors.
+
+(Refer Slide Time: 22:32)
+
+So, how do we develop marketing strategies and plans for such a company? Marketing as we
+
+know, derives its strengths from its basic concept of marketing, that is, position a product
+
+where demand is there or create demand where the product is available through appropriate
+
+communication and achieve holistic business management.
+
+There are four aspects of marketing which even a semiconductor company needs to do
+
+relationship marketing particularly because all the customers or big businesses and big
+
+industries. Second, integrated marketing because it is not just selling it is techno-economic
+
+selling and marketing that is involved in marketing semiconductors.
+
+Third is internal marketing because right from the raw material sourcing to the making of the
+
+final chip and the delivery, the entire organization has to be aligned with the rigor that the end
+
+user industry expects from the semiconductors. And the fourth is the performance marketing,
+
+the performance of the marketing division by itself and also marketing leveraging the high
+
+performance of the semiconductors for marketing the products.
+
+So, how do we achieve the right mix in such a situation? We need to have customer product
+
+profitability analysis; you need to have SWOT analysis, and you need to have opportunity
+
+and threat matrix.
+
+(Refer Slide Time: 24:03)
+
+How do we develop business strategies and business development strategies and plans for
+
+those kinds of products? In 2006, KLA Tencor was looking forward to being the world's
+
+leading inspection and measurement company. Marketing efforts focused on building
+
+long-term relationships with the customers.
+
+This is extracted from their website as the five pillars of the core strategy. When you relate it
+
+to any industry you will find that there is going to be some similarity in some areas, but the
+
+technical nature is very prominent in this kind of industry. The first is to strengthen customer
+
+trust and how do you do that to enhance operational excellence capabilities and by improving
+
+the cost of ownership and delivering the future nodes for the customers.
+
+Customers can believe that there will be continuous upgradation of the semiconductors, and
+
+they will be effectively utilized for their new generation products. Second holistic lithography
+
+and application that
+
+is strengthen the leadership position of the company in in device
+
+metrology; metrology means measurement sophisticated measurement is called metrology,
+
+enabling high-order orderly correction.
+
+Securing a winning position in pattern fidelity control and combining it with superior
+
+computational lithography, lithography is the core of the preparation of the semiconductor.
+
+Then, DUV's competitiveness continues the innovation leadership driving DUV to the
+
+highest
+
+level of performance by expanding the installed base and through continuous
+
+improvement and operational excellence.
+
+Then the EUV industrialization secures high-volume manufacturing and improves cost
+
+effectiveness for our customers by enhancing the value of EUV technology for future nodes
+
+down to the 2-nanometer logic node. High-NA enables next-generation geometric shrink by
+
+extending the 0.33 NA product portfolio to enable high NA EUV at the 2-nanometer logic
+
+node followed by memory nodes at comparable density.
+
+I am deliberately not explaining or expanding these abbreviations because I want you to get a
+
+dip into the technology and the technical nature of business development in companies such
+
+as these. I would request you to refer through Google to these terms and try to get an
+
+appreciation of what this means in terms of the overall semiconductor industry.
+
+The key point, therefore, is that technological developments across the entire value chain
+
+provided strength to business development in this case. The company conducts market
+
+service with consideration of the entire Tokyo Electron Group, proposing marketing
+
+strategies that lead to the development of new business which is corporate marketing and
+
+product marketing which is specific to the products being developed by the Tokyo Electronic
+
+Group.
+
+So, you can see that this company is part of a group, and it is a part of the conglomerate
+
+called Tokyo Electron Group.
+
+(Refer Slide Time: 27:16)
+
+So, when you are wanting to develop these marketing strategies, you got to focus on six
+
+foundations one you need technology innovation, you need a creative business strategy
+
+because the business strategy must be based on the evolution of the end product industries.
+
+You need to have a unique business model which takes into account the capital intensity of
+
+this type of product and the high-volume nature of the end product demand; you are required
+
+to have operational excellence for high throughput as also for high assurance to the customer
+
+that the supply chain will meet the demand requirements of the customers.
+
+A high degree of customer connect
+
+is required because the semiconductor has to be
+
+tailor-made to the end product, and end product has to utilize the full potential of the
+
+semiconductor and quality focus needs no mention at all. So, it is the technology that is at the
+
+core of the marketing strategy or business development strategy for this kind of company.
+
+(Refer Slide Time: 28:23)
+
+So, how does sustainable corporate growth come? It comes through product innovation plus
+
+operational excellence plus strategic creativity;
+
+these three together provide sustainable
+
+business growth for a company such as this because of this focus on technology because of
+
+this focus on eliminating defects through deep learning technology, ensuring higher
+
+sensitivity, lower nuisance rates and more accurate binning the group has been able to earn a
+
+higher level of awards.
+
+In 2020, Tokyo Electron and Intel's 2020 Supplier Continuous Quality Improvement SCQI
+
+Award, BAE Systems honors Analog Devices with a Supplier of the Year Award. So, this is
+
+part of the semiconductor ecosystem in terms of the process control solutions which help the
+
+chip manufacturers develop their chips and manufacture their chips.
+
+(Refer Slide Time: 29:26)
+
+So, there could be material issues in any industry, and it is the strategy of the company that
+
+needs to understand the material issues and then eliminate them as we go forward in our
+
+business strategy. There are two dimensions to the material issues, one importance to the
+
+business and importance to society.
+
+In the case of this particular Tokyo group, there are five types of material issues: the first is
+
+product competitiveness, second is responsiveness to customers, third is higher productivity,
+
+the fourth is people and workplaces and the fifth is management foundation. You will
+
+understand or appreciate from these material issues that a company has to be on top of these
+
+material issues and make sure that they do not act as roadblocks in terms of developing the
+
+business further.
+
+In each of these material issues, there will be medium-term goals and there will be priority
+
+themes. In respect of product competitiveness, the medium-term goal is one of creating a
+
+strong next-generation product lineup and the priority themes are technological innovation
+
+and the environmental sensitivity of product specification as well as the manufacturing
+
+process.
+
+The second material issue relates to responsiveness to customers; you have to be the best and
+
+sole strategic partner which means you need to create solutions that create value for
+
+customers, and you need to improve customer satisfaction. The third is higher productivity,
+
+constantly pursue higher management efficacy which means you need to have continuous
+
+improvement or kaizen in the business operations.
+
+You need to have high level of quality management and you have to aim at continuous
+
+improvements in customer productivity yield. It is not only your yield in your factory, but
+
+you have to ensure yield improvement in the customer's factories. People and workplaces
+
+maximize the dreams and drive of people; you should have diversity and inclusion, you
+
+should assure career development.
+
+You should enable work-life balance and you should protect the health and safety of the
+
+employees. And in terms of the management foundation, you need to build a management
+
+foundation for increasing value that covers governance, risk management, compliance,
+
+environmental management, and supply chain management.
+
+You will notice from this that while two of the material issues are entirely technical and
+
+customer-centric, one issue is internally oriented in terms of higher operational excellence
+
+and higher productivity, two or in terms of the higher order, ESG concerns, environmental
+
+empathy, social responsibility, and corporate governance.
+
+So, these five material issues covering technology, covering customer centricity, covering
+
+people and organization as well as the guiding principles of management, dictate even in a
+
+highly technology-intensive industry, the path forward that could be adopted by any company
+
+in any industry.
+
+(Refer Slide Time: 32:43)
+
+So, how would the industry structure look like in this kind of electronics value chain? The
+
+industry starts with the wafers and reticles; these combine to form the chips, then you have
+
+wafer-level packaging, and then they become components and the components become either
+
+printed circuit boards and IC substrates or they become flat panel displays.
+
+And the end products are automotive vehicles, connected devices such as laptops, watches,
+
+smart speakers, VRAR, security cameras, smart everything or anything, mobile devices such
+
+as phones, 5G infrastructure, towers, data-based products such as data servers, and data
+
+centers cloud.
+
+What you will see from here is that in each of these product and sub-product categories, we
+
+have got companies which are world leaders in their own right; whether it is the Intel, Sony,
+
+Samsung, BPIL, Toshiba, Hoya, Valka, you will find that every name you can relate to in
+
+terms of technological leadership in end products is involved with this company.
+
+So, the business units are in terms of global service support, semiconductor process control,
+
+and electronics packaging and components. The company is able to offer these three types of
+
+services through each of the three business units. So, it can be a player in the global
+
+electronics value chain which is of the highest sophistication.
+
+(Refer Slide Time: 34:23)
+
+So, how do you analyze this kind of company? When have you pioneered? How many
+
+locations do you have globally? What is the kind of worldwide force you have? What is the R
+
+and D spent over the last 4 years or 5 years? What are the pro forma revenues, and what is the
+
+kind of global entries?
+
+So, when you look at the model of this company, it serves as a role model for any company
+
+which would like to operate in the technology industry. Highly differentiated products in
+
+value, thus demanding higher gross margin, continuous and conscious engagement with
+
+customers to understand and support current and future needs in an area where technology is
+
+changing very rapidly, and end products are multiplying by the dozens each year.
+
+Focus on operational efficiency, which includes operational flexibility to meet the evolving
+
+needs, reliable supply chain,
+
+innovation through R&D, expanding to adjacent markets
+
+through acquisitions, and talent retention and growth through employee benefits.
+
+So, what are the primers of entry into this kind of industry? If somebody has new proprietary
+
+technologies, those companies can enter, and this company, with its rapid technological
+
+evolution, offers that particular and perfect entry spot for highly technologically capable
+
+companies.
+
+Second the incumbents could face obsolescence of their technologies not because they may
+
+not know the importance of technology, but because they are loath to invest further rounds of
+
+capital
+
+investment
+
+to continuously upgrade the technologies. So, the technology of the
+
+incumbents could may could become obsolete.
+
+And the third one is the diversified domains of the entrants. So, someone who is already in
+
+the electronic products industry could come into the chip industry and from the chip industry,
+
+they can get it to the wafer industry and from the wafer industry to a participate in the entire
+
+value chain through the wafer connectivity and process controls.
+
+The entry barriers could be proven technology-based precision equipment
+
+trust with
+
+customers developed across global partnerships. So, chip is an industry where product and
+
+manufacturing are irretrievably interconnected; the quality of one determines the quality of
+
+the other.
+
+The specification of the product, which is the chip or the wafer, determines the sophistication
+
+of the manufacturing equipment as well as the manufacturing process control. So, company
+
+analysis again has to be detailed, technical, and to the spot.
+
+(Refer Slide Time: 37:07)
+
+The competitor landscape is not easy either big companies such as Applied Materials, Lam
+
+Research, TEL being the company which we are considering analog devices, Samsung
+
+Electro-Mechanics, Hermes Micro Vision or the competitors to the TEL which we are we
+
+have considered in this lecture.
+
+(Refer Slide Time: 37:27)
+
+The competitive advantage for a company arises from cost
+
+leadership;
+
+technological
+
+leadership is taken for granted it has to be there for the company to even survive in the
+
+industry. Differentiation is necessary in terms of developing chips for various customer
+
+needs, you got to be known as high-quality producer of these products.
+
+So, the cost leadership is the one which is going to provide the competitive edge, lean design
+
+product, scale efficient production, cost control, self-inspection, and elimination of marginal
+
+accounts could be the cost leadership strategies of their company which is in this field.
+
+(Refer Slide Time: 38:10)
+
+Understanding and connecting with customers in a horizontal manner is important, for the
+
+process control segment in the semiconductor industry. Customers are manufacturers, that is,
+
+the business customers. KLA instruments have tools that cater to both fabs and labs. The
+
+company serves a wide range of customers, including academic research labs, industrial
+
+manufacturers, and semi and compound semi-industry.
+
+Customers are supported with service, and they are also supported with development and
+
+manufacturing and the bridge entities to make this happen or the service infrastructure, global
+
+sales infrastructure, overseas subsidiaries and sales management, and accounting systems.
+
+How do you do the brand planning? You have to position your product as a niche solution to
+
+cater to the business needs of the manufacturer and you need to consistently brand yourself to
+
+the next higher level.
+
+(Refer Slide Time: 39:00)
+
+By unifying sales and marketing efforts, semiconductor companies can emphasize revenue
+
+generation throughout the sales funnel, from lead generation to purchasing and beyond, and
+
+they could provide support and meet customer needs after sales.
+
+Strategic marketing or business development for semiconductor technology includes the
+
+following: 1, outbound marketing programs alerting potential customers to futuristic products
+
+and services that the company provides. How they are superior to the competition, and how
+
+they uniquely meet the customers' needs.
+
+The second is the inbound marketing program that is responding to customers who reach out
+
+to the semiconductor manufacturer for products or solutions to their pain points sales support
+
+programs in terms of tracking sales leads. Provide quotes and organize sales packs, providing
+
+sales teams with the information needed to convince customers to buy.
+
+And finally, product line support programs provide product information to the sales team and
+
+prospective customers while supporting post-sale life management and alerting customers to
+
+new parts, patches, and replacement products. With this, we come to the end of this lecture,
+
+but you have would have noted from these two examples as to how macro markets become
+
+micro markets, and the nature of the markets is very much dependent on the nature of the
+
+products.
+
+The products considered here the semiconductor process control systems and equipment as
+
+well as the off-highway brake equipment or nothing similar to the ones which I have
+
+discussed so far, whether they are the FMCG products or automobile products, oil and gas
+
+products and multiple industries of various types such as regenerative medicine or artificial
+
+intelligence etcetera.
+
+These are highly technical and highly specialized activities, which we call industries based on
+
+the products. One is low volume but high technology and high capital intensity; the other is
+
+of high volume and high technology and high capital intensity; what is common between the
+
+two high technology and high capital intensity?
+
+One of the lessons that we get is that irrespective of the nature of the industry and its
+
+specialization in these days high technology and high capital intensity are the order of the
+
+day. We need to have business strategies which enable competitive advantage and
+
+competitive efficiency even at low volumes and high capital intensities, which makes it easier
+
+to have viability at high volumes as well as with high technology and high capital intensity.
+
+And business development strategies also have to follow this principle and position the
+
+products as perfect techno-economic products and conduct these business development and
+
+strategic processes as techno-academic marketing and business development process.
+
+Thank you; I look forward to seeing you in the next lecture.
+
+
