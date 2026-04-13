@@ -1,0 +1,1195 @@
+Business Development: From Start to Scale
+Prof. C Bhaktavatsala Rao
+Department of Management Studies
+Indian Institute of Technology Madras
+
+Week - 04
+Market and Competitor Analysis
+Lecture - 17
+Industry and Market Analysis
+
+Hi friends, welcome to the NPTEL course Business Development: From Start to Scale; we
+
+are in week 4 with the theme of Market and Competitor Analysis. In this lecture, the 17th in
+
+the series, we discuss the topic of Industry and Market Analysis.
+
+(Refer Slide Time: 00:27)
+
+This is a case study of the specialty chemicals industry that has been conducted as part of the
+
+MBA coursework in the Department of Management Studies Indian Institute of Technology,
+
+Madras.
+
+(Refer Slide Time: 00:42)
+
+Conducting the study of an industry is both an art and a science. It is an art because each
+
+industry will have its special characteristics; it is special nuances which will be known to
+
+only those who are steep into the industrial environment. However, it is also a science
+
+because industry has its metrics, industry has its structural features that can be metricized and
+
+based on that we can understand the structure of the industry.
+
+So, let us take the example of specialty chemicals industry which is one of the potentially
+
+growing industries in India. Specialty chemicals are the ones that are used based on their
+
+performance and function, the effect chemicals or formulation chemicals entail, the specialty
+
+chemicals market accounts for about 22 percent of the total chemicals and petrochemicals
+
+industry in India.
+
+This market is forecast to grow at a compounded annual growth rate CAGR of around 16
+
+percent over the next few years. The industry caters to demand from different end-user
+
+industries such as food processing, textile, automotive, paints and coatings, real estate,
+
+agriculture, and home and personal care.
+
+India ranks 14th in the exports and 8th in the imports of chemicals worldwide; currently,
+
+China is the leading manufacturer and exporter of the specialty chemicals.
+
+(Refer Slide Time: 02:21)
+
+What is the Specialty Chemical? There are 2 types of chemicals: one is the Base Commodity
+
+chemical, and the second is the Specialty Chemical. The difference between the 2 arises from
+
+the kind of customization that happens and the kind of company capabilities that are required
+
+to customize the product.
+
+So,
+
+there are factors of differentiation primarily 6; the first is the Product variety, the
+
+commodity chemicals are standardized products, and they are applicable for a whole lot of
+
+industries on the other hand specialty chemicals are customized products, for example, for the
+
+paint industry, for the pharmaceutical industry and so on.
+
+There is a base for differentiation in any industry in the case of several industries, we have
+
+seen that the base for differentiation varies from product specifications to pricing power to
+
+niche positioning and customer service various other parameters. In the case of base
+
+commodity chemicals as the word suggests, the base for differentiation is in terms of pricing,
+
+whereas in the case of specialty chemicals it is the R&D capability of the company together
+
+with the quality consistency that supports specialty chemicals. Market structure and
+
+commodity industry draw in large number of players for the reasons that technology is
+
+commoditized B barriers to entry are lowered and 3 there would be opportunities for entrants
+
+to come in at different levels of production.
+
+The market is already established for base commodity chemicals. For specialty chemicals the
+
+competition is limited, but at the same time to enter that market it requires greater capabilities
+
+on the part of the firm. As far as the switching cost is concerned, one can alter from one
+
+commodity chemical to another commodity chemical.
+
+Customers generally prefer low-cost suppliers because of the standardized products. In
+
+specialty chemicals, the switching costs are moderate one I would not say that one cannot
+
+switch one specialty chemical to the other or one manufactured to the other. However, the
+
+switching costs are moderate and there is a long approval process to get a specialty chemical
+
+listed as a vendor.
+
+Whether it is in Indian company or whether it is a US company the core growth driver for
+
+commodity chemicals is the cost leadership. Whereas the core driver for specialty chemicals
+
+is the innovation-driven high R&D economies of scale will have strong influence in the
+
+viability of the commodity chemicals business.
+
+Because the products are standardized the product is amenable to higher economies of scale,
+
+but with low margins. Whereas, in the specialty chemicals, the benefit of the scale is limited
+
+because the portfolio by definition,
+
+is of high variety and low volume. So this is the
+
+characteristic of the specialty chemical industry.
+
+Whenever you look at any product, you will get this kind of classification, let us look at an
+
+innovative form of molecule and a generic form of molecule. An innovative form of molecule
+
+would be highly customized towards the disease pathway, and there will be one at best
+
+another 5, 6 all developed by big pharma under patented monopoly.
+
+On the other hand, the generic molecule would be a standardized product which is already
+
+developed to a product which has been approved and has been in the market for the
+
+monopoly period and is now patent protection. The basis for differentiation in respect of the
+
+specialty pharmaceutical is in terms of the R and D innovation, the creativity and it is
+
+uniqueness in addressing the disease pathway, whereas the base for differentiation for
+
+commodity pharmaceuticals or generic pharmaceuticals is nothing but pricing. The market
+
+structure for big pharma is in terms of fewer players offering customized,
+
+innovative
+
+products. Whereas
+
+the market structure for commodity pharmaceuticals or generic
+
+pharmaceuticals is characterized by a large number of players.
+
+The generic pharmaceuticals business is characterized by low switching costs;
+
+the
+
+prescription is only in terms of the generic name therefore people can switch from one kind
+
+of manufacturer to another kind of manufacturer. On the other hand, in big pharma, switching
+
+costs are very high because there are no alternatives available. In fact, switching itself is
+
+prohibited in the case of certain products.
+
+The core growth driver for specialty pharmaceuticals is innovation and clinical capability.
+
+Whereas, in the case of commodity pharmaceuticals it is the cost leadership and the ability to
+
+maintain quality at
+
+low costs. Economy scale is very important
+
+for commodity
+
+pharmaceuticals. They are standardized; therefore high level of production can take place and
+
+any generic market explodes after the patent protection expires.
+
+As far as the specialty pharmaceuticals or the innovative pharmaceuticals is concerned, the
+
+benefit is limited because there will be fewer companies operating in the market and the
+
+portfolio is not as broad as in the case of pharmaceuticals that is in the generic career. And
+
+this differentiation can be applied between a light commercial vehicle and a medium
+
+commercial vehicle and between a 2-wheeler and passenger car.
+
+Or one type of passenger car and the other type of passenger car and so on. It can be applied
+
+in respect of a branded product such as a Mercedes Benz car and done relatively less branded
+
+product such as a car which is obtaining in the market such as Skoda. So, the differences have
+
+to be appreciated and adroitly apply to different customer groups.
+
+(Refer Slide Time: 08:29)
+
+When you look at the specialty chemical industry, 70 percent of the market is organized and
+
+why is it organized? Because of the very special nature of the chemical and also the
+
+regulatory pathway involved in approving a product also the environmental and safety
+
+concerns required that the products are manufactured with certain base level of capability and
+
+environmental compliance, 30 percent of the market is in the unorganized sector.
+
+There are players in different sectors which require specialty chemicals, agrochemicals, dyes
+
+and pigments, polymer additives, F and F base ingredients, F and F functional ingredients
+
+both relating to the food industry, construction chemicals, nutraceutical
+
+ingredients,
+
+surfactants, water chemicals, personal care ingredients all of these are reflective of the
+
+specialty chemical end usage there are several players whose turnover is more than 5 billion
+
+rupees.
+
+When you look at the global production and global sale of specialty chemicals, you will note
+
+that China is the dominant manufacturer, and North America comes very close China has 25
+
+percent market share and North America has 24 percent market share; Western Europe comes
+
+the third at 17 percent.
+
+So, together 66 percent of the market is catered to by the developed world and China if you
+
+add Japan the developed world has got even higher share. India is at a low 3 percent and that
+
+is why there is so much potential for the development of a specialty chemical industry that is
+
+organized in a proper manner.
+
+And in terms of the segment share for the specialty chemicals agrochemicals is the largest
+
+usage segment that is followed by dyes and pigments. And then we have base ingredients
+
+textiles, surfactants in the 6 percent above area and functional ingredients textiles, polymers
+
+those are all other important activities which are connected with specialty chemicals.
+
+(Refer Slide Time: 10:49)
+
+The industry structure in terms of the major players is shown in this slide; there are
+
+companies which are world-scale in the Indian specialty chemical industry: Atul Industries,
+
+Vinati Organics Limited, Deepak Nitrate, Aarti Industries, Balaji Amines Limited, Bodal
+
+Chemicals, Sudarshan Chemical Industries we covered.
+
+The case studies earlier Galaxy Surfactants Pidilite these are all companies which have got
+
+specialization in specialty chemicals. BASF is a company which has German-based and it has
+
+got leadership position globally, SRF is another specialty chemical company which has taken
+
+a strong position in the Indian specialty chemical industry.
+
+(Refer Slide Time: 11:29)
+
+So,
+
+the reasons for their dominance are discussed here. Aarti Industries worldwide, 75
+
+percent of the portfolio is ranked in the range of first to the 4th position, covering a market
+
+share of 25 to 40 percent in each case. And the competitive advantage for specialty chemical
+
+industry players comes from their specialization in chemistry.
+
+This company or the industries is ranked 3rd in chlorination, 4th in nitration, and second in
+
+ammonolysis and hydrogenation. SRF occupies more than 50 percent market share in
+
+domestic refrigerant market, Vinati Organics has 65 percent of the global market in isobutyl
+
+benzene and ATBS while isobutylene it has 70 percent of the market share, all because of the
+
+scale and the manufacturing process specialization.
+
+Sudarshan Chemical is ranked 4th worldwide in pigment manufacturing; Atul Limited is
+
+focused on aromatic products 95 percent market share in p-AAI and 75 percent market share
+
+in p-AA. And these products are used in the healthcare food industry and sanitizers. Deepak
+
+Nitrite is engaged in industrial intermediates. It holds a good global market share of around
+
+60 percent D.A.S.D.A which is used in the manufacture of dyestuffs and optical whitening
+
+agents.
+
+Then we have Navin Fluorine International Limited, which is engaged in the manufacture of
+
+fluorine and attains a market share of 35 percent in fluorochemicals. The fluorochemical
+
+chemistry that
+
+is the specialty of Navin Fluorine has the title itself indicates. Galaxy
+
+surfactant has got a range which has very high customer base.
+
+It has a customer base of 1750 plus which includes most tooth plays players and chemical
+
+product players such as Colgate, Dabur, Loreal etcetera and it is spread over 80 plus countries
+
+has a 15 percent global market share in phenoxyethanol, which is used in the manufacture of
+
+soaps and perfumes.
+
+(Refer Slide Time: 13:38)
+
+There are many chemical types as I said Construction Chemicals is one of the chemical types,
+
+as you can see from this chart, construction chemicals themselves or in terms of different
+
+categories. We have chemicals which go into the concrete admixture, chemicals which help
+
+us in repair and rehabilitation. You would have seen advertisements saying that application of
+
+this chemical will reduce or remove water seepage.
+
+Then you have protective coatings what you apply on the steel structures, mild steel
+
+structures and various other structures where which need rust protection or decoration then
+
+you have adhesives PI industries products are all adhesives, and Pidilite industry products are
+
+also in the range of specialty chemicals providing several of these kinds of products.
+
+Waterproofing is an important application of construction chemicals; waterproofing is done
+
+before the final cementing of the terrace is done through tiles, then you have industrial
+
+flooring particularly. The factory floors which have epoxy coatings when you look at the
+
+turnover the growth is expected to be in several segments; concrete admixture is likely to
+
+have 2 X growth.
+
+Similarly, waterproofing would have 2 X growth. In fact, the number of segments which are
+
+going to have 1.5 to 2 X growth is indeed large repair and rehabilitation, protective coatings,
+
+industrial flooring, waterproofing, adhesives are all likely to have 1.5 to 2 times the growth.
+
+Sealants are also extremely important although their turnover may not be as high.
+
+So, the message which comes from this chart is that every segment of the specialty chemical
+
+industry does offer its own scope. Therefore, understanding of the structure at the overall
+
+specialty chemical industry level as also at the sub-industry level is important for strategies.
+
+(Refer Slide Time: 15:47)
+
+Let us look at the market size of the specialty chemical industry in terms of the segments of
+
+the various constituents in terms of the size of the market agrochemicals lead the field. It has
+
+got a 9-billion-dollar market size with a CAGR of 12 percent that is forecast, and are there
+
+entry barriers? Yes, they are high is it required to be specialized in terms of product portfolio
+
+medium.
+
+The presence of scaled-up Indian manufacturers there are many companies which are
+
+specializing in agrochemicals. In fact, which is the first category of specialty chemicals that
+
+has taken off in India, then is that growth potential in the end market certainly, yes. Is this
+
+attractive again as the full black circle indicates it is fully attractive?
+
+When you look at the F&F and Nutraceutical segments, the market size is not as high as the
+
+agrochemicals, but the growth rates are high. The potential to enter this market is challenging
+
+because of the nature of the end products which require the highest level of purity and human
+
+safety, but the overall attractiveness is high.
+
+When you look at the dyes and pigments segment, you will find that the market size is pretty
+
+attractive at 7 billion dollars, but the growth rate is not as high as what exists for the F and F
+
+and neutral segments. The entry barriers are medium product specialization, the medium
+
+presence of scaled-up players is very high, and end market growth potential is medium. Yet
+
+because of the share market size, its attractiveness is high.
+
+Personal care chemicals are the ones which are going into the perfume's ingredients, lipsticks,
+
+balms, and so many other things. It is a growing market 15 percent is the forecast CAGR.
+
+Where the entry barriers are high, so are the product specialization barriers. The presence of
+
+scaled-up Indian players is pretty low, and the end market growth potential is high it is also
+
+an attractive industry to operate in.
+
+Surfactants is a product which goes into toothpaste and other hygiene products; market size is
+
+relatively better than personal care chemicals, but much lower than the agrochemicals at 2
+
+billion dollars. The growth rate is poised to pick up in the years to come, entry barriers are of
+
+medium scale and product specialization is also of medium scale.
+
+There are not many companies present in India in this segment, and the end market growth
+
+potential is also as per the growth potential of the segment. Therefore, is it fully attractive?
+
+Not really, but at least 75 percent of it is attractive. When you look at textile chemicals it is
+
+again a medium-sized market with reasonably high growth of 11.5 percent with different
+
+characteristics in the industry structure.
+
+Construction chemicals is another high-growth market, but low volume base. It has got high
+
+entry barriers and high-end market growth potential, but has an opportunity to enter because
+
+not many companies are present in this industry. Polymer additives is another specialized area
+
+which has a market size of 1.3 billion dollars and a growth rate of 10 percent. It has got its
+
+own varying entry barriers etcetera.
+
+It is not as attractive as the rest of the chemical industry constituents. Water chemicals, again,
+
+is 75 percent attractive because although the volume base is low or the revenue base is low, it
+
+has got high growth potential, it has high entry barriers, it has attractive because not many
+
+players are present in this segment, and market growth potential is also high.
+
+So, when you characterize a particular industry, and it is segmented on the basis of key
+
+factors of structural strength entry barriers, product specialization, presence of scaled-up,
+
+Indian players, end market growth potential, you can understand which industrial segment is
+
+appropriate for entry and that decision is also subject to the kind of technological and
+
+intensive capability and investment capability that you have.
+
+So, when you look at the overall Indian specialty chemical industry, it has been consistently
+
+growing, and it can be expected to be doubling every 6 years or so. And within that the
+
+construction chemical industry is also following a similar pattern of doubling every 6 years or
+
+so.
+
+(Refer Slide Time: 20:32)
+
+So, what is the spread of the Indian specialty chemical industry? The specialty chemicals do
+
+not happen by themselves;
+
+they require other building blocks, which come from
+
+petrochemical building blocks, petrochemical
+
+industrial
+
+intermediates, bulk chemicals
+
+organic and inorganic.
+
+So, if you want to look at the entire value chain from the beginning of the petro product
+
+manufactured to the specialty chemicals delivery, you will find that the petrochemical
+
+building blocks are the ones where we have self-sufficiency. In the case of intermediates, we
+
+are a net importer getting several of the intermediates from China.
+
+When you look at the bulk chemicals, organic and inorganic, here again China scores high in
+
+terms of the exports to India and in terms of the specialty chemicals; despite the import
+
+dependence on China, we are able to export our finished specialty chemicals. The situation is
+
+the same in respect of pharmaceuticals as well. We are dependent on China for a number of
+
+APIS and a number of intermediates.
+
+Yet, we are able to have export of formulations to a much greater level than China has been
+
+able to get. The trade balance of these classifications of the value chain is demonstrated here;
+
+you have building blocks at a positive trade balance, specialty chemicals at the positive trade
+
+balance, but intermediates and bulk chemicals being at the negative trade balance.
+
+So, the key characteristics of the Indian specialty chemicals industry or in terms of strong
+
+export presence. Strong growth potential in the domestic market, lower focus on R&D
+
+activities,
+
+the emergence of business focusing on sustainable chemistry. Sustainable
+
+chemistry is one of the very intrinsic and essential features of the specialty chemical industry.
+
+Whoever is able to provide green chemistry or sustainable chemistry is likely to find favor
+
+with global buyers. When you look at the dispersion of the industry, you will find that the
+
+western part of the country has got
+
+the maximum concentration of specialty chemical
+
+manufacturers, followed by the state of Gujarat and then you have got Madhya Pradesh and
+
+Northern India having this level of specialty chemical presence. Industry clustering is also
+
+one of the important aspects of study of the structure of an industry.
+
+(Refer Slide Time: 23:10)
+
+So, how do you do strategic positioning for the specialty chemical industry? Politically, the
+
+Make in India program is going to attract lots of domestic and foreign investors into India.
+
+The housing for all by 2022 scheme and its extensions will provide housing to the urban poor.
+
+The entire infrastructure and construction expenditure is going to lead to higher demand for
+
+specialty chemicals.
+
+Introduction of real estate mutual fund and real estate investment trust will shift towards more
+
+formal methods of construction, therefore, much better regulated and much better developed
+
+raw material ingredients of it is specialty chemicals is going to be an important ingredient.
+
+And the China Plus One with specialty chemicals serving as an alternate to Chinese chemical
+
+products, is going to also influence the growth of this industry.
+
+In terms of the economical aspects, the Indian market is the 7th largest by nominal GDP
+
+third-largest by purchasing power parity, we do have low labor cost, which will encourage
+
+foreign investments. The construction industry itself is a huge industry, it accounts for 80
+
+percent of the total GDP, and we are expected to have even more impressive growth in the
+
+construction industry.
+
+Rising disposable incomes, low-interest rates, and increasing urbanization will also be the
+
+factors which are going to give a feel to industries such as construction and real estate. In
+
+terms of the social factors, increasing country population and increasing proportion of urban
+
+population that is urbanization these will create demand for new infrastructure and increasing
+
+penetration of ready-to-use mixed concretes, precast, and pretest concrete is going to lead to a
+
+different way of construction.
+
+And this will give flip to the specialty chemicals because they have got a big role in terms of
+
+binding capability of these cements. Then in terms of technology, there is a technological
+
+gap. Construction companies still use low-grade technology in the construction sector, and
+
+this has led to low-value addition and low productivity, apart from substandard quality and
+
+time overruns.
+
+The business of ready-mix concrete is getting popular amongst construction companies.
+
+Indian ready-mix concrete uses only 2 percent of the total cement production. So, you can
+
+imagine the kind of scope which is there in the construction business for specialty chemicals.
+
+The more the ready mix is used, the more the cost efficiency and safety of the construction
+
+industry, and that would be a trigger for the growth of the specialty chemical industry.
+
+(Refer Slide Time: 26:00)
+
+So, how do you position this product, the drivers, the restraints, the opportunity, and the
+
+challenge of the drop model? The drivers are increasing disposable income, growing R&D
+
+activities for new product development, and favorable distribution channel policies; because
+
+the distribution system is itself evolving from the traditional wholesaler, retailer kind of
+
+distribution market, we are going to have strong CFAs and strong distributors, but a lot of
+
+activity at the retail level to generate the demand.
+
+Similarly, you are going to have channels such as modern trade and digital channels taking
+
+over some of the aspects of traditional, distribution is going to be a driver. The restraints are
+
+in terms of the largely unorganized market which still exists, therefore the cost advantage and
+
+the dynamism they display. The product handling capabilities within the industrial system
+
+does not seem to be foolproof.
+
+There is a lot of leakage and wastage; the high cost for branded products is always compared
+
+with the low cost of the unbranded substitutes and the inadequate infrastructures, be it the
+
+road transport or, the ports or the intermodal logistics terminals; there is something more that
+
+needs to be covered in terms of the futuristic development.
+
+The opportunities are certainly there; growing population and need for residential properties,
+
+rising demand for infrastructure with the new kinds of public buildings or dams and things
+
+like that, and the government of India initiatives in respective of new factory constructions
+
+PLA schemes, and so on. The challenge is to get stringent regulatory approvals in India as
+
+well as abroad.
+
+There are health and safety concerns at the end user level: what kind of chemicals are being
+
+used? Are those chemicals going to be released into the environment as the products are used,
+
+and is there any cancerous effect because of that and the disruption in supply chain. So, the
+
+chemicals are expected to go through the same kind of testing rigor and assurance that a
+
+typical pharmaceutical ingredient must go through.
+
+(Refer Slide Time: 28:15)
+
+So, what is the competitive strategy for growth? We have looked so far at the structure of the
+
+industry and the various parameters that define the structure. There are 4 types of competitive
+
+strategies that could be adopted by this industry. One cost plus; focus Indian market is still
+
+very nascent at just 3 percent of the global market; there is a comparatively lower cost of
+
+investment in India.
+
+And when you focus on a single product or a single product cluster, you will be able to
+
+implement cost advantage plus
+
+focus advantage strategies. You can also achieve
+
+differentiation plus focus you take one core product and develop, look for penetration into the
+
+market, and create awareness and knowledge; this happens through differentiation and focus.
+
+SRF is a classic example of focusing on one type of product and assuming a leadership
+
+position in that product. Next, you have the differentiation strategy, where you create a blue
+
+ocean strategy develop a large area for growth and co create the experience with the
+
+customers and finally base yourself on innovation and R&D to be able to drive growth.
+
+Finally, cost-less differentiation become a global player leverage low-cost operating strategy,
+
+scale up the operations provided the demand exists then provide differentiated competitive
+
+solutions to the customers.
+
+(Refer Slide Time: 29:47)
+
+So, the value creation vision for the specialty chemical industry is as follows in terms of 3
+
+main blocks of the value chain: the first R&D you got to start with product innovation and
+
+then product development. Production includes the procurement of the actual production and
+
+packaging, and there again there is scope for value creation and; later on distribution comes
+
+and then after sales comes.
+
+So, for product innovation in R&D you need to have budgets which are internationally
+
+competitive. Indian companies tend to spend around 1 percent of their budgets on R and D
+
+expenditures. However, for a specialty chemical industry to be globally competitive, you
+
+need adequate budgets of the range of 8 to 10 percent of revenue.
+
+The procurement is also very important, procurement of concentrated bulk chemicals and the
+
+play on economies of scale that is if you are a high-scale specialty chemical manufacturer,
+
+you would be able to get better pricing and also assured supply from the concentrated bulk
+
+chemicals.
+
+Production efficacy in terms of the final product suiting local conditions is another important
+
+consideration; the specialty chemicals have to be packaged well; they should be weatherproof
+
+and they should be leak-proof; they should be visually appealing, and they should be able to
+
+handle the rough handling that happens in multimodal transport or in cross border transport.
+
+Therefore, branding, a strong distribution network, and awareness initiatives are very much
+
+required for good transportation practices in this product range. After-sales service is
+
+important because these are the resources that will bring additional sales for the company, so
+
+resource availability must be ensured to meet customer needs and customer training.
+
+(Refer Slide Time: 31:42)
+
+Product market development will similarly be a staircase; it has to happen on multiple levels.
+
+Technology adaptation happens in terms of investing in new technology to deliver cutting
+
+edge products to the market, sustainability, society, and innovation appears through product
+
+innovation focusing on these parameters.
+
+Globalization is possible when global markets are targeted through multi-channel things; you
+
+need not go in this starting phase directly to the US market and try to sell this product to all
+
+the users. Instead, you may take up a channel that is going to be helpful in distribution; you
+
+can have a strategic alliance with that partner.
+
+And then, understand the market, start producing products that are relevant for the market and
+
+at some point of time, decide that you would be standalone. And finally in order to reduce the
+
+time of growing in a market and also to take advantage of the vacuum that is getting created.
+
+Because of the China one policy, you may like to go in for strategic acquisition, and that
+
+helps not only in terms of capturing the market gap but also in terms of providing access to
+
+technology transfers and best operations practices of the companies that are acquired or
+
+aliased within the developed world.
+
+(Refer Slide Time: 33:08)
+
+So, what are the specific features of product market development? Technology rules the roost
+
+the chemical has to lead to better properties, cohesive strength, flexibility, thermal stability,
+
+etcetera. It should be capable of multi-usage hardwood carpeting and linoleum, etcetera in the
+
+past we used to have paints which are dedicated for wooden surfaces, paints which are
+
+dedicated for steel surfaces, and so on.
+
+Today, we have paints that can be used for all the types of surfaces. Sustainability society and
+
+innovation you should have systems which will take away the pain points of chemical
+
+production and distribution, you need to have moisture curable systems, you should have
+
+environmental resistance built into the chemicals' technical specification profile, against
+
+ultraviolet, corrosion salt water, and you name them it should be happening because,
+
+specialty chemical is the first protective coat that is applied over the product then product
+
+innovation. Going global Indian market itself is huge. Should we move into the global market
+
+yes, we must, because when you move into the global market, you try to understand you get
+
+to understand the latest technological trends that are prevailing in that market and that helps
+
+you diversify and upgrade your product range and meet the requirements seamlessly.
+
+Strategic alliances are very much required in this industry, it is no time to rediscover the
+
+wheel as far as the specialty chemical industry is concerned. You got to follow the global
+
+players; however, you should put your stamp of contribution through strategic alliances as
+
+well as various partnership strategies.
+
+As a matter of interest top 5 players in the industry contribute to the market share of about 90
+
+percent in the Indian adhesives and sealants market. There could be disruptions from the
+
+market because whenever a company is in the exalted position of high market share there is
+
+always going to be competition from the lower end of the market. So, one should keep an eye
+
+on the disruptions for the market.
+
+Investment in technology is the key because global players are operating in this industry, and
+
+they have huge deep pockets. Then, a clever way of expanding the business while the going is
+
+good or going is the tough comes from your ability to have strategic alliances, acquisitions,
+
+technology partnerships, and things like that. That is where the automobile industry has
+
+succeeded in terms of continuously accessing technology.
+
+To the level that it is almost self-sufficient Euros 6 engine is supposed to be very challenging
+
+to develop, therefore, Ashok Leyland has given the task to a reputed design studio outside.
+
+However, the company also has developed it is own Euro 6 range and that has provided great
+
+strength to the company in navigating through the adverse market conditions of the COVID
+
+times as also the new demand escalation times or the current times.
+
+So, the ability to do strategic alliances, acquisitions, technology partnerships, and so on, is
+
+vital to the profile of strategies undertaking product market development in the specialty
+
+chemical industry.
+
+(Refer Slide Time: 36:33)
+
+So, what kind of strategic alliances could exist? You could have a consortium, you could have
+
+a technology partnership which is the most well-known licensing, you could have private
+
+brand agreements, you could have a sales partnership, you could have multi channel
+
+partnership and you could have an acquisition partnership.
+
+In terms of operations, you can have a manufacturing partnership vendor buyer relationship,
+
+you can have joint venture and finally, you can have a venture. Each of these aspects will be
+
+discussed by me in subsequent slides but suffice it to say that this entire value chain of
+
+specialty chemical manufacture can be segmented.
+
+And the right alliances and right market arrangements, as well as right
+
+integration
+
+arrangements, can be found based on a deep study of the industry structure as well as the
+
+supportive industry structures. The pros of alliances are very clear it helped the company
+
+move rapidly into larger and more attractive markets.
+
+They ensure better efficiency, there is complementarity, and synergy, and finally, there is
+
+faster strategy implementation; the cons are that you have got to share the profits. If you look
+
+at the previous model wherein you supply the product to a generic distributor and then price it
+
+at cost plus, plus being very marginal 10 percent.
+
+And then the overseas marketer applies his or her own generic distribution margin and then
+
+shares the profit, the profit obviously is lower than what you would have got had you put
+
+your foot in that market. However, there are other qualitative aspects which are involved in
+
+making those decisions, which is why I said that business development in the specialty
+
+chemical industry or any other industry is as much an art as a science.
+
+Ultimately, the chemistry you have with the management of that company as well as the
+
+promoter of that company, is going to be the clinching factor in terms of the viability and
+
+workability of strategic alliances.
+
+(Refer Slide Time: 38:38)
+
+Once you decide to be in the specialty chemical industry with the kind of network support
+
+that is going to be in place, you require integrated communication on a B 2 B basis. Because
+
+most of the specialty chemicals go directly to the businesses, be it the core distributorship or
+
+the OMCs for the biodiesels, the shift is essentially in terms of integrated communication.
+
+The product-based integrated communication must be specification-driven, must highlight
+
+superior performance and it must be customer-focused. The specialty chemical industry has
+
+the opportunity to co-create the use of these chemicals in various industrial activities. The
+
+second one would be pricing value pricing; it is not the lowest cost pricing. But it is value
+
+pricing, and the third is the place where you would like to keep your products.
+
+The distribution network the direct sales at the warehouses are the key places where you keep
+
+your products and finally, promotion is in terms of educating the customers in terms of their
+
+requirements, educating the customer in terms of the capabilities of the firm and providing
+
+product samples which they could try out. The group believed to the extent they were
+
+experienced, that this kind of model will work very well with the specialty chemical industry
+
+as well.
+
+(Refer Slide Time: 40:00)
+
+Suppose your product is a B2C product that is a specialty chemical which serves day-to-day
+
+pharmaceuticals or a specialty chemical which supports writing pens, which supports the
+
+typewriting work, which supports academic activity in general. You will find that the level
+
+and the intensity of collaboration competition are directly and overwhelmingly different.
+
+So, at a product level, you will have a diverse product portfolio based on the strong R and D
+
+that you have. The price will of course, be based on penetration pricing, but better quality
+
+will be offered along with the lower price compared to small players. In terms of the place,
+
+the traditional distribution system will continue to be in the mainstay wholesaler's retailers on
+
+one hand and hypermarkets and supermarkets on the other.
+
+So, this kind of differentiation is something which is going to help the people who have
+
+started the industry but are not able to scale it up to global standards; nothing is lost. These
+
+are the 4 features that are available to explore and take the right landings. Then promotion
+
+comprises Ad campaigns, social media, brand awareness and similar marketing applications
+
+that companies adopt.
+
+(Refer Slide Time: 41:22)
+
+To get at pricing you need to understand what is being contributed by what product? So, in
+
+the specialty chemical industry and in the subs segment of that industry namely protective
+
+floor systems, you have got star products such as covering products which use PU
+
+technology, you have cash cows which use Epoxy Technology, you have question marks
+
+which use combinations of polyurea and polyurethane technology.
+
+And those products could be the blockbusters for the Indian specialty chemical manufacturers
+
+and those who lead the sales and marketing effort for those kinds of products are likely to be
+
+the winners in the career competition. And of course, you have an underdog which is hybrid
+
+technology which carries and makes a mishmash of all the available technologies all the
+
+available marketing approaches and really does not know where you really need to go in
+
+terms of handling that product.
+
+(Refer Slide Time: 42:22)
+
+There are key factors of growth for the Indian specialty chemical industry, we must be happy
+
+about the likely growth potential. The first low cost of manufacturing and availability of
+
+skilled labor, there is no doubt that the world looks at India as a preferred manufacturing
+
+destination. They were looking at India only as an its hub; today it extends to manufacturing
+
+destination approach, and tomorrow it could extend to the R and D activities.
+
+Low cost of manufacturing, cheap labor wage rates, and abundant availability of skilled
+
+manpower or the assets which need to be protected and projected as we move forward.
+
+Second, a strong intellectual property rights IPR protection policy. From filing process
+
+returns and challenging product patents in the 1970 India has come a long way for a unified
+
+patent regime, which includes product patents, process patents, and various other patents.
+
+And also, it has got a very clear demarcation of responsibilities of the site, the quality, and the
+
+consultants and the site has to take care of the quality production at the site level. And the
+
+enablers for this are many, and those enablers have to be understood when we come to the
+
+enablers; the Indian specialty chemical industry also enjoys strong global acceptance as much
+
+as 50 percent of the production is exported.
+
+It is exported as ingredients for flavors, fragrances, and nutraceuticals, and the track record of
+
+producing world-quality output speaks for itself. But there are issues: there is a shortage of
+
+feedstock supply which is dominated by China. So, the majority of India's petrochemical
+
+building blocks or channelized towards bulk polymers, the other end user segments must
+
+predominantly rely upon inputs for the feedback and feed forward.
+
+Chinese domination in feedstocks like epichlohydrin for exports MDI for curing agents which
+
+is a disruptive force is to be taken into account. And if these shortages and the nomination
+
+impact or not addressed Indian chemical industry despite the local investments, may find
+
+itself at the end of the journey.
+
+Therefore, it is important that business development focuses as much on external demand as
+
+it focuses on internal demand and of course together with the causative features. The majority
+
+of the players are subscale in this segment which is one of the reasons why the companies
+
+which I have mentioned here have all the possibilities to become number 5 growth makers,
+
+provided they play their game well.
+
+Then you have gaps in the enforcement of environmental regulations; Indian environmental
+
+regulations have always been stricter than China; however, the enforcement varies depending
+
+on the location and the size of the enterprise. For example, the regulation relating to the
+
+release of toxic fumes and, diesel fumes and chemistry fumes to market has got its own
+
+deleterious implications on the product that you have.
+
+(Refer Slide Time: 45:40)
+
+So, in summary, we can think of 6 factors: there is a clear shift in customer preference, and
+
+customers are increasingly getting interested in environment-friendly and socially responsible
+
+products and services. Chemical products by definition, are not environmentally friendly and
+
+socially responsible; they affect the environment together and they are also challenging in
+
+terms of workplace safety.
+
+However, most companies are now becoming conscious of health and hygiene and are
+
+demanding milder and safer products with pure ingredients because this is where the trend of
+
+the world is also going. Second, increasing per capita production, the current per capita
+
+consumption of chemical products is just one-tenth of the global average. Therefore, there is
+
+a huge potential to double this consumption.
+
+And this offers great scale up and scope of opportunities for the specialty chemical industry.
+
+Digitalization and Industry 4.0 are another thrust area we can have horizontal and vertical
+
+integration, a new definition of operations management, participation in reverse actions and
+
+digital auctions, and the creation of new digital models overall.
+
+Chemical companies are implementing digitization initiatives and tools in their supply chains,
+
+demand planning and pricing strategies. Whenever you deal with a fluid, be it oil or
+
+chemicals, there is the potential for leakage. That leakage could be due to the nature of
+
+devices used transportation used or by deliberate fraudulent activities.
+
+Digitization helps in providing things like digital seals and ensuring seamless transportation
+
+from the ship to the factory and from the factories to the various distribution end points.
+
+There is also going to be an increase in M and A and investment-related activity.
+
+As you would have seen this is a scale-intensive industry the greater the scale, you have the
+
+greater the specialization you have, and you would have greater capability to operate in the
+
+global markets. Therefore, there are enough downstream value-added opportunities which
+
+could increase the strength of the Indian specialty chemical industry.
+
+Therefore, companies must look at the realignment of portfolios from time to time and these
+
+would be drivers for strong M and A and investment activities of all the factors. China Plus
+
+One strategy is the most important one. Consolidation in the industry, environmental reforms
+
+and tightening finance is changing the face of China's chemical industry.
+
+This has resulted in uncertainty for companies dependent on the country for their supply of
+
+raw materials; 24 percent from the United States is dependent on this. Similarly, from
+
+Western Europe a huge demand position exists, and Japan has got a huge demand position.
+
+Almost 70 to 75 percent of global chemical demand from the developed world can be catered
+
+to by India which means that there would be unimaginable increase the scope scale and
+
+extent of the specialty chemical industry. In addition, COVID 19 kinds of outbreaks have
+
+different impacts in different areas of the world.
+
+Right now, China is locking down on its industrial production and slowing down on it is
+
+economic growth because of it is 0 COVID policies and that has implications for India in
+
+terms of ramping up its production. And that must not be linked only to the pandemic, but it
+
+should be linked to the sustainable factor advantages and production advantages of the Indian
+
+specialty chemical industry and that alone will attract investments into this and in doing so
+
+we must protect our low-cost labor image.
+
+Then we have innovation and sustainability which could offer significant capability.
+
+Companies are going to invest in India not merely because of the labor cost arbitrage or just
+
+as hedging option against China. But essentially for taking the product portfolio into the
+
+future, that is where R and D and innovation on the part of the Indian specialty chemical
+
+industry would come up.
+
+We have to move up the value chain from low innovation products to high innovation
+
+products, while incorporating the considerations of sustainability and green chemistry and
+
+this will lead to continuous improvement in products, time to time breakthrough disruptions
+
+in the products and greater manufacturing process controls as well as safety controls.
+
+And this once it happens through interactive customer management and suppliers across the
+
+value chains would provide a strong foundation for the specialty chemical industry of India to
+
+take up the next journey. Therefore, anyone who is doing strategy has to understand the
+
+overall environmental factors, the structural dynamics of the industry, and the strategic
+
+positioning that is possible for different types of companies, and the drivers for the strategy to
+
+be a sustainable strategy and the approach to achieve competitive advantage of such
+
+strategies. Therefore, the strategies have to understand the industry in all it is breadth and
+
+depth and make the decisions on the requirements on the growth and that is how you make
+
+your decisions, towards vertical integration, towards expansion towards diversification in
+
+capital intensive and technology intensive industries.
+
+Such as specialty chemicals, where we have still a huge headroom to grow based on the
+
+unmet Indian demand as well as the global demand. Thank you. With this we come to the end
+
+of the lecture, and I look forward to seeing you in the next class. The next class will focus on
+
+2 industrial segments, and it will demonstrate further how product clusters lead to market
+
+clusters.
+
+It also will demonstrate through the other example how the entire value chain of an industry,
+
+even in a high technology industry, would lead to market presence across different customer
+
+groups and across different value chain compartments. So, those 2 case studies also will be of
+
+interest to you.
+
+Thank you.
+
+
