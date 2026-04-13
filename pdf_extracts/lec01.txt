@@ -1,0 +1,483 @@
+BusinessDevelopment FromStart to Scale
+Prof.C BhaktavatsalaRao
+Department ofManagement Studies
+Indian Institute of Technology,Madras
+Week-01
+Business Fundamentals
+Lecture- 01
+Understanding BusinessDevelopment
+Hifriends, welcometothe NPTELcourse BusinessDevelopment: FromStart to Scale.
+(ReferSlide Time: 00:17)
+First of all, I will providean introductionto thecourse.
+
+(ReferSlide Time: 00:20)
+My name is C Bhaktavatsala Rao, C B Rao in short, I have received my PhD degree in
+Industrial Management and MTech degree in IndustrialEngineeringfromthe Indian Institute
+of Technology Madras, Chennai. I have received my BE Degree in Mechanical Engineering
+from Sri VenkateswaraUniversity,Tirupati.
+I have over 48 years of diversified experience instrategic andoperationalleadershipoflarge
+reputed companies, including global MNCs in India. My last full-time assignment was as
+ManagingDirector andExecutiveChairmanof PfizerHealthcareIndiaPrivateLimited.
+I have been passionate about writing and publishing as well as teaching. I have over 170
+publications ineconomic and businessdailiesand refereedjournals.
+I have established LeaderCrest Academy for high-quality academic publishing. I have
+authored and published ten books under the LeaderCrestbannerover the lastfiveyears.Iam
+currently serving as Ajit Singhvi Chair Professor in Management Studies, DoMS, at the
+Indian Institute of Technology Madras, Chennai. I serve as non-executive director on the
+boards of select companies and also render some advisory services for Indian and
+multinational corporations.
+I have offered three courses “Entrepreneurship: Perspectives of Business Strategy and
+Economic Development”, “Leadership for IndiaInc:PracticalConcepts andConstructs”,and
+“Strategy and Technology: A Practical Primer” on NPTEL-Swayam Platform. This course
+
+which is being offered this semester is the fourth one. The other courseLeadershipfor India
+Inc:PracticalConceptsand Constructsis alsobeing offered inparallel.
+(ReferSlide Time: 01:58)
+Business development is the process of identifying, defining and shaping the known and
+unknown customer needs. It helps the company develop products and services that meet
+customer needs. Business development is a partnership process that co-creates value for the
+company and its customers. Business development helps a company understand the mega
+trends thatareemerging in theeconomy andinthe industry.
+It leverages the competencies of individuals as well as the organization in the overall. It
+delivers onsocio-economicpurposeas well.
+
+(ReferSlide Time: 02:36)
+This course is a very unique course. It is a comprehensive study of business development
+concepts, models, methodologies and tools. It is a unique integration of the adjunctdomains
+such as strategic marketing, business strategy and business models with the core course of
+business development. It provides end-to-end value chain perspectives that are needed for
+effective business development. In doing so, it also integrates several real-life examples and
+casestudies.
+As you cruise through the course, you will understand the building blocks of business, and
+the drivers of ‘company and customer’ connect. And, you also will understand how youcan
+create the right businessimpact byamastery ofbusiness development.Allof this willlead to
+enterprisegrowth, economicprosperityand professionalfulfilment.
+
+(ReferSlide Time: 03:30)
+This is a 12-week course and, in each week we will focus on one theme and in each lecture
+we will focus on one topic. The themes are Business Fundamentals, Business Development
+Strategies, Industry Structure and Company Analysis, Market and Competitor Analysis,
+Connectingwith Customers,
+(ReferSlide Time: 03:50)
+Business and Market Segments, Branding and Pricing, Corporate Development, Business
+Development Structures,BusinessDevelopmentCompetencies.
+
+(ReferSlide Time: 04:00)
+Strategies for Markets and Industries and finally, five important BusinessDevelopment Case
+Studies. Thecoursewill end withasummary capsulecourse(Refer Time: 04:15)course. This
+course is enriched by multiple case studies and these case studies cover businesses and
+industries in varying shades. Start-ups companies and conglomerates will be covered as part
+of thecasework.
+(ReferSlide Time: 04:35)
+As I said this is a 12-week course, there would be 61 lectures. In total 5 lectures per week,
+excluding the summary course at the end. There will be end-of-the-week assignments. Each
+
+week we will focus on one core theme, each lecture we will cover specific topics. I will be
+providing several illustrative and experiential examples throughout. The course will feature,
+asI said, casestudiesof BD leadingtoenterprise valuecreation.
+These are full-scale case studies of how a company has grown from its initial stages to the
+current scaled up stage. There are around 1600 dataand informationrelated slidesandthis is
+a very unique course delivery mechanism, that I have followed throughout my NPTEL
+lecture series.
+You will find these course materials very useful, not only now for the course purposes, but
+also as a guidance document-set as you go along your professional journey. It will have
+several global and local perspectives as part of the course work and therewillbe afocusnot
+only on thestrategicaspects ofbusinessdevelopment, butalso onthetacticalrequirements of
+business development.
+For better visual presentation, I have used certain images from public domain or under
+creative commons. But this isdonepurelyfor educational purposesand thecopyrights, ifany
+areduly respected.
+(ReferSlide Time: 06:03)
+What are the unique features of this course? One, it provides a detailed and integrated
+overview of the growth driving domain of business development. Two, it lays out the
+strategies and tactics of business development through multiple frameworks and models.
+
+Three, it links up business development with strategic marketing, a very important strategic
+adjacencyto leadto enterprisecompetitiveness, growth andsustainability.
+This course will be found useful by a broad spectrum ofstudents, workingprofessionals and
+academicians to develop and hone their strategic skills, integrating multiple technology
+insights. As I said, multiple adjunct areas are covered in this course, and it embeds strategic
+marketing approachesall through.
+(ReferSlide Time: 07:54)
+Upon completion of the course, participants are likely to achieve four important
+developmental capabilities. One, you would have acquired critical business development
+skills. You would be understanding theartand scienceof formulatingandexecutingbusiness
+developmentapproaches.
+Secondly, you will also become a developmentvisionary, becauseofthe natureof thetheory,
+the constructs, and the nature of the case studies, you will understand and appreciatehow to
+be a visionary and strategist for your company. And, you will understand business
+development in terms of the current course of development as well as in the futuristic
+potential.
+And, you will be able to understand how to be anticipatory and also execution-oriented in
+your professional journey. So, in the overall, you will become a development visionary.
+Thirdly, you will be leveragingmultiple functionsinyour businessdevelopment activityafter
+
+the course is completed and you will understand how multiple functions are integrated with
+business developmentdomain.
+Then, fourthly, you will be understanding and appreciating the role of multiple functions in
+driving business development and you will respect them and also you will utilize them
+appropriately with respect. And finally, because ofthe inputs thatarereceived, your personal
+gravitas will enhance. You will become holistic professionals with personal gravitas that
+translatesto positivecompany image.
+(ReferSlide Time: 08:25)
+Now, we will come to the course per se. The domain of business development integrates
+various strategies, processes and tasks to drive a firm’s business performance. It requires
+close interface with various other functions, aligning with thevision, missionand strategyof
+the firm. Business development is a process that is both tactical and strategic in nature. It
+involvesinitiatives within thecompany andbetween the companyand itscustomers.
+When you talk about a company, there are different types of companies. There are small
+companies as well as largecompanies. If youwanttounderstand thehierarchyof companies,
+youcanmoveata globalgroup levelandcome tothe smallestentitycalledthe product.So,if
+you take the example of Tata group, Tata group is a group. It has got several companies
+within the conglomerate umbrella that Tata group is and each company may have several
+businesses aswell.
+
+For example, if you take the Tata consumer beverages business, it is a part of the Tata
+Consumer Products company as a whole. Each company will have sub-businesseswhichare
+important for the company’s development and each business could even have a division
+within itself and each divisionwouldhave aproduct.And, driving all ofthesethings together
+is a process which top leaders are interested in. They need todevelop thevision andmission
+for thecompany.
+They need to develop the business strategy for the companyand cascadethose strategiesinto
+functional strategies. So, short term performance which is important for the company to be
+successful and profitable, long-term performance to make the company sustainable and
+growth oriented for the future are the two critical aspects of business strategy and business
+development.
+And, this course tries to provide you enough insights into these two activities and whenyou
+have short term performance ticking very well, when you have long term performance
+shaping upverywell,youwill haveonthe wholesustainableperformance for thecompany as
+wellastheconglomerate incaseaconglomerate isinvolved.
+(ReferSlide Time: 10:49)
+There are two key streams of enquiry in business development. Withrespect toanybusiness
+or any industry, business development isinfluenced bytwoimportant streamsoffactors.One
+the supply side factors, two the demand side factors. What are the supply side factors? The
+
+industry factors, the nature of the industry, the inputs to the industry, the outputs to the
+industry,thelinkages withthe environmentand soon.
+There are also firm level factors that is, what are the firms which are the constituents of the
+industry and what kind of products they provide. Coming to the demand side factors, you
+have the customer needs,you havethe environmentalrequirements andimperativesand there
+are also behavioural response factors which are somewhat independent, but very influential
+onall of thesefactors.
+When you look at the supply side factors, you have the nature of the industry, you have the
+number of competitors that are operating in the industry as well as thecollaborators who are
+operating in theindustry.In termsof thedemand side factors,thedemographic factorsrelated
+to the customers, the attitudes, beliefs and preferences that the customers have are relevant,
+and theseareimportantaspects.
+But, influencing the demand are certain enabling factors; these could be related to the
+economic factors, environmental factors, social factors, community factors or the overall
+global factors. The frameworks and constructs proposedin thiscourse willaddress theabove
+in an interconnected manner. I will be dealing with each of these sub-subjectsprogressively,
+but inasmuchdepthaspossible withinthe boundariesof this course.
+(ReferSlide Time: 12:39)
+
+So, what do we have as a learning outcome?AsI said,wewill try tounderstandthe business
+development methodology as a key component of business strategy and corporate
+development. We will also focus on the roles and responsibilities of the heads of business
+development, how they should be partners totheCEOand otherCXOs.Wewill also analyze
+how differentcontexts requiredifferentbusiness developmentstrategies.
+We will also master the tools and techniques that build long term value for customers and
+companies for business partnerships. In addition, we will also develop a critical thinking
+process. How we should develop and present professional analysis through formal
+presentation will beone of theimportant by-products ofthis coursefor you.
+(ReferSlide Time: 13:27)
+But before we go into greater depth, let us understand certain important terms that keep
+popping up from time to time in this course. You, yourself, as part of your other academic
+studies as well as your professional journeys, would frequently come across the terms sales,
+marketing and business development. Many people use these three terms almost
+synonymouslyor in substitution ofeach other,but itis reallynotso.
+There are important differences between sales,marketing andbusiness development.What is
+sales? In essence, sales is the process of selling a product or service toacustomer ata given
+point of time.Marketing, on theotherhand, isthe processof addressingthe total marketfor a
+productto developand fulfildemand over aproductlifetimeandover atimeline.
+
+Business development is the process ofcreating partnerships betweenthe company andother
+stakeholders for developing the business. If it is, so what is the orientation of a typical sales
+officer,a marketingofficer andabusinessdevelopment officer?
+A sales person or a sales functionary typically looks at the transaction between the firm and
+the customer. I am offering the product of the company; I need the consideration from the
+customer and that has to be a mutual consideration and hopefully a mutually beneficial
+consideration. Marketing, on the other hand, looksat theexperienceof thecustomer withthe
+product and tries to create a long-term association. It is not just today’s sale, but is the
+long-term relationship thatis thefocusof marketing.
+Business developmentcreatesstructures andrelationships for long-term valuecreation for the
+company as well as for the customers. As you can see, the focus and the thrust of the
+functionaries representingsales, marketingand businessdevelopmentvary significantly.
+What is the perspective for sales? Salesperson looks at the company needs and targets.
+Marketing person looks at the company needs, but also looks at the trends. A business
+development person looks at the business synergy between the company and its customers.
+The scope of a sales person typically is at the sales level. A marketing person looks at all
+activities including, but not limited to marketresearch; piloting ofaproductsaleand service.
+So, marketingismuchmore comprehensive.
+A business development person looks at all the activities related to, but not limited to
+analyzing mutual business needs and fulfilling the needs. Business development not only
+looks at the company’s perspectives, but also the partners’ perspectives and creates alasting
+relationship.
+The methodology of a sales person is to induce shoppers and customers to buy. The
+methodology of the marketing person is to create a customer centric experience and the
+business development executive looks at developing a value proposition that is tenable for a
+strategic association. The metrics by which a salesperson judges himself or herself and the
+company itselfjudges him orher is throughrevenue andprofitmetrics.
+Marketing is judged by the brand value it is able to create. We constantly do brandauditsin
+well-developed FMCG and other companies to assess the effectiveness of a marketing
+function. Business development is assessed through the business growth. The rule that sales
+
+adopts is caveat emptor. Marketing adopts caveat vendor and business developmentrequires
+transparency.
+Techniques thatareadopted bythesalesperson are4Ps,product,price,placeandpromotion.I
+will present thetechniquesthat areoffered, andtheplatforms thatareoffered bymarketing in
+its quest; 4 Vs of marketing, I will present them during the course. And, business
+development looks at 4 Cs, again this will be presentedas wegothrough thecourse.So, this
+combination of 4 Ps, 4 Vs and 4 Cs is, again, a very unique offering ofthis course.You will
+not findit in anysingulartext.
+The skills required for a salesperson aresellingandcommunicationskills.Theskills required
+for a marketing person are conceptual and analytical skills whereas for the business
+developmentperson,strategic businessskillsand valuechain capabilities willberequired.
+The objectives, of course, arealigned.Interms ofbusiness,the salespersonlooks atbusiness
+growth. Marketing person looks at sustainable business growth, not just yearly targets. The
+marketing person looks at long-term growth targets, whereas a business developmentperson
+looks at sustainable strategic business growth. So, when you look at this as an overall
+summary, you will find that there are important differences between sales, marketing and
+business development.
+We cannot conclude, however, that business development is superior to marketing and
+marketing is superior to sales, nor can we conclude theotherway. Allthe threefunctionsare
+required and each has got its unique role, important role. One provides immediate annual
+sales, the other provides sales annually, but in a growing fashion. And, the third provides
+durable sustainablepartnerships for thecompany’s growth.
+So, there are important differences between the between these three sub functions, even as
+each of thesefunctionsisinvolvedwithbusiness growth.
+
+(ReferSlide Time: 19:09)
+Now, the time has come to define business. What is business? Business is the activity of an
+organization to develop, manufactureand ormarket productsandor servicestoindividualsor
+entities andtheobjectiveis toearnrevenuesand profitsand generatereturns tothe investors -
+that iswhatbusiness isabout.
+(ReferSlide Time: 19:32)
+There are many types of businesses and there are so many businesses; hundreds of them
+actually that it is impossible to list them outhere.But youcan lookatfew important typesof
+businesses. You can have a business that is manufacturing oriented, youcan havebusinesses
+
+that are marketing oriented. There could be product oriented businesses, service oriented
+businesses, integratedbusinesses andR&Dbusinesses.
+SPARC, an R&D subsidiary of Sun Pharma focuses only on designing and developing
+molecules for medicinal needs. It is an R&D oriented business. Therefore, it is an R&D
+business. Lonza a third party supplier, developer and manufacturer, contract manufacturer
+and developer as we call such companies; develops products and services based on
+manufacturingrequirementsof othercompanies.
+There are companies which you look at marketing themselves to provide certain services,
+marketing businesses.
+There are companies which provide out and out very involved, very complex products. You
+take the example of Hitachi Medical Systems which provides imaging equipment or other
+kind of medicaldevices.
+There are companies which are very much inservice, healthcareservice for example,Apollo
+hospitalsisa leadingexample.
+And, when we talk about integrated businesses, they do development that is R&D,
+manufacturing, marketing and various other functions are involved in this process. Sun
+Pharmaceuticalsisan exampleof suchintegratedbusiness.
+(ReferSlide Time: 21:10)
+
+So, ifbusiness iswhatI have statedsofar; whatisbusiness development?I havetalkedabout
+business development in its overall context,but letus lookata fewotherinsightsof business
+development. Business development involves anticipating, identifying and developing
+opportunities for enhancing business. There are threeaspects ofbusiness developmentwhich
+wemust becognizant of.
+One, a transactional aspect, second a reinforcing aspect and third is a futuristic aspect.What
+is the transactional aspect? Like sales and marketing, business development also provides
+products and services to customers through commercial relationships. If, as a business
+development executive, you have no products or services to offer, there is no basis for
+dialoguewith anotherpartner.
+So, apartner looksfor products andservicesfromanotherpartner. Asabusinessdevelopment
+executive, even if you do not have current products and services, you can develop a
+relationship based on future products and services. That is a transactional aspect of business
+development.
+The second aspect of business development is continuous reinforcing of relationships by
+developing collaborations, alliances and partnerships with various business entities. You can
+providea networkof business connectivity,marketing connectivity for thecompany.
+And, third, business development is always futuristic. It tries to identify opportunities, not
+only as pertheclassic product-market grid, butalso byspottingthemega trendsof thefuture.
+So, theresponsibilityof business developmentis veryvast.
+
+(ReferSlide Time: 22:53)
+As I briefly mentioned, there are allied functions and processes for business development.
+Fundamentally, business strategy is very much alike tobusiness development,becauseit sets
+the context and provides the direction. A business development executive cannot gointo the
+market or to the industrial place and do whatever the person wants. Whatever the business
+developmentpersondoesneeds tobealignedwith thebusinessstrategy of thecompany.
+Secondly, business development has to eventuallylead tomarketing that is,the company and
+its brand as well as the products and services must be promoted as part of the business
+development activity. And, once that is done at a macro level or ahigh levelorat astrategic
+level,marketing functiontakesover andhelps.
+The third one is that the entire series of processes which I have outlined; strategy, business
+development,and marketing mustresult inarobustsales platform.
+The enhanced sales and business that come eventually from the business development
+activity is the proof of the success of business development activity in any company. These
+are the allied functions and processes which are very much integrated with business
+developmentin anycompany.
+
+(ReferSlide Time: 24:14)
+Having talked about selling, marketing and business development, let us look at these
+processes. The selling process is a fairly standardized straightforward process and it occurs
+between a seller and a buyer in a marketplace. You start with prospecting. You try to
+understand who is the customer, whether the customer needs theproduct,andthen youmake
+an initial contact.
+Youqualify thatlead, thiscustomer iscapable ofpurchasing, thenyouapproachthe lead. You
+demonstrate theproduct;youhave theproposalas wellas theclarification for thecustomer to
+appreciate the product. Then you try to close the sale, you collect the cash and then you
+repeat the contact. This is the typical selling process and it is happening because company
+and customer need a bridge and that bridge is the productorservice sale.And, who makesit
+happen? Thesalesperson.
+
+(ReferSlide Time: 25:11)
+When you look at the strategic marketing process, that is a more rigorous and customized
+process. It discovers and develops the marketplace and it also helps the company execute in
+the market place. So, it tries to understand the market through its research. It identifies the
+trends andit definesthemarket.
+For example, are the consumers preferring energy drinks or are they preferring the food
+beverages or are they preferring the carbonated drinks? What are the trends that are now
+available? Within the fruit drinks are you preferring as a customer, the pulpy fruit drink or
+non-pulpy fruit drink,isthere apreference interms ofsugaryor non-sugaryfruit beverages?
+Is there a trend in termsof tetrapacking ornormal packing?So,which workswell? So, these
+are the trends that are understood and presented to the company by the marketing person.
+Once you do all of that market research,yousegmentthe marketand thenyoucreate product
+for themarketsegment or for all thesesegmentsyoucreate several products.
+Then, you prove the concept and then you align the business and market strategy. The
+development of business strategy takes place as a high-level process, but it does not mean
+that market and market research cannot influence the business strategy. Therefore, there
+would be an alignment of business market strategy in a dynamic, agile and flexible
+organization.
+
+Then, youpositionthecompanyand theproductandexecute andmonitorthe marketingplan.
+Let us say you have the example of edible oil, there are several edibleoils, butwhich edible
+oil is preferred by which customer? - that is the homemaker! For which need is it? - for a
+shallow frying, deep frying, simple cooking and for what other purposes? Depending upon
+theanswers, youpositionaparticular edibleoilfor that need.
+And, what are the characteristics the person is looking for in the edible oil? It is kind of a
+look-feel or is it in terms of the frying capability, is it in terms of the nutritional capability,
+how heart-healthy the oil is?These arethefeatures thatareimplicit ina customer’smindand
+some of thefeaturesyoucan advocateandmake them explicitinthe customer’smind.
+And finally, therefore, you create a marketing plan which the company executes. Here, the
+linkage is between the product and the business and the marketplace is the transaction
+platform for that tohappen.
+(ReferSlide Time: 27:49)
+Then, let us look at the business development process. It is a conceptual and analytical
+process of using the company and customer value chains. First of all, you will introspect on
+the company value chain, you identify the value points and value gaps through the value
+chain. Youidentify potentialpartnersand youunderstandwho iscomplementary toyou.
+For example, you are a manufacturer of a castings and an automobile company is a demand
+source for thecastings.Theautomobile manufacturerdoesnot haveafoundry and youhavea
+
+foundry, but you do not have any end-use. So, you both are the ideal partners to each other.
+There areimportantcomplementaryvalue points andgaps.
+You try to identify several such relationships and make those relationships become actual in
+practice. Then, you discuss the potential to reinforce each other’s value chain. It could
+happen across the borders as well. Overseas automobile companies may be requiring high
+qualitybut lowcostcomponents; thatis thevalue perception theyhave ofIndia.
+And, you have to prove to them that your company has got that capability to supply
+components that fill the value point as well as the value gap. Therefore, you create a
+combined value proposition.You shouldneversay asa businessdevelopmentpersonthat this
+is what is the value proposition that sells for me. You should lookata valueproposition that
+develops the partnership between the two companies and is a win-win for both the
+companies.
+And, then you test the strategic feasibility and economic viability. Why do youdothat?You
+want to understand whether the partner has got the long-standing history as well as the
+capability to be a strong longstanding partner for the future. Similarly, the other partner will
+look atyour financialstrength, yourability todeliveronthe promises andsoon.
+Once you dothat,youaregoingto alignthe businessmarket strategyand businessmodel and
+then you enter into a partnership agreement, you execute and monitor the partnership.So, in
+this casevalueproposition is thebridgebetween partner Aand partnerB.
+Business developmenttherefore, isa networkingandpartnershipprocess thatis alignedtothe
+business strategy for the firm’s sustainable growth. So, you have seen that there is a sales
+process, there is a marketing process and there is a business development process. All of
+thesethings leadto improvedbusiness,and enhancedbusinessfor thecompany.
+But the way the process organizes itself, the way the process is conceptualized, the way the
+process is executed is different in respect of each of these three sub-functions; namelysales,
+marketing andbusiness development.
+
+(ReferSlide Time: 30:31)
+So, already you have heard a lot about the word strategy and I am hopeful that you would
+have gone through a strategy course. Even if you have not gone through a strategy course,
+you will find enough inputs in this course ofstrategy whichis definitelyavalue-addfor you.
+Simply put, strategyisa plan ofactionto achievecertain goals.
+Many times, goals are also set bythe strategyprocess itself. Itis notthat magically youthink
+of a goal, that is: that I have amissionof becomingacleanenergy company.It also comesas
+a part of your discoveryprocessin strategyformulation. Asyouundergothe strategyprocess,
+you cross the various stage-gates ofunderstanding theenvironment andcompetition, andyou
+will discoverthat thereareseveral othergoals thatcould bevery important for you.
+So, goals are set usually for the strategy process, but the strategy process itself canhelp you
+finetune thegoals or createnewgoals. MichaelPorter popularizedcompetitivestrategy rather
+than just strategy as the key concept.Asyoutry tounderstand strategy,youarealways going
+to be faced with two philosophical dilemmas. The first philosophical dilemma is whether
+strategy isoneof analysis orintuition.
+The second is whether strategy is a game of mirrors such that when Company A adopts a
+particular strategy, you try to adopt that kind of strategy. So, is it a game of mirrors or is it
+something very unique for each firm? And, to answer that wehaveto delvelittle deeperinto
+what strategy is and how universalised an understanding of strategycan be.Strategic context
+isthecontextwhich anindustry faces,a firmfaces andthecompetition faces.
+
+Let us say the crude oil prices go up,thenthe strategiccontextfor thepaintscompany is that
+the cost of thepaintwill go upbecause,crudeandits by-products areimportantinputs for the
+paint manufacturing process. If the semiconductors are in short supply, the automobile
+production gets reduced and the cost of production itself could go up - that is a strategic
+context.
+So, there is a strategic context for every industry, there is a strategiccontextfor the firmand
+there is a strategic context for competition. If the Russia-Ukraine war reduces the supply of
+grains or makes the supply of crude edible oils wavy and volatile, that is an important
+strategic context for firms which are in the FMCG business or edible oil business in the
+country,respectively.
+So, strategic context is veryimportant. And, how doyouunderstandthe strategiccontextand
+how do you position yourself in the strategic environment? You have three core disciplines.
+One is industry analysis: you must be able to understand the industry in all its aspects
+including the linkages with the environment. You should understand how to strategically
+position the firm in the industry and how the industry is strategically positioned in the
+economy.
+And, you should be able to analyze the competitors becausethecompetitor behaviour isalso
+influencing how a company can develop its own strategy. So, strategic context is what is
+available to you, and the core disciplines are the levers that areavailableto positionyourself
+in the strategiccontext.
+And, whether youtakean analyticalroutetostrategy oran intuitiveroutetostrategy, whether
+you look at strategy as an innovative process or justas agame ofmirrors following theother
+is left to the wisdom and the innovative bent of mind of the strategist and the CEO in a
+company.
+But, as a matter of principle, if your strategy is futuristic, forward looking; if your strategy
+tries to take care of the mega trends that are emerging, if the strategy is backed up by the
+competences in the organization, andif indoingsoyoudonot forgetorignorethe short-term
+performance considerations,then that strategywill beeffectiveand competitive.
+The study of competitive strategy is not astudyonly for thestrategy function,it isintegral to
+the study of any function.Thatis becausefor afirm thecompetitivestrategy goes beyondthe
+
+sum of functional strategies. It is something more than that, it is a very synergistic strategy;
+take into accountstrategies ofvarious otherfunctions.
+The former must drive the latter and not vice versa. The functional strategies have to be
+derived from the overall business strategy or the corporate strategy. It shouldnot bethat you
+adopt certain functional strategies; therefore, you try to build a corporate strategy based on
+thefunctional strategies,that isnotthe waytodoit.
+(ReferSlide Time: 35:28)
+Now, to delve a little deeper, let us understand that strategy itself can have three layers.The
+first layer at the core is the business strategy - that is what you would need to do in the
+business that youarehandling. Foradiversified automobilefirm, havingbetter penetrationin
+thelight commercialvehiclesis abusinessstrategy for the LCVbusinessgroup.
+Similarly, meeting the power generation needs of the industry, and the diesel power backup
+needs of the industry is the business strategy for another business of the company. Meeting
+the marineengine needsisanotherbusiness strategy,meetingthe truckandbusneeds again is
+another businessstrategy.So, acompany mayhave differentbusinessstrategies.
+When you amalgamate and harmonize all of these business strategies, you get a strategy for
+the corporation which is called the corporate strategy. And, when you network all the
+corporatestrategiesof all thecompanies inaconglomerate, yougetaconglomerate strategy.
+
+Therefore, you need to understand the concentric circle model of developing strategy from
+the business to the corporate to the conglomerate. And, within the corporate strategy you
+have several layers; R&D, operations, marketing, finance, HR, IT etc., which broadly
+correspond to the functions. There will be a lot of iteration among various functions as well
+asbetween thefunctionsonone handandbusinessstrategy onthe other.
+And, typically business strategy is theone whichisgoing tolead tofunctional strategies.Just
+because you have a supercomputer in your company and you have a very developed IT
+department, it cannot mean that you will do something that is wholly related to information
+technology. You mayleverage yoursuperior ITcapability, butyouwillchoose abusiness and
+abusinessstrategy thatismore sustainable,morerevenueproducingandmorefuturistic.
+And, there are also other aspects such asthe founders’ interestsandvalues,the overallgroup
+philosophy and so on. So, with this, we come to the end of this lecture 1 of the 1st week. I
+hope you have enjoyed the introduction to the course and the laying out of the some
+fundamental drivers of business developmentinthe company.And, I lookforwardto meeting
+youagain inthe2ndlectureof week1.
+Thankyouvery much.
+

@@ -1,0 +1,640 @@
+BusinessDevelopment FromStart to Scale
+Prof.C BhaktavatsalaRao
+Department ofManagement Studies
+Indian Institute of Technology,Madras
+Week-01
+Business Fundamentals
+Lecture- 04
+Strategy Formulation
+Hi friends, welcome to the NPTELcourse BusinessDevelopment fromStart toScale. Weare
+in week 1, covering the topic of Business Fundamentals. It is actually the theme of the 5
+lectures. In this lecture, the 4th in the series, we are covering the topic of Strategy
+Formulation.
+(ReferSlide Time: 00:28)
+We have considered in earlier sessions that the strategy of a firm determines how business
+development can take place. It also determines how different functions of a company canbe
+aligned to deliver the results. Strategy formulation is a process that begins with setting the
+vision for thecompany,developing thestrategy, andexecutingit asper atimeline.
+The major building blocks of this process are presented below. Vision is nothing but
+expressing where the company wouldneedto beandthe broaderpurposethe companyhas in
+its growth journey. Vision itself is very broad. Visionneeds tobe supplementedwith mission
+
+and goals. Goals will be most; more specific. Strategy is a set of plans or actions that tellus
+where tocompete, howtocompete, whatresourcestodeploy, andhow toorganise.
+Execution is another name for implementation. Execution includes setting the milestones,
+developing the metrics, monitoring performance against milestones and metrics, and
+providing feedback to the strategy planners and the chief executive officer. There are many
+aspects of strategy formulation that are linked to the context of the firm’s business and also
+theindustry.
+The strategy for an automobile firm is differentfromthe strategyfor an oilandgas firm.It is
+also different from a company which is indulging in fast moving consumer goods business.
+So, thingsaredifferent depending uponthenatureof theindustry.Whilestrategy is holistic,it
+also hasmanycomponents,divisional orfunctional, for example.
+(ReferSlide Time: 02:13)
+The nature of strategy varies, whether the strategy is oneof aconglomerateor ofacompany,
+or of a constituent business. A conglomerate is a group of companies with a common
+ownership structure. A company may have a single business or multiple businesses, so you
+can look at a horizontal spread from the Apex conglomerate through the companies to the
+businesses. In each company, there willbe acorporateplanor abusinessplan for aparticular
+business coveringthevariousfunctional hierarchies.
+
+And when these businesses are combined within a family of a company, it becomes the
+corporate plan for thecompany, andthecorporateplans of thevariouscompanies becomethe
+overall strategic plan for the conglomerate. Now, these lines are shownillustrative typically;
+a conglomerate would be a group of several several companies could be 10,20, 30,depends
+uponthenature of theconglomerate.
+Similarly, a company could be a grouping of several businesses,not justtwobusinesses. The
+complexity of strategy formulation is, therefore,evident,andthis is calledstrategy hierarchy.
+But at the same time, there is also a horizontal spread of the strategy hierarchy as youmove
+into a companysituationandalso into aconglomeratesituation.
+(ReferSlide Time: 03:41)
+There are three interconnected processes of planning, implementing, and control which are
+conducted periodically as per the long-term planning mechanism that used to be there a few
+decades ago. There would be planning, which comprises the corporateplanning, whichboils
+down to the strategic business unit and further cascades down to business planning and
+moves ontoproductplanning.
+Product is the basic atom of developing the strategy. From a product which serves amarket,
+you get into a business, and that business forms the strategic business unit, and then it leads
+to the corporate plan. In terms of the implementing, you need to organise the company in
+termsof thefactor resources, includingpeople,and beginimplementingit.
+
+The controlling module looks at measuring the results, evaluating the results, and taking
+corrective action. Usually, strategic planning is undertaken with a five-year horizon. In the
+contemporary period of fast and dynamic changes in technology and market preferences,
+evena three-yeartimeframeis considered appropriatefor strategicplanning.
+Typically the first year of a strategic plan tends to be the annual budget. The annual budget
+will be firm and fixed, and calendarized in terms of months for execution. However, the
+strategic plan itself, over the three-year, five-year horizon, could undergo certain changes
+based on environmental developments and also the varying internal strengths and
+weaknesses.
+The Chief Executive Officer and the Chief Strategic Officer have the responsibility to
+establish a fine balance between the focus of a reasonably fixed strategic plan and the
+adaptiveness and flexibility of a plan which is dynamically responding to ongoing
+developments; you cannot be too flexible, you cannot also be too rigid. This is the fine
+balance thatisrequired.
+(ReferSlide Time: 05:44)
+There are many practices and outcomes of strategic management. In the theory of strategic
+management, you would find several concepts, theories, frameworks, and models, and these
+help the company to formulate strategy. It also helps the company to execute to achieve the
+desired outcomes. Although this is not a course for strategic management, I will try to
+
+provide you several nuggets of knowledge related to strategic management so that you can
+look atthiswhole domain ofbusinessdevelopment inamoreholistic way.
+Illustratively strategic management requires external analysis of the environment, internal
+analysis of thefirm and itsecosystem, thestrategy formulationprocess itself, andthestrategy
+execution paradigm. And to be able to do that, a company may look at expansion,
+diversification, integration, and restructuring. Each of these activities will be required at
+different partsof thelife ofthe company.
+Expansion is indicated when thereisadequate marketdemand, andyoucould introducemore
+products and capture more market share. The integration will be required when the cost
+competitiveness of the product is desired, and there is sufficient demand to sell a
+cost-competitive product.This integration couldbeforward integrationintothe channels,that
+is, dealerships, customer connect, or it could be backward in terms of the supply of
+components or vendormaterials.
+When there isasaturation ofthe marketor whentherearebetteropportunities,there couldbe
+diversification as a strategic plan component. When the going is tough, and you need to
+reaching the enterprise, you need to undergo restructuring. These are the four ways in a
+company’s thought process. This can be again achieved through four tools collaboration,
+alliance, joint venture, merger and acquisition. In this course, I will comprehensively deal
+with eachof thesethings in laterlectures.
+The ultimate objective of the strategic management process is to provide four financial
+parameters and market parameters. Market share, market capitalization, revenue, and profit
+are the four markers viewed from a marketing as well as financial perspective to help the
+company achieveits dominance.
+
+(ReferSlide Time: 08:17)
+The comprehensive strategyframeworkthat Ihave proposedhereisvery important for youto
+visualize the whole process of strategicdevelopmentover along-term framework.It requires
+environmental scanning, strategy formulation, strategy implementation, and evaluation and
+control to be viewed as four distinct modules, but each interconnected with the other. The
+starting part of a very comprehensive strategic framework is the environmental scanning
+module.
+In this, you require an analysis of the external environment, comprising nature, society,
+economy, and industry. In the past strategic planning approaches, nature was never a factor,
+but today even the ESG considerations, i.e., environmental, social, and governance
+considerations, and also the need to protect the environment, nature, and society have
+emerged as the most important drivers of external analysis, internally we must look at the
+values,culture,structure, andresourcesof theorganization.
+You cannot think of something which is grossly at variance with the internal system thatwe
+have, we need to change the internal system from time to time, but there cannot be an
+immediate gross deviation from whatever are available as internal strengths and internal
+attributes. The strategy formulation process itself comprises four important components:
+Vision and mission, including goals as we have discussed earlier; the objectives, that is, the
+results that are expected; the strategies, that is the planning and plans to achievethe mission
+and objectivesand thepolicieswhich aretheguidelines for makingthe strategies.
+
+Once you have the strategy stitched up, you need to go into the strategy implementation
+phase, which comprises programs and tactics, budgets, and procedures. The evaluation
+control would take place through performance and results. Every module is required to
+provide feedback and landing mechanisms and enable the company to take corrective or
+remediation actionsasrequired.
+(ReferSlide Time: 10:33)
+Leaders tend to label strategies; they look at the strategy process as a labelled process
+outcome paradigm. They look at this as a means to propel their firms toward the desired
+results. Therefore, they see strategies as ones that transform their companies in terms of
+certain key themes. Over a period of time, there have been three broad categories that have
+been developed in terms of labelling strategies; one set is the competitive strategy set, cost
+leadership,differentiationand nichepositioning.
+These are the three generic competitive strategies that areavailable todevelop acompany on
+its growth path. We also have corporate strategies that have been there even earlier to the
+development of the competitive strategy theory. These are integration, diversification,
+venturing, merger,acquisition,andglobalization.
+There have also been functional strategies even prior to thecorporatestrategy regime, which
+includedmarketshare building, product portfoliodevelopment, financialanalysis,operational
+excellence, etc. Whichever way you view the strategy, its linkages with the external
+environment andits appropriateness tothe internalcapabilities cannot beeasilydismissed.
+
+Great leaders build internal capabilities that can proactively cope with environmental
+dynamics. Similarly, great leaders also consider strategy as a wholesome practice that
+comprises competitive strategies, corporate strategies, and functional strategies. All of these
+togetherwill be avery virtuous methodof developingastrategy for acompany.
+(ReferSlide Time: 12:23)
+The business platform, as we may look at for every company, is a combination of vision,
+mission and values, strategy, structure, and execution; this is what I have told in the earlier
+sessions as well. But the time frame for thisvaries fromtimetotime,and valuesaretheones
+which will provide a purposefor the company,whichwill guidethe formulationof thevision
+and mission.
+Strategy isaseries of approachesandstepswhich convertsthe visionand missionintoreality.
+Here, I introduce the third element, which I have not covered earlier in such detail. The
+structure, whether you call it organizational structure or resource structure, or people
+structure, serves as the platform for the business and the related organization to execute this
+strategy.
+When you come through the organizational part of our course, wherein I will briefly touch
+upon the organizational structure, you will see the linkagesof theorganization structurewith
+the vision, mission, and strategy ofthe company,the natureofthe industryandalso the scope
+for business developmentutilizingthe organization structure.
+
+Execution is the process of undertaking through the structure of various acts and activities
+that are required to convert the strategy into reality. One thing we need to remember vision
+and mission stay for a long; they are not annual, iterative statements; they are broad enough
+to help thecompanyguide itselfonits future journey.
+They will get reviewed, reconfirmed from time to time, but not certainly annually. Great
+values, on the other hand, stay on for perpetuity values are so fundamental to a company’s
+goodbehaviour andgoodlivingthat thesearetobe chosenwith greatcare.Oncechosen, they
+must beembeddedinto theDNAof thecompany.
+In contrast to vision, mission, and values, strategy, structure, and execution constitutes the
+core triad whichrequirescontiguous attentionbythe topleaders ofthe company,andstrategy
+structure and execution can be altered from time to time within the overall framework of
+vision missionand values.
+(ReferSlide Time: 14:47)
+Let us look at what vision and mission constitute in terms of the vision and mission
+statements of leading global pharmaceutical companies. Most of the companies must be
+known to you. Pfizer, we apply science and our global resourcestobring therapiestopeople
+that extend and significantly improve their lives. This is a vision statement of the Pfizer
+Corporation, whichisoneof thetop-ranking pharmaceuticalcompanies globally.
+
+What do you see from this application of science? Utilization of global resources,
+development of therapies, and extension and improvement of patient lives; these guidelines,
+these purposes will remain for a long, longtimefor anypharmaceuticalcompany. Therefore,
+this is the way a company defines and embeds its vision into the company. Merck, another
+pharmaceutical company, says we aspire to be the premier research-intensive
+biopharmaceutical companyinthe world.
+Now, what is another pharmaceutical company says?Ourmission istodiscover newwaysto
+improve and extend people’s lives. Our vision is to be a trusted leader in changing the
+practice of medicine. Abbott is also a great pharmaceutical company. It says even more
+simply, live your best life now and in the future. AstraZeneca talks about pushing the
+boundariesof scienceto deliverlife-changing medicines.
+GSK is another leader with a long heritage; we are a science-led global healthcare company
+with a special purpose to help people do more, which means be more active, achieve more,
+feel better, and live longer.BristolMyersSquibb, another Stalwartcompany it,says discover,
+develop, anddeliverinnovative medicines thathelp patientsprevail over seriousdiseases.
+Now, the way you define the disease over serious diseases which means that BMS will be
+more inclined towards developing challenging therapies rather than small over-the-counter
+medicines. So, this is animportant visionarystatementthat tellsthe company whereit should
+focusits energieson.
+Amgen, is a leading biotherapeutics company. Amgen strives to serve patients by
+transforming the promise of science and biotechnology into therapies that have the powerto
+restore health or save lives. In everything we do, we aim to fulfill our mission to serve
+patients.Roche,again another leadingcompanyit, says doingnow whatpatientsneed next.
+Allergan is a company it says, I will continue as an innovative technology-driven global
+healthcare company, focused on pharmaceuticals in specialty markets that deliver value to
+customers, satisfy unmet medical needs, and improve patients’ lives. You can also see the
+kind of differencesin how thevision statementsaredefinedbydifferent companies.Someare
+very simple, as in thecaseof Abbott.Liveyour best lifenow andinthe future;some arevery
+elaborate, as in the case of Allergan andAmgen,and inmost cases,vision statementstendto
+be betweenthetwo.
+
+(ReferSlide Time: 18:12)
+How do you craft a mission statement? Once youhave thevision, youneed totransformthat
+into a mission statement so that people can perceive that in a tangible fashion. A good
+mission statement will have six major characteristics. One, it will be concise, it will have
+limited goals, andthegoals willbe verymeaningful.
+Second, it will have values and those values will be very clearly seen in the mission
+statement. It also ensures that the company follows a policy of integrity in all its thoughts,
+expressions, and deeds. It clearly defines the future and provides a timeline. A mission is
+usually for the long term for 5 to 10 years, and it will be sustainable for an oil and gas
+company; the mission could be to maximize the development of green energy so that the
+green energy produced by the company is at least50percent ofthe totalenergy outputof the
+company. It is a mission whereas, in terms of the vision, the vision could have been to
+transform itself into a total clean energy company over a period of 10 years, 15 years like
+that, so the vision is given a more concrete space, more concrete direction in terms of the
+mission.
+The mission will beinspiring topeople;itmotivates the peopleand createsownershipwhena
+mission of electrification of the automobile lineup is given to the organization, and that
+motivates the peoplebecausethey aregoingtohandle newtechnology, transformthe markets
+change the customer mindsets, create a new infrastructure and also in the process become
+morecompetitiverelativetothe othercompetitors.
+
+And anotheraspect of themission isthat itwill serveas thebridgebetween thevision andthe
+strategy. Straight away from the vision, it is challengingtotranslate intostrategy becausethe
+vision is so broad in terms of its purpose, whereas if you have a mission which takes you
+through the missionary steps, it will help in better guidancefor thestrategy. Businesshistory
+hasmanyexamplesof leadershipmissions enablinggame-changingproductsandbusinesses.
+(ReferSlide Time: 20:27)
+I have given here an example of Hospira; it has avision withamission, ithas astrategy,and
+it has structure and execution. I was part of the Hospira ecosystem between 2010 and 2015,
+and I was the managing director of Hospira in India as well. The vision with the mission is
+that we should keep our patients first, and we should do that withintensive caretherapiesso
+that life-saving is made possible, and it has, therefore, become the world’s largest range of
+sterile injectable products and medical devices that are an offer. In terms of strategy, it said
+that we should drive growth and competitiveness with investments not only in the United
+States, which is the parent country, but also in India for expansion, integration, and
+diversification.
+(Refer Time: 21:16) in order to do this, it has developed a structure, world-class
+manufacturing, and R&D facilities in India, again supported by global R&D and
+manufacturing facilities. In fact, it is a complementarity that has happened with network
+collaboration and execute in an agile and nimble fashion along with cultural transformation.
+This isthevision,mission,strategy, structure,execution,and growthframeworkfor Hospira.
+
+(ReferSlide Time: 21:45)
+But the strategy itself was panned out in terms of a set of programs. Usually, strategy is
+implemented in a project or program mode; it is the synchronized culmination of these
+projects and programs that helps the firm advance its growth path and also achieve
+sustainablecompetitiveadvantage.
+An example from Hospira’s India strategy in the period 2010 to 2015 is as below. It
+comprises of 10 distinct programs. 1 acquire orchid sterile antibiotics injectables business,
+both manufacturing and R&D. The idea was to start off in India with a readymade high
+quality (Refer Time: 22:27) day compliant R&D and manufacturing base and also an
+injectables drug pipeline.
+Once the acquisition is done, you must double the acquired antibiotics manufacturing R&D
+capacity because, as a company, Hospira had a global footprint and had better resources to
+produce more and also market more. The 3rd program was to establish a biologics R&D
+facility because the future is bio-stabilized. The 4th program was to establish a medical
+device R&D facility because the company is committed to total healthcare not onlyin terms
+of medicines butalso intermsof devicecare.
+The 5th established non-antibiotic sterile injectables facility because some of the
+non-antibiotic sterile injectables, be it vitamins or be it antibiotics, are all important for a
+patient’s comprehensive health care. Then you needed to backward integrate to achieve
+greater competitiveness. Therefore, acquire the antibiotics API business, sterile and
+
+non-sterile manufacturing, and R&D. The 7th item was to establish global centres of
+excellencein medicalaffairsandregulatoryaffairs.
+The 8th item was to conduct product and technology transfers to Indian sites, and the 9th
+project was to rationalize global development andmanufacturing footprint.And 10get intoa
+space which is very vital for terminal stage developments of life, which is commitment,
+which is the enhancement of the commitment to oncology joint ventures that develop
+anti-oncology medicines.
+This India strategy which comprised of the overall strategic direction of being in the
+life-saving business for patients and having a mission of transforming the overall
+competitiveness with a strong India presence resulted in enhanced capacity, lower cost, and
+increasedglobal businessfor Hospira.
+(ReferSlide Time: 24:29)
+There will always be structural barriers to the implementation of the strategy. Now, these
+structural barrierswill be therewhenotherfirms raisethe structuralbarriers; likewise,you,as
+the company forming the strategy, have to raise structural barriers so that others cannot
+simply copy your strategies you should raise structural barriers, which avoid forays by
+competition or negatethemandfor that, youneed clearstrategies andexecution.
+I have given you five examples here of companies which have created such structural
+barriers. Ashok Leyland, the leading truck and bus manufacturer, has created structural
+
+barriers by developing, manufacturing, and marketing for decades difficult to replicate
+products. Maruti Suzuki has createda structuralbarrierbyowningand dominatinghigh-class
+channel access right from the time it introduced its state-of-the-art products in the Indian
+automobileproduct.
+Samsung created a structural barrier by building brand equity. Apple has created astructural
+barrier by ensuring purchase stickiness, i.e., theecosystem developedbyApplewasfound so
+engrossing and so endearing for theAppleusers thatthey remainwith Apple,andthe general
+saying is that if you are an Apple customer, you would not try out anything else and for
+Kalyani leading manufacturer of forgings the structural barrier was in terms of scale and
+scope economics.
+The core was creating the difficult-to-manufacture cracks shafts for big internal combustion
+engines, and from there, increased scaleandscope wasaimedat. Googlecreatespatentestate
+proactively. Tata Motors judiciously integrate diversify; itis theonlyautomobile company in
+India which covers everything from the smallest passenger car to the biggest truck and bus.
+Hyundai ensurespreferred supplieraccess.
+Nissan, which has teamed up with Reno co-own and co-share facilities and for DuPont to
+maintain hard-to-imitate EHS and ESG policies. Now, these structural barriers are based on
+certain core competency which is owned further. But it does not mean that the company
+wouldnot haveothercapabilities.
+In fact, each of these ten factors would be present in some measure or the other with the
+various manufacturers that are listed here. But they have used one of these things to be a
+rather insurmountable channel access orproductcapability structuralbarrier, as inthecaseof
+MarutiSuzuki andAshokLeyland, thatothers findit difficult toovercome thosebarriers.
+Raising the structuralbarriers,includingthe entryandmobilitybarriers, isthe mostdefensive
+play for a firm; evenasyou pursueanaggressivestrategy ofbusinessdevelopment, youneed
+to have defensive structural barriers so that the business can be constructed and managed
+fruitfully and seamlesslyinthe future.
+
+(ReferSlide Time: 27:48)
+Business is all about delivering results. Leaders of corporations achieveresults bydeploying
+products, services, facilities, people, and capital for the marketplace. The purposeistoserve
+people, businesses, markets, and theecosystem. Peoplearethe consumers, andpeople arethe
+employees are at the core of any particular corporatesetup, andthenyouhave thebusinesses
+which deal with the markets and serve the markets, and we have the entire ecosystem ofthe
+company.
+Now, we have this ecosystem comprising facilities and vendors, products and services,
+capital resources, and human resources; every company will have this. However, strategic
+leadership is the art of creating a very special alchemy, a very distinct process alchemy that
+makes the ideas spring up in a very unique manner, get strategized in a veryunique manner,
+and also get executed in a very unique manner. And that strategic alchemy is something
+which isgoingto differentiate yourcompany fromothercompanies.
+You need to understand strategy in all its depth in all its breadth to be able to develop this
+strategic alchemy; as you proceed, it is not just a set of plants that need to be written down
+and circulated to departments is much more than itis creatinga DNAofstrategic alchemyin
+thecompany.
+
+(ReferSlide Time: 29:15)
+But wealsomust remember thatwhatever structuralchangesyoudo,whateverstrategic shifts
+you undertake, the core purpose of a business does not change, as we are aware that
+industries, businesses, and companies have been changing over the last few decades but if
+you really look at closely the core value or the core purpose of each business that is the
+customer centricity does not change andthegreaterthe customer centricityofyour company,
+theeasier wouldbethetransitioninthe transformationjourney.
+Let us look at digital personalization in banking. When youlookatdigitizationhappening in
+banking, you may think that, oh my god, banking is going to be completely different in the
+future; there may not be so many branches,there maynotbe peopleexchangingchequesand
+receiving cash all those kinds of thoughts may come, but the corepurposewhichis financial
+empowerment of individuals is not going to change. In fact, it is going to be made much
+betterwith thedigitalpersonalizationthat is happeningin banking.
+Let uslook attheautonomous connectedautomobiles. Atonelevel,weunderstand thatthis is
+going to completely transform theautomobile industry;the structureof vendors,thestructure
+of products, the manufacturing processes, and the overall designs aregoingto becompletely
+different in the future, but does the basic purpose the basic customer centricity change? No.
+Mobility as a service continues to be the main purposeofthe automobileindustry,whetherit
+is powered by clean energy engines or in any other manner by any other way, including
+autonomy.
+
+Let us look at pharmaceuticals. We have chemical molecules that have ruledthe rulessofar,
+and today 50 percent of the molecules which are used as medicines or biologicalmolecules,
+and in the future, it could be 75 percent biological molecules. Other methods of
+pharmaceutical development, suchas regenerativemedicine andcustomized medicine,areall
+coming through, but what is the core purpose? What is thecoreconnectwiththe customers?
+Healthcare is the patient’s right; every individual who has come into this worldhas theright
+to have ahealthylife, and thepharmaceuticalindustry’s main purposeremainsthe same.
+For renewable energy, concern for theplanet,this isthe customer-centric themeandpurpose;
+for farm modernization, aligning formproductivity andfarmersecurity;and for omnichannel
+marketing, better customerservice. So, youlookatthe industrialtransformationsnot interms
+of the nuts and bolts of the transformationorin termsof theclicksand sitesofthe industryit
+has to be viewed in terms of the basic customer connectivity that remains as it was, but and
+gets enhanced in terms of the smoothness, cleanliness, and prosperity of the process that is
+taking place.
+So, leaders should not look at industry restructuring only in terms of structural and strategic
+factors instead, they should appreciate each and every change to see how the customer
+interests can be better served. A leader’s primary engagement should be with the customer,
+not with just the technologies of changing the industry structure or changing the products.
+Ways of serving couldbemany, butwaste arenottheprimary purpose.In normallife,wesay
+that destinationisnot important,the journey isimportant.
+But in this case, we say that the destination which is serving the customer is the most
+important; we may take different journeys, and we may take different ways to serve the
+customer. The customer is the primary purpose,somethingwhich MahatmaGandhisaid long
+long ago. The locus must change from firm customer interface to product customer
+experience,and thisisthecorepurposethat must drivestrategyformulation incompanies.
+
+(ReferSlide Time: 33:29)
+Let us take one example of how an organization gets redesigned. I take the example of
+electric vehicles; there are 6 principles of organizational redesign. They are very easy to
+implement and very effective in terms of organization transformation, but these need to be
+planned and executed methodically as per the construct below. There are 6 steps, as I said.
+The first step is to review the external and internal ecosystems and review roles and
+performance.
+Second identify new growth drivers at three levels, departmental, new hires, and reskilling.
+Determine currentstate andfuture state,prioritizedtransformation. Determinenewleadership
+requirements and onboard new leaders. Create organization transformation; create ateamfor
+that maketheCHROor the ChiefHumanResourceOfficer the executor.Rolloutthe pilotsin
+theidentifiedareas,and extendorganization-wide afterfeedback.
+Now, to be able to do that, you need partners; the partners are internal and external
+stakeholders, i.e., the ecosystem residents and the external input givers, the organization
+consultants, the search agencies, and the board of directors. These are the partners in the
+organizational redesign journey. A leader and his managers or her managers may be able to
+undertakeall of theorganization’s redesignactivitiesbythemselves.
+However, it will make sense to seek external adviceincertain areasbecausetechnologies are
+changing, customer preferences are changing you require anindependent third-partyviewon
+the latest trends and the futuristic trends. So, that any entry into a new domain is seamless
+
+and also very effective. Now, let us roll out theelectricvehicle exampleinterms ofthesesix
+steps.
+(ReferSlide Time: 35:27)
+The first step is the review ofinternal andexternal ecosystems.Theredesigned principlesfor
+mono-product companies are simpler compared to others. However, the roles, processes,
+people, and performance management system need to be reviewed every few years. Now,
+how do you do that? You develop the manufacturing and ecosystem-related paradigm over
+several years.
+Before it gets ossified, you need toreviewthat;youshouldidentify thechange triggersat the
+product component and vendor level. Identify also the external change triggers, customers,
+dealers, regulatory and usage terms. Review the demand and marketing system, review the
+talent ecosystemin theindustry, andfinally,identify thepeople skills.
+In the context of the sugar industry, the external inputs that have come in terms of ethanol
+blending it hasbeenagreat inputhow the sugarindustryrestructuresitself andalso servesthe
+oil industry and, therefore, the automobile and transportation sectors. The government has
+mandated that there should be a blending of 20percentof ethanolby2023ithas accelerated
+its mission by a few years, and that has radically changed the way sugar by-products that
+molasses areused.
+
+Similarly, there is a mandate that there should be a blending of 5 percent of biodiesel in
+diesel. We consume several million tons of petrol and diesel withhugeimportation cost, and
+that importation cost isballooninginthe contextofrupeedepreciation, butthis governmental
+input in terms of themandate orguidance,whateveryoumay callisnudging theindustriesto
+take fundamental transformations in how they conduct their manufacturing processes and
+develop their products and by-products and that leads to the creation of new facilities,
+reviewing of thetalentecosystem,identifying newpeople skillsandvarious otherparameters.
+So, the study of internal and external ecosystems is very important to ensure that there isan
+industrial transformation in the appropriate time and it also helps you identify the gaps and
+take stepstoredesigntheorganization structureandredefinethe rolesingoodtime.
+(ReferSlide Time: 37:52)
+The second is to identify new growth drivers, alright. You want to go to electric vehicle
+manufacturing. But what are the new departments that you require? You had an engine
+developmentdepartmentearlier inyour R&D.You maynotrequire it tothat extent.However,
+you require abatterydevelopmentdepartment,anda thermalmanagement systemdepartment
+idea.
+You had redesigners in terms of the overall industrial design of the passenger car, buttoday,
+you have batteries put underneath on to the chassis, and both the front bonnet and the dicky
+are available for loading of goods. Now, whether you would like to load the goods or
+reconfiguretheentirecarto beamorecompact vehicle.
+
+These are all the challenges you have; therefore, you require newdepartmentsandexpanded
+departments. So, in respect of electric vehicle development, it is not that ice engine vehicles
+will disappear overnight; they would continue for a long time, maybe another 10 years, 20
+years, andalso improvementof thevehicles ontheroad.
+Therefore, you require along with the established skills though they are calibrateddown ina
+phased manner, you require new R&D skills, hybrid and electric development units, vendor
+development for new electric and electronic components, technology sourcing, vendor
+investment, testing, and homologation etcetera. Similarly, you require new ecosystem
+coordinators.
+The ecosystem, as defined earlier, will get supplemented with charging stations, battery
+swapping, arrangements, government incentives, vehicle financing, dealer development, etc.
+So, as a result, you get a new hybrid organization which is capable of managing the
+established ice engine-based vehicle lineup. But also introduce and eventually take over the
+ice engine-basedvehicleover aperiodof 10to15years.
+So, there will be three types of gaps that are identified in this process need for entirely new
+departments; batteries would not have been a departmental concern at all. Now, a news
+department or sub-department has to becreated for the developmentof batteriesandalso the,
+thermal managementsystemsandthe motors,etc.
+You also require a new department for developing connected vehicles or autonomous
+vehicles. Secondly, you need to develop new skills in the people who are already in the
+company because you cannot (Refer Time: 40:52) the existing organization, and the talent
+will not beavailable of the newskillstothe extentyourequire.
+Therefore, you need to skill the existing people. The third is the need for reskilling the
+existing employees. So, you have skilling the departments with the new capabilities and
+reskilling the existing employees with training, coaching, and development, and identifying
+of newdepartments thatneedtobe ininstituted allthe threehave tohappentogether.
+
+(ReferSlide Time: 40:53)
+Step 3 is to establish the current state of the company and the future state. And defining the
+future state is extremely important to ensure thatthe keyin-houseand externalcompetencies
+are shaped up in the way that will support the future state and that is the redefinition of the
+organization. So, in terms of R&D from the current state of ICengineand transmission,you
+goto electricpowerpackand transmissiontechnology.
+Procurement from routine mechanical and electrical items you go into new electrical and
+electronics items. Vendor development, which is a normal process ofprocurement willmove
+into a new vendor development and qualification process almost on a green field basis. You
+need to have technology sourcing moved away from part of regular R&D to a new
+technologyscanningand sourcing department.
+On road, the operation will be handled by regular street mechanics, service centres, and
+various other network opportunities that the companies have built up over the years in the
+current state. However, in the future state, you need to have new departments for battery
+charging and swapping and also remotely managing the connected vehicles in case of any
+anomaly.
+Start-up development was required only minimally, even over the last few years in the
+conventional automobile industry, but in the future state, you require certainly a new
+department for evaluating the EV start-ups that are sprouting up and that are showing
+promise. In terms of testing, all the certification and homologation requirements in the
+
+current state are standardized, and it is repetitive, but when it go comes to the future state,
+you need to have new certifications for electric vehicles and components. By not having
+those certifications, we have also seen that the evolution of the future state will have a
+setback, beit in termsof rangeproblems orin termsof thequalityproblems or,unfortunately,
+in terms of fires which engulf electric vehicles. Therefore, you need to have all of these
+things happeningwith aneye onthefuture state.
+It is a virtual reinvention of the entire component and vehicle infrastructure asfaras electric
+vehicles are concerned. These gaps can, of course, be bridged in the usual course, but
+transformations of this nature suddenly require total reinvention that is why youshould look
+atstep 3ingreat detail.
+(ReferSlide Time: 43:26)
+Step 4 is to create a new leadership nucleus. An organization under transformation to new
+technologies as well as new business models will require anewplaceof newleadersor even
+transformed leaders who can guide and execute the redesign and transformation process
+because leaders are the ones who are going to set the vision, define the mission and tell the
+organization howto moveforward.
+So, you have the Apex leader. Under the apex leaderwill haveCXOs,there willbea current
+R&D head, but he would have team leads who are newly skilled and reskilledofthe current
+capabilities. Second, there will be a new development head for electric vehicles who will
+
+have new departments. The current operations head will be reskilled to handle the electric
+vehiclesaswellastheestablished vehiclessimultaneously.
+There would be a newEV operations headwill beresponsiblefor end-to-end developmentof
+new technology components, operationalizing them, and putting them into the marketplace.
+So, that will be the new thing. So, upskilling,newskilling, wholenewdepartments,andnew
+leaders wouldbetheentiregamut ofcreating the newleadershipnucleus.
+So, we have to strengthen the organization substantially through the above construct, and
+also, at times, you may have to take selective one-time consultancy support. So, thatthere is
+lessof fixedcost andmore ofsustainablecost asyoutry todoan industrytransformation.
+(ReferSlide Time: 45:07)
+Step 5 when you look at an organization transformation it has to be companywide, but the
+tone at the top is very important; the top leadership needs to set the guidance, but also see
+how the guidance is actually getting executed in practice. So, we need an organization
+transformation teamwhich willhave threelayers.
+The top layer is the governance team comprising the CEO and the CXOs; the middle layer
+will be thetransformation team,thatis theteamfull of newskillsandthe abilitytoupskillthe
+existing organization, the CXOs, and the CHRO and the third the operating team for the
+execution team which will comprise the Chief Human Resource Officer and various
+departmentalheads.
+
+When they put their heads together in these three layers, they will be able to provide the
+required support to the transformation task, serve as sponsors to the transformation andthey
+themselves will take accountability and ensure accountability. This is the way in which
+organizationscantransform whenamagnitude ofthe electrificationscale isenvisaged.
+(ReferSlide Time: 46:16)
+Step 6 is the pilot rollout and organization expansion. Each business transformation will
+require a distinctiveorganizationalexecution tosuit thepriorities. Therearesome advantages
+of a nationwideexecutionor pan-productexecution, butapilot rolloutcould bevery practical
+in terms of optimizing cost andcoursecorrecting.
+So, phase1in theelectrificationendeavorcould befirst hybrid andelectricR&D followedby
+battery vendor development in parallel or sequential and then technology sourcing. Phase 2
+could be start-up evaluation and investment, full-scale vendor development, testing, and
+homologation. GeneralMotors hasbeen inelectricvehicle developmentfor several years,but
+it has been evaluating start-ups to understandwhetherdecarbonization couldbea technology
+that could be integrated; after 3-4 years of evaluation, it has taken a new start-up under its
+belt for decarbonising. Therefore, in phase two, you start degrading new technologies from
+the external ecosystem; you also undertake full-scale vendor development, testing, and
+homologation.
+In phase 3, you look at the ecosystem dealer development pilot and full-scale organization
+rollout. So, acquiring new core competencies, developing new components and electric
+
+vehicles, rolling out of the pilots to demonstrate thenewrange,andfinally, standardizingthe
+commercial new electric vehicle range is a sequence that needs to be followed, and some of
+them obviously,will overlapinto thepreviousstages aswell asinto thefuture stages.
+This execution plan, Phase 1, Phase 2, and Phase 3, which will focus on core technologies,
+core components, and new waysofdevelopment andmanufacture, willbethe right answerto
+rapidand successfulelectrificationof theautomobile industry.
+(ReferSlide Time: 48:12)
+Tobe ableto dothat,yourequire leaders whocan make history.Sony’sfounder, AkioMorita,
+wanted everyone to have access to “personal portable sound,” so his company created the
+Walkman and portable CD play decades ago. Fred Smithwanted todeliver mailanywherein
+the United States before 10.30 AM the next day, so he created FedEx. Steve Jobs’ mission
+and itsimprint onApple neednointroduction.
+Strategic management in overall and strategic marketing, in particular, get significant
+inspirational guidance from a well-crafted mission and leadership that supports thismission.
+Leaders have been instrumental, pivotal, and highly valued in transforming their companies
+from what they have been to what nobody imagined them to be; that is why missions are
+important, and for missions to make history, you need visionary leaders who can make
+missionsthat canbefuture history.
+
+(ReferSlide Time: 49:18)
+In this, we need to have marketing support or a business development setup; there are some
+co-marketing processes that help. So, from this supply of the strategic marketing process,
+which is aligned to thecorporate strategyand businessdevelopmentprocesses,youalso have
+to be very focused on the market, and you have to sense the market; it is simply notenough
+for a company to saythat Iwill gointoat quicklydevelopment youhaveto sensethemarket,
+what is the nature if people are charging their vehicles in the homes inside the rooms? How
+do I ensure that these are error-proof? How are these going to befire-proof?And whatother
+kindsof chargingtechnologycan offer?
+People should not, you know, repeat the same kind of mistake which Tata Nano did; it
+developed a beautiful product but did not understand how it could be parked by the people
+who are, in the past, owners of motorcycles with minimal parking space. Therefore,parking
+space alone, in my opinion, derails the Tata Nano strategy. Similarly, if the electric vehicle
+manufacturers have no understanding of how vehicles are going to be charged at home or
+elsewhere, theelectricvehicle endeavorcould fail.
+Therefore, sensing of the market, gathering and acting upon information about the marketis
+extremely important. We also need tohavea realizationabout thenewoffering. So, youhave
+to research, develop andlaunchnewhigh-quality offeringsquickly andwithin budget.It took
+8or 4years tolaunch thenext generation ofelectricvehicles. Is thatacceptableis ithelpful?
+
+The third one is customer acquisition. The core customers for any new vehicle development
+or any new industrial product, or consumed product development are extremely important.
+They provide word of mouth based on the performance of the product and theexperienceof
+the users. Therefore, we need to define the target markets and prospects for the new
+customersin avery targeted manner.
+Then customer relationship management also becomes very important. We have to build a
+deeper understanding relationships and offerings to individual customers because you got to
+go the extra mile to make sure that they offer atotallynewproduct;receiving andapproving
+orders,shipping goodson time,andcollecting paymentispartof thefulfil manage;fulfilment
+management whichneeds tobedone evenmorerigorously.
+In any industrial transformation, marketing processes which are focused on products and
+customershaveto betransformed intofully end-to-end connectedas depictedabove.
+(ReferSlide Time: 52:06)
+We also have as part of strategy, as part of business development, organization structures,
+playing very useful and very important role international organization structure is one such
+primary. For example, typically in any development of industry there will be 5 stages. In
+stage 1, the industry would comprise domestic companies. Stage 2domestic companieswith
+exportdivisions. Stage3primarilydomestic companieswithinternational divisions.
+
+Stage 4, multinational corporations with multi-domestic emphasis and in stage 5,
+multinational corporations with a global emphasis on networking. Most developed countries
+and the leading companies of the world are in stage 5. Be it the Unilever, be it the General
+Electric, beit theApple or anyothersuch companies.
+In India, companies have started from stage 1 post-independence, they moved on to stage 2
+very quickly, they got stuck in stage 3 for quite some time, and now they are looking at
+globalizing themselves. Look at the example of Tata Motors, Tata Steel and various other
+companies.
+Companies are also becoming global by inviting multinational companies to take stakes in
+their corporations and, in this process, becoming more global. Theexampleof ancientpaints
+between 1945 and 2020 is a classic example of how an India-based operation has become a
+globalized operation through the acquisition of multiple manufacturing facilities and some
+R&D facilities in various regionsof theworld, includingtheMiddleEast, Africa,Europe and
+several other geographies which the company has not thought about when it started its
+journey1945.
+So, the development of organization structures which we will consider in greater detail later
+is an important aspect of business developmentandglobal strategization.Withthis, wecome
+to the endof this lecture.
+Thankyoufor your kind attention.We willmeetagain inthe nextlecture.
+
