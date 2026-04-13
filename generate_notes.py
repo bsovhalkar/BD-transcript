@@ -82,7 +82,17 @@ RAW TRANSCRIPT:
 
 
 def parse_lecture_range(value: str) -> list[int]:
-    """Parse a range string like '1-10', '5', or '1,3,5-8' into a list of ints."""
+    """Parse a range string into a sorted, deduplicated list of lecture numbers.
+
+    Supported formats:
+      - Single number: '5'       → [5]
+      - Range:         '1-10'    → [1, 2, ..., 10]
+      - Mixed list:   '1,3,5-8' → [1, 3, 5, 6, 7, 8]
+
+    Raises:
+        ValueError: If any part of the string cannot be converted to an integer,
+                    or if a range is malformed (e.g. non-numeric bounds).
+    """
     lectures = []
     for part in value.split(","):
         part = part.strip()
@@ -95,7 +105,19 @@ def parse_lecture_range(value: str) -> list[int]:
 
 
 def extract_text_from_pdf(pdf_path: str) -> str:
-    """Extract all text from a PDF file using pdfplumber."""
+    """Extract all text from a PDF file using pdfplumber.
+
+    Args:
+        pdf_path: Absolute or relative path to the PDF file.
+
+    Returns:
+        A single string containing all page text joined by double newlines.
+        Returns an empty string if no text could be extracted.
+
+    Raises:
+        FileNotFoundError: If the PDF file does not exist.
+        pdfplumber.exceptions.PDFSyntaxError: If the file is not a valid PDF.
+    """
     pages = []
     with pdfplumber.open(pdf_path) as pdf:
         for page in pdf.pages:
@@ -105,12 +127,35 @@ def extract_text_from_pdf(pdf_path: str) -> str:
     return "\n\n".join(pages)
 
 
+def _backoff_wait(lecture_num: int, attempt: int, reason: str) -> None:
+    """Log a retry message and sleep for an exponentially increasing duration."""
+    wait = INITIAL_BACKOFF * (2 ** (attempt - 1))
+    tqdm.write(
+        f"  [Lecture {lecture_num}] {reason}. Retrying in {wait}s "
+        f"(attempt {attempt}/{MAX_RETRIES})…"
+    )
+    time.sleep(wait)
+
+
 def generate_notes_with_retry(
     client: OpenAI, lecture_num: int, transcript: str
 ) -> str:
-    """Call OpenAI API with exponential backoff on rate-limit / transient errors."""
+    """Call OpenAI API with exponential backoff on rate-limit / transient errors.
+
+    Args:
+        client: An initialised OpenAI client.
+        lecture_num: The lecture number, used only for log messages.
+        transcript: The raw text extracted from the lecture PDF.
+
+    Returns:
+        The generated Markdown notes as a string.
+
+    Raises:
+        RateLimitError: If the rate limit is still exceeded after MAX_RETRIES attempts.
+        APIError: If a transient API error persists after MAX_RETRIES attempts.
+        RuntimeError: If the retry loop exhausts without returning (should not occur).
+    """
     prompt = NOTE_TEMPLATE.format(lecture_num=lecture_num, transcript=transcript)
-    backoff = INITIAL_BACKOFF
 
     for attempt in range(1, MAX_RETRIES + 1):
         try:
@@ -126,21 +171,11 @@ def generate_notes_with_retry(
         except RateLimitError as exc:
             if attempt == MAX_RETRIES:
                 raise
-            wait = backoff * (2 ** (attempt - 1))
-            tqdm.write(
-                f"  [Lecture {lecture_num}] Rate limited. Retrying in {wait}s "
-                f"(attempt {attempt}/{MAX_RETRIES})… ({exc})"
-            )
-            time.sleep(wait)
+            _backoff_wait(lecture_num, attempt, f"Rate limited ({exc})")
         except APIError as exc:
             if attempt == MAX_RETRIES:
                 raise
-            wait = backoff * (2 ** (attempt - 1))
-            tqdm.write(
-                f"  [Lecture {lecture_num}] API error: {exc}. Retrying in {wait}s "
-                f"(attempt {attempt}/{MAX_RETRIES})…"
-            )
-            time.sleep(wait)
+            _backoff_wait(lecture_num, attempt, f"API error: {exc}")
 
     raise RuntimeError(f"Failed to generate notes for Lecture {lecture_num} after {MAX_RETRIES} attempts.")
 
