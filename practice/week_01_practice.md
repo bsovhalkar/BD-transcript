@@ -15,55 +15,55 @@
 ## 2. MCQs
 
 Q1. Business Development is best described as:
-A. Only increasing sales volume
-B. A strategic activity creating, nurturing, and expanding businesses
-C. A subset of accounting functions
+A. A strategic activity creating, nurturing, and expanding businesses
+B. A subset of accounting functions
+C. Only increasing sales volume
 D. Only handling customer complaints
 
 
-**Answer: B**
+**Answer: A**
 
 Q2. Which activity focuses on long-term market positioning and brand communication?
 A. Sales
-B. Marketing
+B. Operations
 C. Procurement
-D. Operations
+D. Marketing
 
 
-**Answer: B**
+**Answer: D**
 
 Q3. Porter's Five Forces does NOT include:
-A. Threat of New Entrants
-B. Bargaining Power of Employees
-C. Industry Rivalry
-D. Threat of Substitutes
+A. Threat of Substitutes
+B. Threat of New Entrants
+C. Bargaining Power of Employees
+D. Industry Rivalry
 
 
-**Answer: B**
+**Answer: C**
 
 Q4. At which level does BD involve managing a portfolio of businesses?
-A. Functional level
-B. Corporate level
-C. Business Unit level
-D. Operational level
+A. Corporate level
+B. Functional level
+C. Operational level
+D. Business Unit level
 
 
-**Answer: B**
+**Answer: A**
 
 Q5. The Ansoff Matrix strategy with LOWEST risk is:
 A. Diversification
 B. Market Penetration
-C. Product Development
-D. Market Development
+C. Market Development
+D. Product Development
 
 
 **Answer: B**
 
 Q6. PESTEL stands for:
-A. Political, Economic, Social, Technical, Engineering, Legal
+A. Product, Economy, Sales, Trade, Export, Logistics
 B. Political, Economic, Social, Technological, Environmental, Legal
 C. Planning, Execution, Strategy, Technology, Equity, Logistics
-D. Product, Economy, Sales, Trade, Export, Logistics
+D. Political, Economic, Social, Technical, Engineering, Legal
 
 
 **Answer: B**
@@ -78,31 +78,31 @@ D. Introduction → Maturity → Growth → Decline
 **Answer: B**
 
 Q8. STP stands for:
-A. Sales, Trade, Promotion
-B. Segmentation, Targeting, Positioning
-C. Strategy, Tactics, Planning
+A. Segmentation, Targeting, Positioning
+B. Strategy, Tactics, Planning
+C. Sales, Trade, Promotion
 D. Supply, Trade, Procurement
 
 
-**Answer: B**
+**Answer: A**
 
 Q9. Core competence in BD refers to:
 A. Only technical skills
-B. Unique bundle of skills and technologies that creates competitive advantage
-C. Annual revenue target
-D. HR training program
+B. Annual revenue target
+C. HR training program
+D. Unique bundle of skills and technologies that creates competitive advantage
 
 
-**Answer: B**
+**Answer: D**
 
 Q10. Customer Lifetime Value (CLV) measures:
-A. One-time purchase value only
-B. Total revenue a customer generates over their relationship with the firm
-C. Cost of acquiring one customer
+A. Total revenue a customer generates over their relationship with the firm
+B. Cost of acquiring one customer
+C. One-time purchase value only
 D. Average transaction size
 
 
-**Answer: B**
+**Answer: A**
 
 Q11. SWOT analysis components are:
 A. Sales, Work, Operations, Trade
@@ -114,13 +114,13 @@ D. Supply, Workforce, Operations, Technology
 **Answer: B**
 
 Q12. EBITDA stands for:
-A. Earnings Before Interest, Taxes, Depreciation, and Amortization
-B. Equity Before Income Tax, Dividends, and Assets
-C. Estimated Budget Including Tax, Depreciation, and Allowances
+A. Estimated Budget Including Tax, Depreciation, and Allowances
+B. Earnings Before Interest, Taxes, Depreciation, and Amortization
+C. Equity Before Income Tax, Dividends, and Assets
 D. Earnings Based on Interest, Trade, Dividends, and Assets
 
 
-**Answer: A**
+**Answer: B**
 
 Q13. Which of the following best describes a value chain?
 A. A distribution network for products
@@ -134,308 +134,308 @@ D. A supply chain for raw materials only
 Q14. Industry Rivalry in Porter's Five Forces refers to:
 A. Competition with government bodies
 B. Intensity of competition among existing firms in the industry
-C. Rivalry between suppliers and buyers
-D. Competition for government contracts
+C. Competition for government contracts
+D. Rivalry between suppliers and buyers
 
 
 **Answer: B**
 
 Q15. Competitive advantage is best defined as:
-A. Having the lowest cost always
-B. An attribute that allows a firm to outperform competitors sustainably
-C. Owning the most patents
-D. Having the largest workforce
+A. Having the largest workforce
+B. Having the lowest cost always
+C. An attribute that allows a firm to outperform competitors sustainably
+D. Owning the most patents
 
 
-**Answer: B**
+**Answer: C**
 
 Q16. BD at the Business Unit level focuses on:
 A. Corporate portfolio management
-B. Competitive strategy for a specific business
-C. Functional HR management
-D. Only daily sales transactions
+B. Functional HR management
+C. Only daily sales transactions
+D. Competitive strategy for a specific business
 
 
-**Answer: B**
+**Answer: D**
 
 Q17. Which is a leading indicator of future market share?
-A. Historical revenue
+A. Current headcount
 B. Brand awareness and customer satisfaction scores
-C. Current headcount
-D. Quarterly profits
+C. Quarterly profits
+D. Historical revenue
 
 
 **Answer: B**
 
 Q18. Market Development as an Ansoff strategy involves:
+A. New products for new markets
+B. Existing products for new markets
+C. Existing products for existing markets
+D. New products for existing markets
+
+
+**Answer: B**
+
+Q19. Product Development as an Ansoff strategy involves:
 A. New products for existing markets
 B. Existing products for new markets
 C. New products for new markets
 D. Existing products for existing markets
 
 
-**Answer: B**
-
-Q19. Product Development as an Ansoff strategy involves:
-A. Existing products for new markets
-B. New products for existing markets
-C. Existing products for existing markets
-D. New products for new markets
-
-
-**Answer: B**
+**Answer: A**
 
 Q20. Which of the following is NOT a BD metric?
-A. Revenue
-B. Employee absenteeism rate
-C. Market Share
+A. Employee absenteeism rate
+B. Market Share
+C. Revenue
 D. Customer Lifetime Value
 
 
-**Answer: B**
+**Answer: A**
 
 Q21. Threat of Substitutes in Porter's Five Forces means:
-A. Competitors launching the same product
-B. Alternative products that can fulfill the same customer need
-C. New entrants copying your product
+A. New entrants copying your product
+B. Competitors launching the same product
+C. Alternative products that can fulfill the same customer need
 D. Suppliers providing inferior materials
 
 
-**Answer: B**
+**Answer: C**
 
 Q22. Bargaining Power of Buyers is HIGH when:
-A. There are many small buyers
-B. Buyers are few, large, and can switch easily
-C. Products are highly differentiated
-D. Switching costs are high
+A. Buyers are few, large, and can switch easily
+B. Products are highly differentiated
+C. Switching costs are high
+D. There are many small buyers
 
 
-**Answer: B**
+**Answer: A**
 
 Q23. Bargaining Power of Suppliers is HIGH when:
-A. There are many competing suppliers
+A. Buyers have many alternatives
 B. Suppliers are concentrated and provide unique inputs
-C. Buyers have many alternatives
+C. There are many competing suppliers
 D. Products are commoditized
 
 
 **Answer: B**
 
 Q24. The "Decline" stage of PLC is characterized by:
-A. Rapid sales growth
-B. Falling sales and profits
-C. Peak market share
-D. Heavy marketing investment
+A. Falling sales and profits
+B. Rapid sales growth
+C. Heavy marketing investment
+D. Peak market share
 
 
-**Answer: B**
+**Answer: A**
 
 Q25. BD at the Functional level involves:
-A. Portfolio decisions
-B. Integrating marketing, operations, HR to support business strategy
-C. Only financial planning
+A. Integrating marketing, operations, HR to support business strategy
+B. Only financial planning
+C. Portfolio decisions
 D. Corporate acquisitions
 
 
-**Answer: B**
+**Answer: A**
 
 Q26. Market Share is calculated as:
-A. Company revenue ÷ total employee count
-B. Company revenue ÷ total industry revenue × 100
+A. Company revenue ÷ total industry revenue × 100
+B. Company sales ÷ number of products
 C. Company profit ÷ total assets
-D. Company sales ÷ number of products
+D. Company revenue ÷ total employee count
 
 
-**Answer: B**
+**Answer: A**
 
 Q27. Which framework helps analyze macro-environmental factors affecting BD?
-A. Porter's Five Forces
-B. PESTEL
-C. Ansoff Matrix
-D. BCG Matrix
+A. Ansoff Matrix
+B. BCG Matrix
+C. PESTEL
+D. Porter's Five Forces
 
 
-**Answer: B**
+**Answer: C**
 
 Q28. The "Growth" stage of PLC is characterized by:
-A. Falling sales
-B. Rapid sales increase and new competitors entering
-C. Stable, mature demand
-D. Heavy discounting to clear inventory
+A. Stable, mature demand
+B. Falling sales
+C. Heavy discounting to clear inventory
+D. Rapid sales increase and new competitors entering
 
 
-**Answer: B**
+**Answer: D**
 
 Q29. Strategic partnerships in BD are primarily created to:
-A. Reduce employee headcount
-B. Access new markets, technologies, or capabilities
-C. Avoid regulatory compliance
-D. Increase advertising spend
+A. Access new markets, technologies, or capabilities
+B. Reduce employee headcount
+C. Increase advertising spend
+D. Avoid regulatory compliance
 
 
-**Answer: B**
+**Answer: A**
 
 Q30. BCG Matrix quadrants are:
-A. Stars, Moons, Planets, Comets
-B. Stars, Cash Cows, Question Marks, Dogs
-C. Leaders, Followers, Challengers, Nichers
-D. Growth, Stability, Decline, Recovery
+A. Stars, Cash Cows, Question Marks, Dogs
+B. Stars, Moons, Planets, Comets
+C. Growth, Stability, Decline, Recovery
+D. Leaders, Followers, Challengers, Nichers
 
 
-**Answer: B**
+**Answer: A**
 
 Q31. A "Cash Cow" in BCG Matrix has:
-A. High growth, low market share
-B. Low growth, high market share
-C. High growth, high market share
-D. Low growth, low market share
+A. High growth, high market share
+B. High growth, low market share
+C. Low growth, low market share
+D. Low growth, high market share
 
 
-**Answer: B**
+**Answer: D**
 
 Q32. A "Star" in BCG Matrix has:
 A. Low growth, high market share
-B. High growth, high market share
-C. Low growth, low market share
+B. Low growth, low market share
+C. High growth, high market share
 D. High growth, low market share
 
 
-**Answer: B**
+**Answer: C**
 
 Q33. BD differs from Sales in that:
-A. Sales creates long-term strategy
-B. BD focuses on long-term growth while sales focuses on immediate transactions
+A. Sales manages partnerships
+B. Sales creates long-term strategy
 C. BD only handles existing customers
-D. Sales manages partnerships
+D. BD focuses on long-term growth while sales focuses on immediate transactions
 
 
-**Answer: B**
+**Answer: D**
 
 Q34. The primary goal of positioning in BD is:
 A. Setting the lowest price
-B. Creating a distinct and valued place in the customer's mind
+B. Reducing production costs
 C. Managing the supply chain
-D. Reducing production costs
+D. Creating a distinct and valued place in the customer's mind
 
 
-**Answer: B**
+**Answer: D**
 
 Q35. Which of these is a Porter's Five Forces factor?
-A. Company culture
+A. Product design quality
 B. Threat of New Entrants
 C. Employee satisfaction
-D. Product design quality
+D. Company culture
 
 
 **Answer: B**
 
 Q36. Segmentation in marketing means:
-A. Splitting production capacity
-B. Dividing the market into distinct groups with similar needs
-C. Reducing the product line
-D. Allocating advertising budget
+A. Dividing the market into distinct groups with similar needs
+B. Allocating advertising budget
+C. Splitting production capacity
+D. Reducing the product line
 
 
-**Answer: B**
+**Answer: A**
 
 Q37. The "Introduction" stage of PLC typically has:
-A. High profits and growing sales
-B. High costs, low sales, negative or low profit
-C. Mature competition and stable pricing
-D. Rapid customer adoption
+A. Mature competition and stable pricing
+B. Rapid customer adoption
+C. High costs, low sales, negative or low profit
+D. High profits and growing sales
 
 
-**Answer: B**
+**Answer: C**
 
 Q38. "Targeting" in STP means:
-A. Setting price targets
-B. Selecting which market segments to serve
-C. Identifying production targets
+A. Identifying production targets
+B. Setting price targets
+C. Selecting which market segments to serve
 D. Measuring advertising reach
 
 
-**Answer: B**
+**Answer: C**
 
 Q39. Which level of BD is most concerned with "build, buy, or partner" decisions?
-A. Functional level
-B. Corporate level
-C. Business Unit level
-D. Operational level
+A. Corporate level
+B. Operational level
+C. Functional level
+D. Business Unit level
 
 
-**Answer: B**
+**Answer: A**
 
 Q40. BD success ultimately requires alignment of:
-A. Only sales and marketing
-B. Strategy, operations, marketing, finance, and HR
-C. Only R&D and operations
-D. Only top management decisions
+A. Strategy, operations, marketing, finance, and HR
+B. Only top management decisions
+C. Only sales and marketing
+D. Only R&D and operations
 
 
-**Answer: B**
+**Answer: A**
 
 Q41. A "Question Mark" in BCG Matrix is in a:
 A. Low growth, high share market
-B. High growth, low share market
-C. Low growth, low share market
-D. High growth, high share market
+B. Low growth, low share market
+C. High growth, high share market
+D. High growth, low share market
 
 
-**Answer: B**
+**Answer: D**
 
 Q42. Competitive strategy at the Business Unit level is concerned with:
 A. Corporate portfolio management
-B. How to compete in a specific market
+B. Global tax planning
 C. HR compensation policy
-D. Global tax planning
+D. How to compete in a specific market
 
 
-**Answer: B**
+**Answer: D**
 
 Q43. "Diversification" in Ansoff Matrix carries:
 A. Lowest risk since you know the market
 B. Highest risk since both product and market are new
-C. Medium risk since market is known
-D. No risk with proper planning
+C. No risk with proper planning
+D. Medium risk since market is known
 
 
 **Answer: B**
 
 Q44. Customer acquisition cost (CAC) is:
-A. Revenue per customer
-B. Total cost of acquiring a new customer
-C. Cost of serving existing customers
+A. Total cost of acquiring a new customer
+B. Cost of serving existing customers
+C. Revenue per customer
 D. Customer lifetime value
 
 
-**Answer: B**
+**Answer: A**
 
 Q45. Strategic intent in BD means:
-A. Short-term profit maximization
-B. Long-term aspiration that guides resource allocation and growth decisions
-C. Daily sales targets
-D. Only market share
+A. Long-term aspiration that guides resource allocation and growth decisions
+B. Only market share
+C. Short-term profit maximization
+D. Daily sales targets
 
 
-**Answer: B**
+**Answer: A**
 
 Q46. Which of the following is an example of "Product Development" strategy?
-A. Entering a new country with an existing product
+A. Increasing advertising spend for existing products
 B. Launching a new model of an existing product for the same market
-C. Acquiring a competitor
-D. Increasing advertising spend for existing products
+C. Entering a new country with an existing product
+D. Acquiring a competitor
 
 
 **Answer: B**
 
 Q47. The primary purpose of SWOT analysis in BD is:
 A. Setting employee performance reviews
-B. Matching internal strengths/weaknesses with external opportunities/threats for strategy
+B. Only financial forecasting
 C. Only analyzing competitors
-D. Only financial forecasting
+D. Matching internal strengths/weaknesses with external opportunities/threats for strategy
 
 
-**Answer: B**
+**Answer: D**
 
 Q48. Functional level BD is primarily focused on:
 A. Acquisitions and mergers
@@ -448,17 +448,17 @@ D. Setting competitive strategy
 
 Q49. Revenue growth in BD is driven by:
 A. Only price increases
-B. Volume growth, price improvement, new markets, new products, and acquisitions
+B. Only advertising
 C. Only cost reduction
-D. Only advertising
+D. Volume growth, price improvement, new markets, new products, and acquisitions
 
 
-**Answer: B**
+**Answer: D**
 
 Q50. The foundation of sustainable BD is:
-A. Short-term profit only
+A. Aggressive discounting
 B. Creating durable competitive advantage through continuous innovation and customer value
-C. Aggressive discounting
+C. Short-term profit only
 D. Government subsidies
 
 

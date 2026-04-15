@@ -16,22 +16,22 @@
 ## 2. MCQs
 
 Q1. Porter's three generic strategies are:
-A. Price, Quality, Speed
-B. Cost Leadership, Differentiation, Focus/Niche
-C. Innovation, Imitation, Followership
-D. Brand, Market, Product
+A. Innovation, Imitation, Followership
+B. Price, Quality, Speed
+C. Brand, Market, Product
+D. Cost Leadership, Differentiation, Focus/Niche
 
 
-**Answer: B**
+**Answer: D**
 
 Q2. Ansoff Matrix's lowest risk strategy is:
-A. Diversification
-B. Market Penetration (existing product + existing market)
+A. Product Development
+B. Diversification
 C. Market Development
-D. Product Development
+D. Market Penetration (existing product + existing market)
 
 
-**Answer: B**
+**Answer: D**
 
 Q3. Ansoff Matrix's highest risk strategy is:
 A. Market Penetration
@@ -43,54 +43,54 @@ D. Market Development
 **Answer: B**
 
 Q4. Five generic industry environments include:
-A. Luxury, Mass, Mid-market, Industrial, Digital
+A. Local, National, Regional, Global, Virtual
 B. Fragmented, New/Emerging, Transiting to Maturity, Declining, Global
 C. Growing, Stable, Shrinking, Transforming, Exiting
-D. Local, National, Regional, Global, Virtual
+D. Luxury, Mass, Mid-market, Industrial, Digital
 
 
 **Answer: B**
 
 Q5. Fragmented industry is characterized by:
-A. One dominant firm
-B. Many small players with no dominant firm
+A. Many small players with no dominant firm
+B. Government monopoly
 C. Two major players
-D. Government monopoly
+D. One dominant firm
 
 
-**Answer: B**
+**Answer: A**
 
 Q6. In a declining industry, the most appropriate strategy is:
 A. Aggressive market expansion
 B. Cost competitiveness and targeted divestment
-C. New product launch
-D. Price increase
+C. Price increase
+D. New product launch
 
 
 **Answer: B**
 
 Q7. Innovation that first designs a product is called:
 A. Followership
-B. Innovation (first-to-design)
-C. Differentiation
-D. Market penetration
+B. Differentiation
+C. Market penetration
+D. Innovation (first-to-design)
 
 
-**Answer: B**
+**Answer: D**
 
 Q8. "Best-in-design" competitive paradigm is:
 A. Followership
-B. Differentiation
+B. Market penetration
 C. Cost leadership
-D. Market penetration
+D. Differentiation
 
 
-**Answer: B**
+**Answer: D**
 
 Q9. "Copy and strategically improve" describes:
-A. Innovation
+A. Differentiation
 B. Followership
-C. Differentiation
+C. Innovation
 D. Niche strategy
 
 
@@ -98,369 +98,369 @@ D. Niche strategy
 
 Q10. Competitive turbulence in PLC occurs between:
 A. Introduction and growth
-B. Growth and maturity
+B. Introduction and decline
 C. Maturity and decline
-D. Introduction and decline
+D. Growth and maturity
 
 
-**Answer: B**
+**Answer: D**
 
 Q11. In PLC Introduction stage, risk-reward profile is:
 A. Low risk, low reward
-B. High risk, high reward
-C. Low risk, high reward
+B. Low risk, high reward
+C. High risk, high reward
 D. High risk, low reward
 
 
-**Answer: B**
+**Answer: C**
 
 Q12. In PLC Decline stage, risk-reward profile is:
 A. High risk, high reward
-B. High risk, low reward
-C. Low risk, high reward
+B. Low risk, high reward
+C. High risk, low reward
 D. Low risk, low reward
 
 
-**Answer: B**
+**Answer: C**
 
 Q13. Market Penetration tactics include:
-A. Launching entirely new products
-B. Increasing purchase frequency, winning new customers, linking products to usage occasions
-C. Entering new geographies only
-D. Only product redesign
+A. Entering new geographies only
+B. Only product redesign
+C. Increasing purchase frequency, winning new customers, linking products to usage occasions
+D. Launching entirely new products
 
 
-**Answer: B**
+**Answer: C**
 
 Q14. Niche marketing advantage over mass marketing is:
 A. Higher volume
-B. Less intense competition and higher specialization
-C. Lower prices
-D. No branding needed
+B. No branding needed
+C. Less intense competition and higher specialization
+D. Lower prices
 
 
-**Answer: B**
+**Answer: C**
 
 Q15. Mass marketing advantage over niche is:
-A. Higher specialization
-B. Scale economies
+A. Scale economies
+B. Higher specialization
 C. Higher margins
 D. Lower investment
 
 
-**Answer: B**
+**Answer: A**
 
 Q16. Krack by Paras Pharma is an example of:
-A. Mass marketing
-B. Niche marketing
-C. B2B marketing
+A. Niche marketing
+B. B2B marketing
+C. Mass marketing
 D. Digital marketing
 
 
-**Answer: B**
+**Answer: A**
 
 Q17. Industry evolution trigger "Buyer learning" falls under:
 A. Technology-related
-B. Market-related
+B. Strategy-related
+C. Regulatory-related
+D. Market-related
+
+
+**Answer: D**
+
+Q18. Industry evolution trigger "Capacity investments" falls under:
+A. Market-related
+B. Technology-related
 C. Strategy-related
 D. Regulatory-related
 
 
-**Answer: B**
-
-Q18. Industry evolution trigger "Capacity investments" falls under:
-A. Market-related
-B. Strategy-related
-C. Technology-related
-D. Regulatory-related
-
-
-**Answer: B**
+**Answer: C**
 
 Q19. Product innovation alters Five Forces by:
-A. Reducing market size
-B. Expanding most markets and eliminating some (through differentiation)
-C. Only reducing competition
-D. Only increasing supplier power
+A. Expanding most markets and eliminating some (through differentiation)
+B. Reducing market size
+C. Only increasing supplier power
+D. Only reducing competition
 
 
-**Answer: B**
+**Answer: A**
 
 Q20. Nine strategic marketing dimensions include:
 A. Only brand and price
-B. Specialisation, Branding, Push/Pull, Channel, Quality, Technology, Price, Service, Finance
+B. Only advertising and sales
 C. Only product and distribution
-D. Only advertising and sales
+D. Specialisation, Branding, Push/Pull, Channel, Quality, Technology, Price, Service, Finance
 
 
-**Answer: B**
+**Answer: D**
 
 Q21. "Pioneer design + narrow production" describes:
-A. Most companies
+A. Government companies
 B. Emerging companies — high margin, low volume, pioneering
-C. Declining companies
-D. Government companies
+C. Most companies
+D. Declining companies
 
 
 **Answer: B**
 
 Q22. "Follower design + wide production" describes:
 A. Most companies in low volume niche
-B. Many companies — low margin, high volume, diversified
+B. Government enterprises
 C. Luxury brands
-D. Government enterprises
+D. Many companies — low margin, high volume, diversified
 
 
-**Answer: B**
+**Answer: D**
 
 Q23. Exit barriers in an industry prevent firms from:
-A. Entering new markets
-B. Leaving the industry easily
+A. Leaving the industry easily
+B. Entering new markets
 C. Increasing prices
 D. Reducing workforce
 
 
-**Answer: B**
+**Answer: A**
 
 Q24. Mobility barriers in an industry prevent:
 A. Market entry
-B. Shifting strategic positions within an industry
-C. Exit from industry
-D. Product innovation
+B. Exit from industry
+C. Product innovation
+D. Shifting strategic positions within an industry
 
 
-**Answer: B**
+**Answer: D**
 
 Q25. Label-driven growth: "Others' labels, their outlets" is:
-A. Own label multi-channel
+A. Multi-branded
 B. Sub-contracted mass market model
-C. Exclusive niche
-D. Multi-branded
+C. Own label multi-channel
+D. Exclusive niche
 
 
 **Answer: B**
 
 Q26. "In-licensing" as growth strategy means:
 A. Only for pharma
-B. Acquiring rights to market/sell another firm's product in one's territory
-C. Creating own product
-D. Licensing own product out
+B. Creating own product
+C. Licensing own product out
+D. Acquiring rights to market/sell another firm's product in one's territory
 
 
-**Answer: B**
+**Answer: D**
 
 Q27. "Out-licensing" is:
-A. Acquiring technology
-B. Granting rights to a partner to make/sell your product in their territory
+A. Distributing own product directly
+B. Acquiring technology
 C. Acquiring a brand
-D. Distributing own product directly
+D. Granting rights to a partner to make/sell your product in their territory
 
 
-**Answer: B**
+**Answer: D**
 
 Q28. A new/emerging industry is characterized by:
-A. Price stability
-B. Technology-driven structure with uncertainty
+A. Technology-driven structure with uncertainty
+B. No innovation
 C. Many large stable players
-D. No innovation
+D. Price stability
 
 
-**Answer: B**
+**Answer: A**
 
 Q29. Global industry environment requires:
-A. Domestic-only strategy
-B. Networked operations and strategy across multiple nations
-C. No international partnerships
-D. Only export-led growth
+A. Networked operations and strategy across multiple nations
+B. No international partnerships
+C. Only export-led growth
+D. Domestic-only strategy
 
 
-**Answer: B**
+**Answer: A**
 
 Q30. Ezee by Godrej is an example of:
-A. Niche marketing
-B. Mass marketing
-C. B2B marketing only
+A. B2B marketing only
+B. Niche marketing
+C. Mass marketing
 D. Government marketing
 
 
-**Answer: B**
+**Answer: C**
 
 Q31. Three questions in dimensional coherence are: Where, How, and:
-A. Why
-B. When to move in the strategic matrix
-C. Who approves it
-D. How much to invest
+A. Who approves it
+B. Why
+C. How much to invest
+D. When to move in the strategic matrix
 
 
-**Answer: B**
+**Answer: D**
 
 Q32. Industry evolution matters more than market evolution because:
-A. Market research is expensive
-B. Technology-driven industry evolution creates or disrupts entire markets
-C. Market data is unreliable
-D. Customers always follow industry changes
+A. Customers always follow industry changes
+B. Market data is unreliable
+C. Market research is expensive
+D. Technology-driven industry evolution creates or disrupts entire markets
 
 
-**Answer: B**
+**Answer: D**
 
 Q33. "Best capability the company can offer" defines which strategic dimension:
-A. Pricing
+A. Specialisation
 B. Product Quality
-C. Branding
-D. Specialisation
+C. Pricing
+D. Branding
 
 
 **Answer: B**
 
 Q34. Competitive turbulence is best described as:
-A. A quiet growth phase
-B. High rivalry, price pressure, and consolidation between growth and maturity
+A. Only regulatory disruption
+B. A quiet growth phase
 C. Entry of new products only
-D. Only regulatory disruption
+D. High rivalry, price pressure, and consolidation between growth and maturity
 
 
-**Answer: B**
+**Answer: D**
 
 Q35. "Experience accumulation" as industry evolution trigger falls under:
-A. Market-related
+A. Regulatory
 B. Technology-related
 C. Strategy-related
-D. Regulatory
+D. Market-related
 
 
 **Answer: B**
 
 Q36. Industry attractiveness is the long-run:
 A. Short-term sales volume
-B. Profit potential of the industry
+B. Market cap of industry leader
 C. Number of players
-D. Market cap of industry leader
+D. Profit potential of the industry
 
 
-**Answer: B**
+**Answer: D**
 
 Q37. In a transiting-to-maturity industry, the dominant strategy is:
-A. Aggressive market entry
+A. Exit immediately
 B. Consolidation and cost efficiency
 C. Product innovation at any cost
-D. Exit immediately
+D. Aggressive market entry
 
 
 **Answer: B**
 
 Q38. "Demand pull" strategy means:
-A. Pushing product through distributor channels
+A. Government demand creation
 B. Creating consumer demand that pulls products through the channel
-C. Government demand creation
-D. Only advertising
+C. Only advertising
+D. Pushing product through distributor channels
 
 
 **Answer: B**
 
 Q39. Channel push strategy means:
-A. Consumer demand creation
-B. Incentivizing distributors/retailers to push the product through the channel
-C. Digital direct sales
-D. Government contracts
+A. Government contracts
+B. Digital direct sales
+C. Incentivizing distributors/retailers to push the product through the channel
+D. Consumer demand creation
 
 
-**Answer: B**
+**Answer: C**
 
 Q40. Financing support as a strategic dimension means:
-A. Only company's working capital
-B. Offering financial options to customers to facilitate purchase
-C. Only investor relations
-D. Only internal audit
+A. Offering financial options to customers to facilitate purchase
+B. Only company's working capital
+C. Only internal audit
+D. Only investor relations
 
 
-**Answer: B**
+**Answer: A**
 
 Q41. "Government policies" as industry evolution trigger falls under:
-A. Only technology
+A. Only HR
 B. Strategy-related and/or market-related category
-C. Only supply chain
-D. Only HR
+C. Only technology
+D. Only supply chain
 
 
 **Answer: B**
 
 Q42. Process innovation primarily improves:
-A. Brand image only
+A. Only product design
 B. Efficiency, scale, cost, and quality of operations
-C. Only product design
-D. Only marketing channels
+C. Only marketing channels
+D. Brand image only
 
 
 **Answer: B**
 
 Q43. Marketing innovation includes:
 A. Only factory improvements
-B. New advertising methods, channel models, and distribution modalities
-C. Only R&D lab work
-D. Only HR practices
-
-
-**Answer: B**
-
-Q44. "Diffusion of proprietary knowledge" as an evolution trigger means:
-A. Competitors gain no advantage
-B. Once exclusive technology spreads, competitive advantage erodes across the industry
-C. Only affects pharma
-D. Only affects IT
-
-
-**Answer: B**
-
-Q45. Gillette's blue-strip indicator is a Market Penetration tactic for:
-A. New product launch
-B. Linking product to specific usage occasion / replacement signal
-C. Entering new geography
-D. Brand acquisition
-
-
-**Answer: B**
-
-Q46. "Changes in input and currency costs" as evolution trigger falls under:
-A. Market-related
-B. Technology-related
-C. Strategy-related
-D. Multiple categories (cost and strategy)
+B. Only R&D lab work
+C. Only HR practices
+D. New advertising methods, channel models, and distribution modalities
 
 
 **Answer: D**
 
+Q44. "Diffusion of proprietary knowledge" as an evolution trigger means:
+A. Only affects pharma
+B. Competitors gain no advantage
+C. Once exclusive technology spreads, competitive advantage erodes across the industry
+D. Only affects IT
+
+
+**Answer: C**
+
+Q45. Gillette's blue-strip indicator is a Market Penetration tactic for:
+A. New product launch
+B. Entering new geography
+C. Brand acquisition
+D. Linking product to specific usage occasion / replacement signal
+
+
+**Answer: D**
+
+Q46. "Changes in input and currency costs" as evolution trigger falls under:
+A. Technology-related
+B. Market-related
+C. Multiple categories (cost and strategy)
+D. Strategy-related
+
+
+**Answer: C**
+
 Q47. Multiple product overlaps as a PLC shortfall means:
 A. PLC always works simply
-B. Industries with many products have complex, overlapping life cycles that don't follow one clean curve
+B. PLC has no stages
 C. All products decline at the same time
-D. PLC has no stages
+D. Industries with many products have complex, overlapping life cycles that don't follow one clean curve
 
 
-**Answer: B**
+**Answer: D**
 
 Q48. Cost leadership grants a firm either pricing power or:
 A. Brand premium
-B. Margin power (higher profit at the same price)
-C. Niche dominance
-D. Distribution exclusivity
+B. Niche dominance
+C. Distribution exclusivity
+D. Margin power (higher profit at the same price)
 
 
-**Answer: B**
+**Answer: D**
 
 Q49. Differentiation strategy results in:
-A. Lowest cost position
-B. Ability to charge a price premium
-C. Commodity competition
-D. Only volume leadership
+A. Only volume leadership
+B. Commodity competition
+C. Lowest cost position
+D. Ability to charge a price premium
 
 
-**Answer: B**
+**Answer: D**
 
 Q50. Focus/Niche strategy yields advantage through:
-A. Broadest market coverage
-B. Deep specialization in a specific customer segment
-C. Lowest price across all segments
-D. Maximum product variety
+A. Deep specialization in a specific customer segment
+B. Lowest price across all segments
+C. Maximum product variety
+D. Broadest market coverage
 
 
-**Answer: B**
+**Answer: A**

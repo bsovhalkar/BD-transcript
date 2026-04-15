@@ -15,126 +15,126 @@
 ## 2. MCQs
 
 Q1. Core activities for corporate brand equity building include:
-A. Only CSR campaigns
-B. Strong product portfolio + brands + financial performance + culture + ESG + stakeholder trust
-C. Only advertising spend
-D. Only product quality
+A. Only product quality
+B. Only advertising spend
+C. Only CSR campaigns
+D. Strong product portfolio + brands + financial performance + culture + ESG + stakeholder trust
 
 
-**Answer: B**
+**Answer: D**
 
 Q2. Happiest Minds' tagline "Born Digital. Born Agile." was adopted in:
-A. 2011
-B. 2019
+A. 2017
+B. 2011
 C. 2015
-D. 2017
+D. 2019
 
 
-**Answer: B**
+**Answer: D**
 
 Q3. Happiest Minds was founded by:
-A. N.R. Narayana Murthy
-B. Ashok Soota
+A. Azim Premji
+B. N.R. Narayana Murthy
 C. Nandan Nilekani
-D. Azim Premji
+D. Ashok Soota
 
 
-**Answer: B**
+**Answer: D**
 
 Q4. Happiest Minds' IPO in 2020 was oversubscribed:
 A. 5 times
-B. 151 times
+B. 50 times
 C. 20 times
-D. 50 times
+D. 151 times
 
 
-**Answer: B**
+**Answer: D**
 
 Q5. Happiest Minds' three-phase BD strategy is:
 A. Build, Buy, Break
-B. Land, Expand, Widen
-C. Plan, Execute, Monitor
-D. Market, Sell, Service
+B. Plan, Execute, Monitor
+C. Market, Sell, Service
+D. Land, Expand, Widen
 
 
-**Answer: B**
+**Answer: D**
 
 Q6. The first Happiest Minds megatrend was:
-A. Blockchain first
+A. Social media
 B. Cloud-first mentality
 C. AI-only
-D. Social media
+D. Blockchain first
 
 
 **Answer: B**
 
 Q7. Indian IT industry Tier 1 includes:
-A. Mastek, Trigyn, Sasken
-B. TCS, Infosys, Wipro, HCL Tech, Cognizant
-C. Only Happiest Minds
-D. Only startup IT companies
+A. Only Happiest Minds
+B. Only startup IT companies
+C. Mastek, Trigyn, Sasken
+D. TCS, Infosys, Wipro, HCL Tech, Cognizant
 
 
-**Answer: B**
+**Answer: D**
 
 Q8. Nirma disrupted the detergent market by:
 A. Premium positioning
-B. Low-cost model targeting price-sensitive mass market
-C. B2B corporate sales
+B. B2B corporate sales
+C. Low-cost model targeting price-sensitive mass market
 D. Export-first strategy
 
 
-**Answer: B**
+**Answer: C**
 
 Q9. Nirma was founded by:
-A. Dhirubhai Ambani
-B. Karsanbhai Patel
-C. Ratan Tata
-D. N.R. Narayana Murthy
+A. Karsanbhai Patel
+B. N.R. Narayana Murthy
+C. Dhirubhai Ambani
+D. Ratan Tata
 
 
-**Answer: B**
+**Answer: A**
 
 Q10. Delhivery built its BD as:
-A. Only B2C postal service
-B. B2B express logistics evolved to D2C + B2C platform
-C. Only government logistics
-D. Only international shipping
+A. Only government logistics
+B. Only international shipping
+C. B2B express logistics evolved to D2C + B2C platform
+D. Only B2C postal service
 
 
-**Answer: B**
+**Answer: C**
 
 Q11. Zydus Wellness' Sugar Free brand extension trajectory was:
-A. Medicines only
-B. Sugar Free → EverYuth → Complan (acquired brands)
-C. Only FMCG snacks
-D. Only OTC pharma
+A. Only OTC pharma
+B. Only FMCG snacks
+C. Medicines only
+D. Sugar Free → EverYuth → Complan (acquired brands)
 
 
-**Answer: B**
+**Answer: D**
 
 Q12. 7 Ps of service marketing are:
 A. Product, Price, Promotion, Place, People, Profitability, Policy
-B. Product, Price, Place, Promotion, People, Process, Physical Evidence
+B. Product, Price, Partners, Processes, People, Platforms, Promotion
 C. Planning, Production, Price, Place, Promotion, People, Profit
-D. Product, Price, Partners, Processes, People, Platforms, Promotion
+D. Product, Price, Place, Promotion, People, Process, Physical Evidence
 
 
-**Answer: B**
+**Answer: D**
 
 Q13. Airtel's fightback strategy against Jio involved:
-A. Only price matching
-B. Digital-first transformation, 5G readiness, premium customer retention
+A. Digital-first transformation, 5G readiness, premium customer retention
+B. Only price matching
 C. Exiting the market
 D. Only rural expansion
 
 
-**Answer: B**
+**Answer: A**
 
 Q14. Happiest Minds' highest revenue vertical by percentage is:
-A. BFSI
+A. Retail
 B. EdTech (~23%)
-C. Retail
+C. BFSI
 D. Manufacturing
 
 
@@ -150,136 +150,136 @@ D. 30%
 **Answer: B**
 
 Q16. Centers of Excellence (COEs) at Happiest Minds are in:
-A. HR, Finance, Legal
-B. IoT, DPA (Digital Process Automation), Big Data
+A. Manufacturing, Procurement, Quality
+B. HR, Finance, Legal
 C. Sales, Marketing, Strategy
-D. Manufacturing, Procurement, Quality
+D. IoT, DPA (Digital Process Automation), Big Data
 
 
-**Answer: B**
+**Answer: D**
 
 Q17. Corporate brand equity builds through:
 A. One major campaign
-B. A decade's journey of consistent effort
-C. A single IPO
-D. Only acquisitions
+B. A single IPO
+C. Only acquisitions
+D. A decade's journey of consistent effort
 
 
-**Answer: B**
+**Answer: D**
 
 Q18. Ashok Soota's previous company before Happiest Minds was:
-A. TCS
-B. MindTree (co-founded)
-C. Infosys
-D. Wipro only
+A. Infosys
+B. TCS
+C. Wipro only
+D. MindTree (co-founded)
 
 
-**Answer: B**
+**Answer: D**
 
 Q19. ESG in corporate brand building stands for:
-A. Equity, Sales, Growth
-B. Environmental, Social, Governance
-C. Export, Strategy, Growth
+A. Export, Strategy, Growth
+B. Equity, Sales, Growth
+C. Environmental, Social, Governance
 D. Efficiency, Scale, Governance
 
 
-**Answer: B**
+**Answer: C**
 
 Q20. A corporate brand grows by building:
-A. Only product brands
-B. Core product → market niche → globalization → competitive growth ranking
-C. Only domestic market
-D. Only social media followers
+A. Only domestic market
+B. Only social media followers
+C. Only product brands
+D. Core product → market niche → globalization → competitive growth ranking
 
 
-**Answer: B**
+**Answer: D**
 
 Q21. Zydus Wellness demonstrates:
-A. Single-product forever
+A. B2B pharmaceutical model
 B. Brand extension from one category into adjacent nutraceutical brands
-C. Export-only strategy
-D. B2B pharmaceutical model
+C. Single-product forever
+D. Export-only strategy
 
 
 **Answer: B**
 
 Q22. Delhivery's key BD feature is:
 A. Only physical warehouses
-B. Technology-enabled platform logistics for ecommerce and enterprises
-C. Only government courier
-D. Only luxury parcel
+B. Only government courier
+C. Only luxury parcel
+D. Technology-enabled platform logistics for ecommerce and enterprises
 
 
-**Answer: B**
+**Answer: D**
 
 Q23. Tech Mahindra grew rapidly to top-tier IT by:
-A. Organic product innovation only
-B. Acquiring Satyam Computer Services
-C. Government contract
+A. Acquiring Satyam Computer Services
+B. Government contract
+C. Organic product innovation only
 D. Foreign collaboration
 
 
-**Answer: B**
+**Answer: A**
 
 Q24. Physical Evidence in 7Ps of service refers to:
-A. Sales invoice
-B. Tangible cues of service quality (office environment, uniforms, equipment)
+A. Tangible cues of service quality (office environment, uniforms, equipment)
+B. Factory location
 C. Physical product weight
-D. Factory location
+D. Sales invoice
 
 
-**Answer: B**
+**Answer: A**
 
 Q25. Airtel's BD goal post-Jio entry included retaining:
-A. All budget customers
-B. Premium customer segment through 5G and digital services
-C. Only government contracts
+A. Only government contracts
+B. All budget customers
+C. Premium customer segment through 5G and digital services
 D. Only rural customers
 
 
-**Answer: B**
+**Answer: C**
 
 Q26. CII, FICCI, ASSOCHAM membership as ancillary activity builds:
-A. Only factory standards
-B. Industry association standing and corporate stature
-C. Only government contracts
+A. Industry association standing and corporate stature
+B. Only government contracts
+C. Only factory standards
 D. Only employee morale
 
 
-**Answer: B**
+**Answer: A**
 
 Q27. "Disruptive culture" at Happiest Minds centers on:
-A. Price disruption
-B. Happiness as motivator for customers, employees, and stakeholders
-C. Aggressive acquisitions
-D. Government compliance only
+A. Happiness as motivator for customers, employees, and stakeholders
+B. Price disruption
+C. Government compliance only
+D. Aggressive acquisitions
 
 
-**Answer: B**
+**Answer: A**
 
 Q28. Airtel's digital-first transformation is best described as:
-A. Downsizing operations
-B. Moving from telecom operator to digital services platform
+A. Moving from telecom operator to digital services platform
+B. Only SIM card distribution
 C. Only exporting telecom technology
-D. Only SIM card distribution
+D. Downsizing operations
 
 
-**Answer: B**
+**Answer: A**
 
 Q29. Nirma's success challenged which established brand?
 A. Colgate
-B. Hindustan Lever (HUL) — specifically Surf detergent
-C. P&G Tide only
+B. P&G Tide only
+C. Hindustan Lever (HUL) — specifically Surf detergent
 D. Dabur
 
 
-**Answer: B**
+**Answer: C**
 
 Q30. Corporate development growth ranking means:
 A. Government rank list
 B. Sustained industry leadership and competitive position
-C. Stock exchange listing order
-D. Patent count
+C. Patent count
+D. Stock exchange listing order
 
 
 **Answer: B**
@@ -294,172 +294,172 @@ D. Only government
 **Answer: B**
 
 Q32. Delhivery achieved unicorn status by:
-A. Physical store expansion
-B. Technology-led logistics platform with scale and data capabilities
-C. Government subsidy
+A. Government subsidy
+B. Physical store expansion
+C. Technology-led logistics platform with scale and data capabilities
 D. Only air freight
 
 
-**Answer: B**
+**Answer: C**
 
 Q33. "Vision 2031" for Happiest Minds includes designing the company for:
-A. 5-year exit
-B. Perpetuity — accelerated growth, world-class team, ESG standards
-C. Acquisition only
-D. Only India market
+A. Perpetuity — accelerated growth, world-class team, ESG standards
+B. Acquisition only
+C. Only India market
+D. 5-year exit
 
 
-**Answer: B**
+**Answer: A**
 
 Q34. Key metric for Happiest Minds — revenue by service: Cloud/Digital Infra contributes:
-A. 10%
+A. 20%
 B. 43%
-C. 20%
-D. 5%
+C. 5%
+D. 10%
 
 
 **Answer: B**
 
 Q35. "CSR execution and communication" as ancillary activity:
-A. Is only about compliance
+A. Only mandatory for large listed companies
 B. Reinforces social responsibility positioning and builds corporate brand
-C. Replaces product marketing
-D. Only mandatory for large listed companies
+C. Is only about compliance
+D. Replaces product marketing
 
 
 **Answer: B**
 
 Q36. In HCL vs. Happiest Minds comparison, Happiest Minds had:
-A. Larger workforce
-B. New-age digital services from inception vs. HCL's gradual pivot
+A. New-age digital services from inception vs. HCL's gradual pivot
+B. More traditional IT services
 C. Lower revenue growth
-D. More traditional IT services
+D. Larger workforce
 
 
-**Answer: B**
+**Answer: A**
 
 Q37. "Born Digital" in Happiest Minds tagline means:
-A. Founded on digital advertising
-B. IT competency in cloud, IoT, AI from day of founding
+A. IT competency in cloud, IoT, AI from day of founding
+B. Founded on digital advertising
 C. Only social media services
 D. Only enterprise software
 
 
-**Answer: B**
+**Answer: A**
 
 Q38. BFSI vertical at Happiest Minds contributes approximately:
 A. 50%
-B. 13%
+B. 30%
 C. 5%
-D. 30%
+D. 13%
 
 
-**Answer: B**
+**Answer: D**
 
 Q39. Karsanbhai Patel's Nirma story illustrates:
-A. Large conglomerate diversification
-B. Bootstrapped entrepreneurial disruption of established FMCG market
-C. Technology startup
-D. Government-supported industry
+A. Bootstrapped entrepreneurial disruption of established FMCG market
+B. Large conglomerate diversification
+C. Government-supported industry
+D. Technology startup
 
 
-**Answer: B**
+**Answer: A**
 
 Q40. Happiest Minds Key Partners include:
-A. Only domestic IT firms
-B. Microsoft, AWS, Google Cloud, Salesforce
-C. Only hardware manufacturers
-D. Only government agencies
+A. Only government agencies
+B. Only hardware manufacturers
+C. Only domestic IT firms
+D. Microsoft, AWS, Google Cloud, Salesforce
 
 
-**Answer: B**
+**Answer: D**
 
 Q41. "Mindful IT Company" tagline was Happiest Minds' positioning in:
-A. 2011
-B. 2017
-C. 2019
-D. 2021
+A. 2019
+B. 2011
+C. 2021
+D. 2017
 
 
-**Answer: B**
+**Answer: D**
 
 Q42. Happiest Minds DPA COE focuses on:
-A. Data warehousing
-B. RPA, Intelligent BPM, Cognitive Automation via AI/ML
-C. Cybersecurity only
-D. Enterprise networking
+A. Enterprise networking
+B. Cybersecurity only
+C. Data warehousing
+D. RPA, Intelligent BPM, Cognitive Automation via AI/ML
 
 
-**Answer: B**
+**Answer: D**
 
 Q43. Process in 7Ps relates to:
 A. Manufacturing only
 B. The delivery methods and workflows for service production
-C. Pricing processes
-D. Legal compliance
+C. Legal compliance
+D. Pricing processes
 
 
 **Answer: B**
 
 Q44. "People" in 7Ps of service refers to:
-A. Customer demographics
+A. Only HR policies
 B. Employees and customer-facing staff who deliver service quality
 C. Distribution network
-D. Only HR policies
+D. Customer demographics
 
 
 **Answer: B**
 
 Q45. Zydus Wellness' EverYuth brand competes in:
 A. Cardiac pharma
-B. Skincare/personal care
+B. IT services
 C. Industrial chemicals
-D. IT services
+D. Skincare/personal care
 
 
-**Answer: B**
+**Answer: D**
 
 Q46. Campus recruitment and educational sponsorships as ancillary BD activity:
-A. Only reduces recruitment cost
+A. Only mandatory for IT companies
 B. Builds talent pipeline and institutional goodwill
 C. Is unrelated to brand building
-D. Only mandatory for IT companies
+D. Only reduces recruitment cost
 
 
 **Answer: B**
 
 Q47. Strong brand equity leads to larger margins because:
-A. Factory automation reduces cost
-B. Price premium over generics/commodities is achievable
-C. Government guarantees higher prices
-D. No competition exists
+A. No competition exists
+B. Government guarantees higher prices
+C. Factory automation reduces cost
+D. Price premium over generics/commodities is achievable
 
 
-**Answer: B**
+**Answer: D**
 
 Q48. Happiest Minds Big Data COE covers:
 A. Cybersecurity only
-B. Data warehousing, modernization, process automation
-C. IoT devices only
-D. ERP systems only
+B. IoT devices only
+C. ERP systems only
+D. Data warehousing, modernization, process automation
 
 
-**Answer: B**
+**Answer: D**
 
 Q49. "Happy Person Logo" at Happiest Minds symbolizes:
-A. Technology innovation
-B. Being (joyous), Belonging (yellow=joy), Becoming (force lines=energy)
-C. Only investor relations
-D. Only product quality
+A. Only product quality
+B. Only investor relations
+C. Being (joyous), Belonging (yellow=joy), Becoming (force lines=energy)
+D. Technology innovation
 
 
-**Answer: B**
+**Answer: C**
 
 Q50. Business efficiency driver "Informed Decisions" at Happiest Minds means:
-A. Only using consultants
-B. Building a data-driven decision culture
-C. Only financial audits
+A. Building a data-driven decision culture
+B. Only financial audits
+C. Only using consultants
 D. Only government compliance
 
 
-**Answer: B**
+**Answer: A**

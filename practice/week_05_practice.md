@@ -15,139 +15,139 @@
 ## 2. MCQs
 
 Q1. A customer is differentiated from consumer in that:
-A. Both are identical concepts
+A. Consumer purchases; customer uses
 B. Customer purchases; consumer uses
-C. Consumer purchases; customer uses
+C. Both are identical concepts
 D. They refer only to industrial buyers
 
 
 **Answer: B**
 
 Q2. DAWN framework stands for:
-A. Distribution, Advertising, Wholesale, Networks
-B. Desires, Aspirations, Wants, Needs
-C. Digital, Awareness, Web, Navigation
-D. Design, Agility, Workflow, Niche
+A. Desires, Aspirations, Wants, Needs
+B. Digital, Awareness, Web, Navigation
+C. Design, Agility, Workflow, Niche
+D. Distribution, Advertising, Wholesale, Networks
 
 
-**Answer: B**
+**Answer: A**
 
 Q3. In DAWN, "Aspiration" is:
-A. A basic survival need
-B. A strong requirement for something not easily achievable; gives the economy a "developed" qualification
+A. A short-term impulse
+B. A basic survival need
 C. A routine want
-D. A short-term impulse
+D. A strong requirement for something not easily achievable; gives the economy a "developed" qualification
 
 
-**Answer: B**
+**Answer: D**
 
 Q4. Maslow's hierarchy limitation in practice is that:
-A. It always works perfectly
-B. Different income groups have their own need hierarchies regardless of previous level fulfillment
-C. Luxury products are not relevant
-D. Only physiological needs matter
+A. Different income groups have their own need hierarchies regardless of previous level fulfillment
+B. Only physiological needs matter
+C. It always works perfectly
+D. Luxury products are not relevant
 
 
-**Answer: B**
+**Answer: A**
 
 Q5. DAMESTs stands for:
-A. Demand, Analytics, Markets, Energy, Sales, Trade
-B. Demographic, (Socio-cultural), Economic, Lifestyle, Technological, (Natural) characteristics
-C. Digital, AI, Marketing, ESG, Strategy, Technology
-D. Design, Agility, Metrics, Engineering, Sales, Training
+A. Digital, AI, Marketing, ESG, Strategy, Technology
+B. Design, Agility, Metrics, Engineering, Sales, Training
+C. Demand, Analytics, Markets, Energy, Sales, Trade
+D. Demographic, (Socio-cultural), Economic, Lifestyle, Technological, (Natural) characteristics
 
 
-**Answer: B**
+**Answer: D**
 
 Q6. Vertical customer engagement carries the risk of:
-A. Too few products
-B. Manufacturing complexity (placing scope ahead of scale)
-C. Price undercutting
-D. Only geographic expansion
+A. Only geographic expansion
+B. Price undercutting
+C. Too few products
+D. Manufacturing complexity (placing scope ahead of scale)
 
 
-**Answer: B**
+**Answer: D**
 
 Q7. Horizontal customer engagement strategy prioritizes:
 A. Product variety for one customer only
 B. Single product class across many geographies/customer clusters
-C. Luxury segments only
-D. B2B only
+C. B2B only
+D. Luxury segments only
 
 
 **Answer: B**
 
 Q8. Customer value perception in BD is:
-A. An absolute, fixed measure
-B. Perceived — mentally calculated as total benefits minus total costs
+A. Perceived — mentally calculated as total benefits minus total costs
+B. An absolute, fixed measure
 C. Only about price
 D. Determined solely by government
 
 
-**Answer: B**
+**Answer: A**
 
 Q9. Which is a component of total customer COST?
-A. Image benefit
-B. Operating cost and image/esteem loss
-C. Resale value
-D. Ownership benefit
+A. Resale value
+B. Image benefit
+C. Ownership benefit
+D. Operating cost and image/esteem loss
 
 
-**Answer: B**
+**Answer: D**
 
 Q10. "Optimisation" as a customer value route refers to:
-A. Factory machine uptime
+A. Price benchmarking
 B. Continuous performance monitoring and software upgrades post-sale
-C. Pre-launch advertising
-D. Price benchmarking
+C. Factory machine uptime
+D. Pre-launch advertising
 
 
 **Answer: B**
 
 Q11. The traditional organisation pyramid limits:
-A. Revenue growth
-B. Customer connect to frontline teams only
-C. Product development
+A. Product development
+B. Revenue growth
+C. Customer connect to frontline teams only
 D. Financial reporting
 
 
-**Answer: B**
+**Answer: C**
 
 Q12. Circular customer-oriented organization ensures:
-A. Only frontline interface with customers
-B. Every function directly connects with customers
-C. Customers interact only through call centers
-D. Top management never meets customers
+A. Top management never meets customers
+B. Only frontline interface with customers
+C. Every function directly connects with customers
+D. Customers interact only through call centers
 
 
-**Answer: B**
+**Answer: C**
 
 Q13. Azim Premji's BD leadership style showed:
-A. Delegation to only sales teams
-B. Personally visiting large and small clients and seeking feedback
-C. Avoiding customer meetings
+A. Personally visiting large and small clients and seeking feedback
+B. Avoiding customer meetings
+C. Delegation to only sales teams
 D. Only managing internal HR
 
 
-**Answer: B**
+**Answer: A**
 
 Q14. Individual consumer markets vs. business markets: branding impact is:
-A. Equal in both
-B. Stronger in consumer markets; lower in business markets
-C. Stronger in business markets
+A. Stronger in business markets
+B. Equal in both
+C. Stronger in consumer markets; lower in business markets
 D. Irrelevant in both
 
 
-**Answer: B**
+**Answer: C**
 
 Q15. Business market buying process is:
 A. Impulse-based
-B. Procedure-bound, multi-tier with levels of authority
-C. Based on social media influence
-D. Single person decides instantly
+B. Single person decides instantly
+C. Procedure-bound, multi-tier with levels of authority
+D. Based on social media influence
 
 
-**Answer: B**
+**Answer: C**
 
 Q16. Consumer market demand is relatively:
 A. Inelastic
@@ -159,19 +159,19 @@ D. Government-controlled
 **Answer: B**
 
 Q17. Business market contracts typically are:
-A. Limited to one purchase
-B. Long-term, project-specific with AMC requirements
+A. Long-term, project-specific with AMC requirements
+B. No warranty involved
 C. Verbal only
-D. No warranty involved
+D. Limited to one purchase
 
 
-**Answer: B**
+**Answer: A**
 
 Q18. Moving customers up the DAWN ladder means:
-A. Price reduction
+A. Eliminating branding
 B. Products and upgrade offers that evolve aspirations into accessible needs
 C. Reducing product range
-D. Eliminating branding
+D. Price reduction
 
 
 **Answer: B**
@@ -196,147 +196,147 @@ D. Meeting regulatory requirements
 
 Q21. Customer multiple personalities are shaped by:
 A. Only individual preferences
-B. Individual + Family + Friends + Organisation layers
-C. Only socio-cultural factors
+B. Only socio-cultural factors
+C. Individual + Family + Friends + Organisation layers
 D. Only company marketing
 
 
-**Answer: B**
+**Answer: C**
 
 Q22. "Foodplex" model in BD represents:
-A. Single restaurant franchise
-B. Multiple restaurants collaborating for choice + ambience
-C. Home delivery only
-D. Premium dining only
+A. Home delivery only
+B. Premium dining only
+C. Multiple restaurants collaborating for choice + ambience
+D. Single restaurant franchise
 
 
-**Answer: B**
+**Answer: C**
 
 Q23. Traditional customer model (transaction economy) is:
-A. Customer co-creating with firm
-B. Firm as provider; customer as receiver, purely transactional
-C. Firm following customer design
-D. Customer-led pricing
+A. Customer-led pricing
+B. Firm following customer design
+C. Customer co-creating with firm
+D. Firm as provider; customer as receiver, purely transactional
 
 
-**Answer: B**
+**Answer: D**
 
 Q24. New internet economy empowers customers to:
-A. Only visit physical stores
-B. View Physical/Digital and Buy Physical/Digital in flexible combinations
-C. Only buy online
-D. Only buy in-store
+A. Only buy online
+B. Only buy in-store
+C. View Physical/Digital and Buy Physical/Digital in flexible combinations
+D. Only visit physical stores
 
 
-**Answer: B**
+**Answer: C**
 
 Q25. A dealer is a _____ for an automobile firm:
-A. Consumer
+A. Competitor
 B. Customer
-C. Competitor
+C. Consumer
 D. Franchisor
 
 
 **Answer: B**
 
 Q26. "Image and Esteem Loss" in customer cost refers to:
-A. Monetary depreciation only
-B. Technological obsolescence reducing perceived status of ownership
-C. Physical damage
+A. Physical damage
+B. Monetary depreciation only
+C. Technological obsolescence reducing perceived status of ownership
 D. Returns and replacements
 
 
-**Answer: B**
+**Answer: C**
 
 Q27. "Product as value route" means:
 A. Advertising the product's price
-B. Designing for a relevant price-performance point for the target customer
-C. Mass production regardless of features
-D. Only after-sales service
+B. Only after-sales service
+C. Designing for a relevant price-performance point for the target customer
+D. Mass production regardless of features
 
 
-**Answer: B**
+**Answer: C**
 
 Q28. Service as a value route includes:
 A. Only advertising
 B. Uptime, parts support, warranty, nationwide service network
-C. Only factory efficiency
-D. Only product design
+C. Only product design
+D. Only factory efficiency
 
 
 **Answer: B**
 
 Q29. Edible oil companies serve both household and HoReCa (hotel/restaurant/café) because:
-A. Government mandated it
+A. There is no difference
 B. Both are distinct customer segments with different needs/pack sizes
-C. There is no difference
-D. Only to increase inventory
+C. Only to increase inventory
+D. Government mandated it
 
 
 **Answer: B**
 
 Q30. "Listening tour" by CEO Mike Ball (Hospira) was done to:
-A. Impress investors
-B. Understand how the company serves customers
-C. Audit finance department
-D. Set employee bonuses
+A. Set employee bonuses
+B. Audit finance department
+C. Impress investors
+D. Understand how the company serves customers
 
 
-**Answer: B**
+**Answer: D**
 
 Q31. Customer characteristics (DAMESTs) can overlap because:
-A. They are always independent
-B. Income + socio-cultural + tech factors create non-linear need profiles
+A. Income + socio-cultural + tech factors create non-linear need profiles
+B. They are always independent
 C. Only economic factors matter
 D. They apply only to luxury customers
 
 
-**Answer: B**
+**Answer: A**
 
 Q32. In the DAWN framework, "Want" is:
-A. An emergency need
-B. A routine requirement
-C. A strong aspiration
-D. An unaffordable luxury
+A. A strong aspiration
+B. An emergency need
+C. An unaffordable luxury
+D. A routine requirement
 
 
-**Answer: B**
+**Answer: D**
 
 Q33. In the DAWN framework, "Desire" is:
-A. A physiological survival need
-B. A strong wish that economic development can convert into needs
-C. A routine want
-D. A regulatory requirement
+A. A routine want
+B. A physiological survival need
+C. A regulatory requirement
+D. A strong wish that economic development can convert into needs
 
 
-**Answer: B**
+**Answer: D**
 
 Q34. Customer value has three delivery routes which are:
-A. Cost, speed, quality
-B. Product, service, and optimisation
-C. Brand, promotion, price
-D. Distribution, advertising, innovation
+A. Brand, promotion, price
+B. Distribution, advertising, innovation
+C. Product, service, and optimisation
+D. Cost, speed, quality
 
 
-**Answer: B**
+**Answer: C**
 
 Q35. Scale efficiency in BD is best built through:
-A. Vertical customer engagement first
-B. Horizontal customer engagement (single product, many geographies/segments)
-C. Niche luxury only
-D. Government contracts first
+A. Government contracts first
+B. Vertical customer engagement first
+C. Horizontal customer engagement (single product, many geographies/segments)
+D. Niche luxury only
 
 
-**Answer: B**
+**Answer: C**
 
 Q36. The NPTEL course uses which framework beyond Maslow for customer needs?
-A. BCG Matrix
-B. DAWN (Desires, Aspirations, Wants, Needs)
-C. SWOT
+A. DAWN (Desires, Aspirations, Wants, Needs)
+B. SWOT
+C. BCG Matrix
 D. Porter's Five Forces
 
 
-**Answer: B**
+**Answer: A**
 
 Q37. "Packaging designed to attract" characterizes:
 A. Business markets
@@ -348,118 +348,118 @@ D. Industrial markets
 **Answer: B**
 
 Q38. "Packaging primarily for protection" characterizes:
-A. Consumer markets
-B. Business/industrial markets
+A. Business/industrial markets
+B. Consumer markets
 C. Retail markets
 D. D2C markets
 
 
-**Answer: B**
+**Answer: A**
 
 Q39. Promotion in business markets:
-A. Is always aggressive
-B. Is sometimes prohibited or strictly regulated
-C. Is identical to consumer promotion
-D. Uses only social media
+A. Is sometimes prohibited or strictly regulated
+B. Uses only social media
+C. Is always aggressive
+D. Is identical to consumer promotion
 
 
-**Answer: B**
+**Answer: A**
 
 Q40. Customer's lifetime value captures:
 A. Only the first purchase
-B. All future interactions and revenue across ownership
-C. Only after-sales cost
-D. Only product replacement
+B. Only after-sales cost
+C. Only product replacement
+D. All future interactions and revenue across ownership
 
 
-**Answer: B**
+**Answer: D**
 
 Q41. B2C vs B2B: decision-making in B2B is:
-A. Individual, instant
-B. Multi-tier with levels of authority
-C. Social media influenced
-D. Only price-driven
+A. Only price-driven
+B. Social media influenced
+C. Multi-tier with levels of authority
+D. Individual, instant
 
 
-**Answer: B**
+**Answer: C**
 
 Q42. Cadbury's move from candy bar to family pack represents:
-A. Distribution change
-B. Product range designed for different price-performance points
-C. Price reduction only
+A. Price reduction only
+B. Distribution change
+C. Product range designed for different price-performance points
 D. Advertising only
 
 
-**Answer: B**
+**Answer: C**
 
 Q43. Real estate BD linking apartment upgrades with career growth operates on:
 A. Maslow physiological needs only
-B. DAWN — moving customers up the aspiration ladder
-C. Only pricing strategy
-D. Only government regulation
+B. Only government regulation
+C. DAWN — moving customers up the aspiration ladder
+D. Only pricing strategy
 
 
-**Answer: B**
+**Answer: C**
 
 Q44. A Lamborghini vs. a scooter both address "mobility need" but represent:
-A. Identical customer segments
-B. Different levels of the need/desire hierarchy based on income and lifestyle
-C. Same price-performance point
-D. Same target demographic
+A. Same target demographic
+B. Same price-performance point
+C. Different levels of the need/desire hierarchy based on income and lifestyle
+D. Identical customer segments
 
 
-**Answer: B**
+**Answer: C**
 
 Q45. The demand chain from purchasing customer to end-consumer is critical because:
-A. It determines factory shift schedules
-B. Consumer-level demand drives the entire marketing value chain
-C. It determines patent strategy
-D. It only affects industrial buyers
+A. It determines patent strategy
+B. It only affects industrial buyers
+C. Consumer-level demand drives the entire marketing value chain
+D. It determines factory shift schedules
 
 
-**Answer: B**
+**Answer: C**
 
 Q46. Customer-centricity requires:
-A. Only marketing involvement
+A. Only frontline sales involvement
 B. Enterprise-wide involvement, from R&D to after-sales
-C. Only frontline sales involvement
-D. Only CRM software
+C. Only CRM software
+D. Only marketing involvement
 
 
 **Answer: B**
 
 Q47. CMO's primary responsibility in customer interface is to:
-A. Delegate all meetings to frontline
-B. Set tone at top by frequently meeting customers
-C. Only manage advertising budget
-D. Only oversee digital channels
-
-
-**Answer: B**
-
-Q48. Food delivery model creates value by:
-A. Eliminating cuisine choice
-B. Bringing multiple cuisines from multiple restaurants to doorstep
-C. Only serving premium customers
-D. Only serving corporates
-
-
-**Answer: B**
-
-Q49. "Business development must align to phase of growth of business customer" means:
-A. Offering the same solution always
-B. Evolving the offering as the customer's business needs grow
-C. Only serving startups
-D. Only serving large enterprises
-
-
-**Answer: B**
-
-Q50. Which is NOT a type of customer need?
-A. Seasonal needs
-B. Esteem needs
-C. Replacement needs
-D. Profit needs
+A. Only manage advertising budget
+B. Delegate all meetings to frontline
+C. Only oversee digital channels
+D. Set tone at top by frequently meeting customers
 
 
 **Answer: D**
+
+Q48. Food delivery model creates value by:
+A. Eliminating cuisine choice
+B. Only serving premium customers
+C. Only serving corporates
+D. Bringing multiple cuisines from multiple restaurants to doorstep
+
+
+**Answer: D**
+
+Q49. "Business development must align to phase of growth of business customer" means:
+A. Evolving the offering as the customer's business needs grow
+B. Only serving large enterprises
+C. Offering the same solution always
+D. Only serving startups
+
+
+**Answer: A**
+
+Q50. Which is NOT a type of customer need?
+A. Replacement needs
+B. Esteem needs
+C. Profit needs
+D. Seasonal needs
+
+
+**Answer: C**

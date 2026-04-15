@@ -16,225 +16,225 @@
 ## 2. MCQs
 
 Q1. STP in marketing stands for:
-A. Sales, Trade, Pricing
-B. Segmentation, Targeting, Positioning
-C. Strategy, Technology, Planning
-D. Supply, Team, Promotion
+A. Supply, Team, Promotion
+B. Strategy, Technology, Planning
+C. Sales, Trade, Pricing
+D. Segmentation, Targeting, Positioning
 
 
-**Answer: B**
+**Answer: D**
 
 Q2. A descriptor in BD is:
-A. A product component
-B. A characteristic that uniquely identifies an entity (market, product, customer)
-C. A legal contract term
+A. A characteristic that uniquely identifies an entity (market, product, customer)
+B. A legal contract term
+C. A product component
 D. A distribution channel
 
 
-**Answer: B**
+**Answer: A**
 
 Q3. VALS system was developed by:
-A. Philip Kotler, 1967
-B. Arnold Mitchell, SRI International, 1978
-C. Michael Porter, 1980
+A. Michael Porter, 1980
+B. Philip Kotler, 1967
+C. Arnold Mitchell, SRI International, 1978
 D. Peter Drucker, 1955
-
-
-**Answer: B**
-
-Q4. In VALS, "Achievers & Strivers" are primarily motivated by:
-A. Ideals
-B. Achievement / Demonstrating success
-C. Self-expression
-D. Survival
-
-
-**Answer: B**
-
-Q5. In VALS, "Experiencers & Makers" are motivated by:
-A. Ideals
-B. Achievement
-C. Self-expression
-D. Status quo
 
 
 **Answer: C**
 
+Q4. In VALS, "Achievers & Strivers" are primarily motivated by:
+A. Ideals
+B. Self-expression
+C. Survival
+D. Achievement / Demonstrating success
+
+
+**Answer: D**
+
+Q5. In VALS, "Experiencers & Makers" are motivated by:
+A. Self-expression
+B. Achievement
+C. Status quo
+D. Ideals
+
+
+**Answer: A**
+
 Q6. "Survivors" in VALS are characterized by:
-A. High innovation
-B. No desire for change; lowest resources
-C. Achievement orientation
-D. Idealistic lifestyle
+A. Achievement orientation
+B. Idealistic lifestyle
+C. High innovation
+D. No desire for change; lowest resources
 
 
-**Answer: B**
+**Answer: D**
 
 Q7. A "Dynamic" customer persona is best described as:
-A. Loyal to one brand
-B. Always looking for something new; quick to switch
-C. Analytical and data-driven
-D. Impulsive only
+A. Impulsive only
+B. Analytical and data-driven
+C. Always looking for something new; quick to switch
+D. Loyal to one brand
 
 
-**Answer: B**
+**Answer: C**
 
 Q8. A "Demanding" customer persona seeks:
-A. Premium price only
+A. Latest technology regardless of cost
 B. High quality at low prices (cost leadership + differentiation)
-C. Latest technology regardless of cost
-D. No service requirements
+C. No service requirements
+D. Premium price only
 
 
 **Answer: B**
 
 Q9. A "Loyal" customer persona is:
-A. Experimental and innovative
-B. Conformist, going by past associations
-C. Data-driven and analytical
-D. Easily switched by offers
+A. Conformist, going by past associations
+B. Experimental and innovative
+C. Easily switched by offers
+D. Data-driven and analytical
 
 
-**Answer: B**
+**Answer: A**
 
 Q10. Behavioural segmentation is influenced by:
-A. Factory location
-B. Knowledge, attitude, and purchase behaviour
-C. Only age and income
-D. Only geographic location
+A. Knowledge, attitude, and purchase behaviour
+B. Only geographic location
+C. Factory location
+D. Only age and income
 
 
-**Answer: B**
+**Answer: A**
 
 Q11. "Word of mouth and user reviews" as a behavioural influencer means:
-A. Only negative feedback matters
-B. Individual decisions can be overwhelmed by influencer/community input
+A. Only luxury products are affected
+B. Only negative feedback matters
 C. No impact on purchase
-D. Only luxury products are affected
+D. Individual decisions can be overwhelmed by influencer/community input
 
 
-**Answer: B**
+**Answer: D**
 
 Q12. Rural Indian demand in FMCG is:
-A. Always lower than urban
-B. Growing faster than urban in recent periods
-C. Only seasonal
-D. Not relevant for BD
+A. Not relevant for BD
+B. Always lower than urban
+C. Growing faster than urban in recent periods
+D. Only seasonal
 
 
-**Answer: B**
+**Answer: C**
 
 Q13. Urban middle class of India leads in:
-A. Agricultural output
-B. Disposable income and demand concentration
-C. Government employment only
-D. Rural real estate
+A. Disposable income and demand concentration
+B. Rural real estate
+C. Agricultural output
+D. Government employment only
 
 
-**Answer: B**
+**Answer: A**
 
 Q14. The awareness-usage hierarchy's highest goal for marketing is:
-A. Awareness only
-B. Heavy user / Brand Loyal
+A. Heavy user / Brand Loyal
+B. "Not tried" stage
 C. One-time trial
-D. "Not tried" stage
+D. Awareness only
 
 
-**Answer: B**
+**Answer: A**
 
 Q15. Geographic segmentation includes:
-A. Personality traits
+A. Income levels
 B. Nation, region, state, city, urban/rural
-C. Purchase behaviour
-D. Income levels
+C. Personality traits
+D. Purchase behaviour
 
 
 **Answer: B**
 
 Q16. Psychographic segmentation is based on:
-A. Age and income
-B. Personality, lifestyle, values
-C. Purchase frequency
-D. Geographic location
+A. Personality, lifestyle, values
+B. Age and income
+C. Geographic location
+D. Purchase frequency
 
 
-**Answer: B**
+**Answer: A**
 
 Q17. India's IT industry primarily serves:
-A. Domestic consumers only
-B. Global clients (domestic market is small fraction)
+A. Global clients (domestic market is small fraction)
+B. Domestic consumers only
 C. Only BFSI sector
 D. Only government projects
 
 
-**Answer: B**
+**Answer: A**
 
 Q18. Rajesh Exports' business was built on:
-A. Domestic retail only
+A. IT services
 B. 100% jewellery exports
-C. IT services
-D. Pharmaceutical exports
+C. Pharmaceutical exports
+D. Domestic retail only
 
 
 **Answer: B**
 
 Q19. India's G&J sector contributes to exports approximately:
-A. 2% of export target
-B. ~10% of India's export target (2021–22)
-C. 50% of exports
+A. ~10% of India's export target (2021–22)
+B. 50% of exports
+C. 2% of export target
 D. Only domestic revenue
 
 
-**Answer: B**
+**Answer: A**
 
 Q20. "Herd behaviour" as a market influencer means:
-A. Random individual decisions
-B. Intense channelling of social information for or against purchase decisions
-C. Only influencer marketing campaigns
-D. Government advertising
+A. Government advertising
+B. Only influencer marketing campaigns
+C. Random individual decisions
+D. Intense channelling of social information for or against purchase decisions
 
 
-**Answer: B**
+**Answer: D**
 
 Q21. India's pharma apparel and CDMO industries are characterized by:
-A. Only domestic revenue
-B. Export-oriented from inception
-C. Government ownership
-D. No global clients
+A. No global clients
+B. Government ownership
+C. Only domestic revenue
+D. Export-oriented from inception
 
 
-**Answer: B**
+**Answer: D**
 
 Q22. Digital segmentation encompasses channels such as:
-A. Only TV
-B. Radio, TV, Mobile, Movies, Social Media, Podcasts, Apps
+A. Radio, TV, Mobile, Movies, Social Media, Podcasts, Apps
+B. Only billboards
 C. Only print media
-D. Only billboards
+D. Only TV
 
 
-**Answer: B**
+**Answer: A**
 
 Q23. BoP consumers are best served by:
-A. Premium luxury products
-B. Quality products at affordable prices
-C. Imported high-cost goods
-D. Only online channels
+A. Quality products at affordable prices
+B. Only online channels
+C. Premium luxury products
+D. Imported high-cost goods
 
 
-**Answer: B**
+**Answer: A**
 
 Q24. "Small towns accept higher prices" in India because of:
-A. Higher income levels
-B. Limited competition and information imperfections
-C. Government price controls
-D. More luxury awareness
+A. Government price controls
+B. Higher income levels
+C. More luxury awareness
+D. Limited competition and information imperfections
 
 
-**Answer: B**
+**Answer: D**
 
 Q25. Four dimensions of consumer market segmentation are:
-A. Sales, price, place, product
+A. Brand, tech, price, design
 B. Geographic, Demographic, Psychographic, Behavioural
-C. Brand, tech, price, design
+C. Sales, price, place, product
 D. Strategy, structure, style, staff
 
 
@@ -242,225 +242,225 @@ D. Strategy, structure, style, staff
 
 Q26. Export-oriented pharma companies in India (EOUs) were:
 A. Serving only government hospitals
-B. Focused 100% on global clients from inception
-C. Only domestic generic players
+B. Only domestic generic players
+C. Focused 100% on global clients from inception
 D. Only CDMO providers
 
 
-**Answer: B**
+**Answer: C**
 
 Q27. India–Australia ECTA targets in G&J trade:
-A. $100 million
-B. $10 billion+ in bullion and G&J trade
-C. $500 million only
-D. No specific target
+A. No specific target
+B. $100 million
+C. $10 billion+ in bullion and G&J trade
+D. $500 million only
 
 
-**Answer: B**
+**Answer: C**
 
 Q28. "Impulsive" customer persona:
-A. Makes data-based decisions
+A. Is highly brand loyal
 B. Is influenced by instincts and emotional appeals, not need fulfilment
-C. Is highly brand loyal
+C. Makes data-based decisions
 D. Always waits for the latest product
 
 
 **Answer: B**
 
 Q29. National market is also called:
-A. Global market
-B. Home/domestic market
-C. Export market
-D. Target market
+A. Home/domestic market
+B. Export market
+C. Target market
+D. Global market
 
 
-**Answer: B**
+**Answer: A**
 
 Q30. Positioning outcome in STP is:
-A. Factory output
-B. Brand differentiation ensuring customer connect and loyalty
+A. Brand differentiation ensuring customer connect and loyalty
+B. Distribution network
 C. Pricing strategy alone
-D. Distribution network
+D. Factory output
 
 
-**Answer: B**
+**Answer: A**
 
 Q31. Indian companies rarely achieve more than _____ revenue from exports:
-A. 50%
+A. 30%
 B. 10%
-C. 30%
+C. 50%
 D. 70%
 
 
 **Answer: B**
 
 Q32. Japan's auto companies entered US and Europe markets:
-A. Before establishing in Japan
-B. After strongly establishing in the Japanese domestic market first
-C. Without any domestic base
+A. After strongly establishing in the Japanese domestic market first
+B. Without any domestic base
+C. Before establishing in Japan
 D. Through government aid only
 
 
-**Answer: B**
+**Answer: A**
 
 Q33. Apparel industry in India built its base on:
-A. Only domestic retail
-B. Contract manufacturing for global supply chains
-C. Luxury fashion only
+A. Contract manufacturing for global supply chains
+B. Luxury fashion only
+C. Only domestic retail
 D. Government procurement
 
 
-**Answer: B**
+**Answer: A**
 
 Q34. Millennials as a "singular descriptor" can be sub-categorized into:
 A. Only income levels
-B. Working professionals and non-working dependents
-C. Only geographic regions
+B. Only geographic regions
+C. Working professionals and non-working dependents
 D. Only age groups
 
 
-**Answer: B**
+**Answer: C**
 
 Q35. SEEPZ investment for G&J sector is in:
 A. Mumbai, IT parks
-B. Mumbai, Gem & Jewellery
-C. Chennai, pharma
-D. Bangalore, IT
+B. Bangalore, IT
+C. Mumbai, Gem & Jewellery
+D. Chennai, pharma
 
 
-**Answer: B**
+**Answer: C**
 
 Q36. Three key drivers attracting global companies to India include:
-A. Low regulation, no taxes, cheap land
+A. Climate, currency, language
 B. Skills, resources, and pricing
-C. Climate, currency, language
-D. Proximity, connectivity, size
+C. Proximity, connectivity, size
+D. Low regulation, no taxes, cheap land
 
 
 **Answer: B**
 
 Q37. A market segment must have its own:
-A. Only a pricing strategy
-B. Marketing strategy, plan, execution programme, monitoring framework
+A. Marketing strategy, plan, execution programme, monitoring framework
+B. Only distribution
 C. Only advertising budget
-D. Only distribution
+D. Only a pricing strategy
 
 
-**Answer: B**
+**Answer: A**
 
 Q38. "Disruptive trends" as behavioural influencer include:
-A. Routine product launches
-B. COVID-like emergencies or breakthrough technologies
+A. COVID-like emergencies or breakthrough technologies
+B. Routine product launches
 C. Only government directives
 D. Only seasonal patterns
 
 
-**Answer: B**
+**Answer: A**
 
 Q39. "Regulatory directions" as a behavioural influencer means:
-A. Peer pressure
-B. Government directives on consumption patterns affecting purchase decisions
-C. Advertising campaigns
-D. Celebrity endorsements
+A. Celebrity endorsements
+B. Advertising campaigns
+C. Peer pressure
+D. Government directives on consumption patterns affecting purchase decisions
 
 
-**Answer: B**
+**Answer: D**
 
 Q40. Segmenting by "special benefits" like net carbon-neutral products aligns with:
-A. Pure price competition
-B. ESG goals and climate change control
-C. Only premium luxury buyers
-D. Only government tenders
+A. Only government tenders
+B. Only premium luxury buyers
+C. ESG goals and climate change control
+D. Pure price competition
 
 
-**Answer: B**
+**Answer: C**
 
 Q41. "SME-sector products" as special benefits segment are:
-A. Only for large enterprises
-B. Consistent with entrepreneurial development (mini-ECG, mobile lab)
-C. Government subsidised only
-D. Export-only products
+A. Export-only products
+B. Government subsidised only
+C. Only for large enterprises
+D. Consistent with entrepreneurial development (mini-ECG, mobile lab)
 
 
-**Answer: B**
+**Answer: D**
 
 Q42. In the awareness-usage hierarchy, "brand loyal" means:
-A. Aware but never tried
-B. Repeated user who specifically prefers that brand
+A. Neutral towards the brand
+B. Aware but never tried
 C. One-time heavy user
-D. Neutral towards the brand
+D. Repeated user who specifically prefers that brand
 
 
-**Answer: B**
+**Answer: D**
 
 Q43. "Waiting for next gen" as a behavioural influencer means:
-A. Customer loyalty
+A. Seasonal demand pattern
 B. Prior knowledge of upcoming product versions delaying purchase
 C. Government approval wait
-D. Seasonal demand pattern
+D. Customer loyalty
 
 
 **Answer: B**
 
 Q44. Targeting in STP is aimed at:
-A. All possible customers equally
-B. The most appropriate segments for the firm
+A. Only ToP customers
+B. All possible customers equally
 C. Only BoP customers
-D. Only ToP customers
+D. The most appropriate segments for the firm
 
 
-**Answer: B**
+**Answer: D**
 
 Q45. "Situational factors" as a behavioural influencer include:
-A. Advertising campaigns
-B. Communities under stress due to natural calamities or crop failures
-C. New product launches only
-D. Loyalty programs
+A. Loyalty programs
+B. New product launches only
+C. Communities under stress due to natural calamities or crop failures
+D. Advertising campaigns
 
 
-**Answer: B**
+**Answer: C**
 
 Q46. The distinction between national and international markets is:
-A. Permanent and absolute
+A. Only relevant for IT
 B. Blurring with increasing globalization
 C. Irrelevant in digital era
-D. Only relevant for IT
+D. Permanent and absolute
 
 
 **Answer: B**
 
 Q47. "Socially relevant products" as a special benefits segment encourages:
 A. Luxury consumption
-B. Social entrepreneurship and sustainable consumption
-C. Only B2B procurement
-D. Only government purchasing
+B. Only B2B procurement
+C. Only government purchasing
+D. Social entrepreneurship and sustainable consumption
 
 
-**Answer: B**
+**Answer: D**
 
 Q48. "Native and ethnic products" benefit:
-A. Only luxury customers
-B. Rural and self-help groups through traditional crafts/goods
-C. Only export markets
-D. Only IT companies
+A. Only IT companies
+B. Only export markets
+C. Only luxury customers
+D. Rural and self-help groups through traditional crafts/goods
 
 
-**Answer: B**
+**Answer: D**
 
 Q49. Positioning strategy differentiates the brand for:
-A. Factory logistics
-B. Target customers to build loyalty and competitive defense
-C. Employee compensation
-D. Government compliance
+A. Employee compensation
+B. Factory logistics
+C. Government compliance
+D. Target customers to build loyalty and competitive defense
 
 
-**Answer: B**
+**Answer: D**
 
 Q50. VALS segmentation primary motivations are:
-A. Price, quality, service
-B. Ideals, Achievement, Self-Expression
-C. Age, income, geography
-D. Production, procurement, sales
+A. Production, procurement, sales
+B. Age, income, geography
+C. Price, quality, service
+D. Ideals, Achievement, Self-Expression
 
 
-**Answer: B**
+**Answer: D**

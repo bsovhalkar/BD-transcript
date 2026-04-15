@@ -15,208 +15,208 @@
 ## 2. MCQs
 
 Q1. Which is NOT among the three core pillars of business success?
-A. Product Innovation
-B. Operational Excellence
-C. Tax minimization
-D. Customer Fulfilment
+A. Operational Excellence
+B. Tax minimization
+C. Customer Fulfilment
+D. Product Innovation
 
 
-**Answer: C**
+**Answer: B**
 
 Q2. Starbucks' BD success is anchored in the concept of:
-A. Cheapest coffee
-B. Third place between home and office
-C. Bulk commodity sale
+A. Third place between home and office
+B. Bulk commodity sale
+C. Cheapest coffee
 D. Factory outlet model
-
-
-**Answer: B**
-
-Q3. Which company exemplifies supply chain perfection with only ~4,000 SKUs?
-A. Walmart
-B. Amazon
-C. Costco
-D. Best Buy
-
-
-**Answer: C**
-
-Q4. Amazon's BD success relies most on:
-A. Only physical stores
-B. Universalizing supply-demand connectivity
-C. Luxury branding
-D. Government contracts only
-
-
-**Answer: B**
-
-Q5. IKEA's competitive advantage includes:
-A. Minimalist design + franchise model
-B. Highest price positioning
-C. Single mega-store globally
-D. No digital presence
 
 
 **Answer: A**
 
+Q3. Which company exemplifies supply chain perfection with only ~4,000 SKUs?
+A. Amazon
+B. Best Buy
+C. Walmart
+D. Costco
+
+
+**Answer: D**
+
+Q4. Amazon's BD success relies most on:
+A. Only physical stores
+B. Luxury branding
+C. Universalizing supply-demand connectivity
+D. Government contracts only
+
+
+**Answer: C**
+
+Q5. IKEA's competitive advantage includes:
+A. Single mega-store globally
+B. Highest price positioning
+C. Minimalist design + franchise model
+D. No digital presence
+
+
+**Answer: C**
+
 Q6. Marketing orientation starts with:
-A. Factory production quota
-B. Understanding customer needs
+A. Understanding customer needs
+B. Compliance reports
 C. Stock clearance targets
-D. Compliance reports
+D. Factory production quota
 
 
-**Answer: B**
+**Answer: A**
 
 Q7. B2B (business) markets typically have:
-A. Mass branding driving decisions
-B. Fewer buyers and procedure-bound processes
-C. Impulse buying
-D. No contracts
+A. Fewer buyers and procedure-bound processes
+B. Mass branding driving decisions
+C. No contracts
+D. Impulse buying
 
 
-**Answer: B**
+**Answer: A**
 
 Q8. Nike's brand twin pillars are:
-A. Low price + mass market
+A. Digital-only + no stores
 B. Sports association + athlete endorsements
-C. Franchise + retail exclusivity
-D. Digital-only + no stores
+C. Low price + mass market
+D. Franchise + retail exclusivity
 
 
 **Answer: B**
 
 Q9. McDonald's growth model is primarily built on:
 A. Luxury dining
-B. Franchising
-C. Organic only products
-D. B2B services
-
-
-**Answer: B**
-
-Q10. Strategic BD approach focuses on:
-A. Each individual sale
-B. Long-term brand value and sustainable customer mindshare
-C. One-off discounting
-D. Competitor undercutting only
-
-
-**Answer: B**
-
-Q11. Transaction marketing measures success by:
-A. Brand equity score
-B. Revenue per sale per person per month
-C. Long-term R&D pipeline
-D. Customer lifetime value only
-
-
-**Answer: B**
-
-Q12. Opportunity marketing is aimed at:
-A. Daily transaction recording
-B. Competitive customer migration and market share growth
-C. Reducing employee headcount
-D. Only brand recall surveys
-
-
-**Answer: B**
-
-Q13. Disney's three core principles include:
-A. Price undercutting, mass production, distribution speed
-B. Organizational common purpose, holistic customer understanding, exceptional service
-C. Viral marketing, AI pricing, franchise expansion
-D. Factory automation only
-
-
-**Answer: B**
-
-Q14. Amul's brand success is driven by:
-A. Only social media
-B. Indian ethnic identity and consistent mascot
-C. High price premium only
-D. B2B contracts exclusively
-
-
-**Answer: B**
-
-Q15. Which Indian company is most known for operational excellence across metals?
-A. IndiGo
-B. Tanishq
-C. Reliance Industries
-D. HUL
+B. B2B services
+C. Franchising
+D. Organic only products
 
 
 **Answer: C**
 
+Q10. Strategic BD approach focuses on:
+A. Long-term brand value and sustainable customer mindshare
+B. Competitor undercutting only
+C. One-off discounting
+D. Each individual sale
+
+
+**Answer: A**
+
+Q11. Transaction marketing measures success by:
+A. Revenue per sale per person per month
+B. Brand equity score
+C. Customer lifetime value only
+D. Long-term R&D pipeline
+
+
+**Answer: A**
+
+Q12. Opportunity marketing is aimed at:
+A. Reducing employee headcount
+B. Daily transaction recording
+C. Only brand recall surveys
+D. Competitive customer migration and market share growth
+
+
+**Answer: D**
+
+Q13. Disney's three core principles include:
+A. Viral marketing, AI pricing, franchise expansion
+B. Price undercutting, mass production, distribution speed
+C. Organizational common purpose, holistic customer understanding, exceptional service
+D. Factory automation only
+
+
+**Answer: C**
+
+Q14. Amul's brand success is driven by:
+A. B2B contracts exclusively
+B. Only social media
+C. Indian ethnic identity and consistent mascot
+D. High price premium only
+
+
+**Answer: C**
+
+Q15. Which Indian company is most known for operational excellence across metals?
+A. Reliance Industries
+B. Tanishq
+C. HUL
+D. IndiGo
+
+
+**Answer: A**
+
 Q16. Physical market + online platform + in-home service describes:
-A. Single-format retail
-B. Omnichannel model (Best Buy example)
-C. Dark store model
-D. Vending machine model
+A. Dark store model
+B. Vending machine model
+C. Single-format retail
+D. Omnichannel model (Best Buy example)
 
 
-**Answer: B**
+**Answer: D**
 
 Q17. Harley-Davidson builds competitive advantage on:
-A. Mass commodity approach
-B. Heritage brand + passionate community of riders
-C. Only government fleet contracts
-D. Low-cost manufacturing
+A. Heritage brand + passionate community of riders
+B. Only government fleet contracts
+C. Low-cost manufacturing
+D. Mass commodity approach
 
 
-**Answer: B**
+**Answer: A**
 
 Q18. Honda was notable as:
-A. Only a car company
-B. First Japanese company making both two-wheelers and four-wheelers
-C. Premium luxury only
+A. Premium luxury only
+B. Only a car company
+C. First Japanese company making both two-wheelers and four-wheelers
 D. Service company only
 
 
-**Answer: B**
+**Answer: C**
 
 Q19. Target stores pioneered:
-A. Single-format discount only
-B. Three formats: discount, small, hyper under one brand
-C. Exclusive luxury malls
-D. Grocery-only retailing
+A. Grocery-only retailing
+B. Exclusive luxury malls
+C. Single-format discount only
+D. Three formats: discount, small, hyper under one brand
 
 
-**Answer: B**
+**Answer: D**
 
 Q20. Walmart's core mission is:
 A. Premium lifestyle positioning
-B. Saving people money so they can live better
-C. Luxury brand curation
-D. B2B technology services
+B. Luxury brand curation
+C. B2B technology services
+D. Saving people money so they can live better
 
 
-**Answer: B**
+**Answer: D**
 
 Q21. Product innovation is most critical for which BD pillar?
-A. Operational cost control
-B. Creating market differentiation
-C. Tax planning
-D. Vendor negotiations only
+A. Creating market differentiation
+B. Tax planning
+C. Vendor negotiations only
+D. Operational cost control
 
 
-**Answer: B**
+**Answer: A**
 
 Q22. IndiGo airline's BD is anchored on:
-A. Business class exclusivity
-B. Punctuality and clean service
-C. Highest ticket prices
-D. Only international routes
+A. Only international routes
+B. Highest ticket prices
+C. Business class exclusivity
+D. Punctuality and clean service
 
 
-**Answer: B**
+**Answer: D**
 
 Q23. The BD overlay integrates:
-A. Marketing alone
+A. Sales alone
 B. Brand equity, firm-customer connect, strategic marketing, loyalty
-C. Sales alone
-D. Only external partnerships
+C. Only external partnerships
+D. Marketing alone
 
 
 **Answer: B**
@@ -224,227 +224,227 @@ D. Only external partnerships
 Q24. Prestige kitchen brand demonstrates:
 A. B2B tech services
 B. Home and kitchen connect leading to brand loyalty
-C. Only export markets
-D. Luxury segment only
+C. Luxury segment only
+D. Only export markets
 
 
 **Answer: B**
 
 Q25. Samsung transformed from:
 A. Premium-first to low-cost
-B. Low-cost to global icon through product innovation + marketing
-C. IT services to hardware
-D. Only automotive parts
+B. IT services to hardware
+C. Only automotive parts
+D. Low-cost to global icon through product innovation + marketing
 
 
-**Answer: B**
+**Answer: D**
 
 Q26. Southwest Airlines' model blends:
-A. Premium pricing + limited seats
-B. Efficient operations + low-cost pricing + innovative logistics
-C. No digital tools
-D. Only domestic scheduled routes
+A. Only domestic scheduled routes
+B. Premium pricing + limited seats
+C. Efficient operations + low-cost pricing + innovative logistics
+D. No digital tools
 
 
-**Answer: B**
+**Answer: C**
 
 Q27. Bang & Olufsen differentiates via:
-A. Mass volume at low cost
-B. Distinctive Danish design + acoustic purity
-C. Agricultural supply chains
-D. Only government tenders
+A. Only government tenders
+B. Agricultural supply chains
+C. Mass volume at low cost
+D. Distinctive Danish design + acoustic purity
 
 
-**Answer: B**
+**Answer: D**
 
 Q28. Electrolux positions itself as:
 A. A raw material trader
-B. A food and clothes experience provider
-C. An IT services firm
+B. An IT services firm
+C. A food and clothes experience provider
 D. A pharmaceutical company
 
 
-**Answer: B**
+**Answer: C**
 
 Q29. eBay's unique feature compared to Amazon includes:
 A. Only fixed-price buying
-B. Multi-sided platform with auction feature
-C. No buyer protection
-D. Physical stores
+B. Physical stores
+C. Multi-sided platform with auction feature
+D. No buyer protection
 
 
-**Answer: B**
+**Answer: C**
 
 Q30. Google's revenue model relies on:
 A. User subscription fees
-B. AdWords and AdSense pay-per-click/contextual ads
-C. Manufacturing hardware only
-D. Government grants only
+B. Manufacturing hardware only
+C. Government grants only
+D. AdWords and AdSense pay-per-click/contextual ads
 
 
-**Answer: B**
+**Answer: D**
 
 Q31. Toyota's strategic focus includes:
-A. High-cost luxury only
-B. Clean energy, hybrids, and mobility concept
+A. Only Asian markets
+B. High-cost luxury only
 C. Only passenger cars
-D. Only Asian markets
+D. Clean energy, hybrids, and mobility concept
 
 
-**Answer: B**
+**Answer: D**
 
 Q32. Virgin Atlantic brand personality was driven by:
 A. Fleet size
-B. Richard Branson's personal brand
-C. Low-cost fleet only
+B. Low-cost fleet only
+C. Richard Branson's personal brand
 D. Government subsidies
 
 
-**Answer: B**
+**Answer: C**
 
 Q33. Caterpillar sustains dominance through:
-A. Commodity pricing
-B. Strong brand, product strength, and infra-market expansion
-C. Only domestic sales
-D. Only luxury fleet
+A. Only luxury fleet
+B. Commodity pricing
+C. Strong brand, product strength, and infra-market expansion
+D. Only domestic sales
 
 
-**Answer: B**
+**Answer: C**
 
 Q34. Club Med's competitive advantage is:
-A. Budget hostels
-B. 70-year niche in all-inclusive travel holidays
-C. Airline operations only
+A. 70-year niche in all-inclusive travel holidays
+B. Airline operations only
+C. Budget hostels
 D. B2B logistics
 
 
-**Answer: B**
+**Answer: A**
 
 Q35. LEGO's multi-generational success comes from:
-A. Tech disruption only
-B. Interlocking bricks fusing product + brand + education
-C. Only gender-specific marketing
+A. Interlocking bricks fusing product + brand + education
+B. Only gender-specific marketing
+C. Tech disruption only
 D. Only US market
 
 
-**Answer: B**
+**Answer: A**
 
 Q36. P&G's BD strategy centers on:
-A. Price wars only
-B. Innovation-driven consumer goods and collaboration with external innovators
-C. Industrial chemicals
-D. Only personal care
+A. Innovation-driven consumer goods and collaboration with external innovators
+B. Industrial chemicals
+C. Only personal care
+D. Price wars only
 
 
-**Answer: B**
+**Answer: A**
 
 Q37. Tata Motors' success reflects:
-A. Only commercial vehicles
-B. Diversified integration + global expansion (JLR acquisition)
-C. Only domestic passenger cars
-D. Only two-wheelers
+A. Only two-wheelers
+B. Only commercial vehicles
+C. Diversified integration + global expansion (JLR acquisition)
+D. Only domestic passenger cars
 
 
-**Answer: B**
+**Answer: C**
 
 Q38. BMW's BD transformation includes:
-A. Only fuel vehicles
-B. Product-centric to customer-centric + rapid EV shift
-C. Only Asian markets
-D. Only luxury
+A. Only luxury
+B. Only Asian markets
+C. Only fuel vehicles
+D. Product-centric to customer-centric + rapid EV shift
 
 
-**Answer: B**
+**Answer: D**
 
 Q39. Whole Foods Market's key BD feature is:
-A. Deep discounting always
+A. Only restaurant chains
 B. Organic products + team-based, farmer-collaborative supply chain
-C. No online presence
-D. Only restaurant chains
+C. Deep discounting always
+D. No online presence
 
 
 **Answer: B**
 
 Q40. HUL's BD strength is primarily:
-A. Exclusive luxury branding
-B. Extensive retail reach + product/manufacturing innovation
-C. Government-only contracts
-D. Single-product focus
+A. Government-only contracts
+B. Exclusive luxury branding
+C. Single-product focus
+D. Extensive retail reach + product/manufacturing innovation
 
 
-**Answer: B**
+**Answer: D**
 
 Q41. Market development as BD means:
-A. Clearing old inventory
-B. Finding and penetrating new customer segments or geographies
+A. Finding and penetrating new customer segments or geographies
+B. Clearing old inventory
 C. Only advertising spend increase
 D. Only reducing prices
 
 
-**Answer: B**
+**Answer: A**
 
 Q42. Customer fulfilment in BD means:
-A. Fulfilling internal targets only
-B. Consistently meeting and exceeding customer expectations
+A. Consistently meeting and exceeding customer expectations
+B. One-time sale completion
 C. Volume production regardless of quality
-D. One-time sale completion
+D. Fulfilling internal targets only
 
 
-**Answer: B**
+**Answer: A**
 
 Q43. Best Buy overcame the retail apocalypse by:
-A. Closing all stores
-B. Omnichannel + trained tech experts + membership programs
-C. Reducing SKUs to 10
-D. Only e-commerce without stores
+A. Only e-commerce without stores
+B. Closing all stores
+C. Omnichannel + trained tech experts + membership programs
+D. Reducing SKUs to 10
 
 
-**Answer: B**
+**Answer: C**
 
 Q44. Brand equity as BD lever means:
-A. Brand logo design only
+A. Import duties on products
 B. Perceived quality, loyalty, and brand associations driving sustained business
 C. A one-time promotional campaign
-D. Import duties on products
+D. Brand logo design only
 
 
 **Answer: B**
 
 Q45. Tesco's BD model started with:
-A. Product first then consumer
-B. Consumer needs first as the marketing paradigm
-C. Aggressive price cartel
+A. Aggressive price cartel
+B. Product first then consumer
+C. Consumer needs first as the marketing paradigm
 D. B2B wholesale only
 
 
-**Answer: B**
+**Answer: C**
 
 Q46. Asian Paints' BD evolution best represents:
-A. Narrow single-product strategy
-B. Customer ecosystem expansion from paint to interior design to furnishing
-C. Premium-only markets
-D. Export-only model
+A. Premium-only markets
+B. Narrow single-product strategy
+C. Export-only model
+D. Customer ecosystem expansion from paint to interior design to furnishing
 
 
-**Answer: B**
+**Answer: D**
 
 Q47. Ford's Model T is the classic example of:
-A. Product diversity
-B. Product standardization driving mass market
-C. Franchise model
-D. Geographic diversification only
+A. Product standardization driving mass market
+B. Geographic diversification only
+C. Product diversity
+D. Franchise model
 
 
-**Answer: B**
+**Answer: A**
 
 Q48. Maruti Suzuki's BD advantage in India includes:
 A. Only commercial vehicles
-B. Market leadership in passenger cars with Japanese tech + integrated S&M
-C. Only EV focus
-D. Only rural markets
+B. Only EV focus
+C. Only rural markets
+D. Market leadership in passenger cars with Japanese tech + integrated S&M
 
 
-**Answer: B**
+**Answer: D**
 
 Q49. Dr. Reddy's BD approach centers on:
 A. Only Indian generics
@@ -457,9 +457,9 @@ D. Only branded market
 
 Q50. Successful BD requires all three pillars because:
 A. Each is independently sufficient
-B. Innovation, operations, and customer fulfilment create sustainable competitive advantage together
-C. One is always more important
-D. They are unrelated factors
+B. They are unrelated factors
+C. Innovation, operations, and customer fulfilment create sustainable competitive advantage together
+D. One is always more important
 
 
-**Answer: B**
+**Answer: C**

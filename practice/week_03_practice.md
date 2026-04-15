@@ -16,84 +16,84 @@
 
 Q1. Porter defined an industry as:
 A. Any company in a country
-B. Group of firms producing close substitute products
-C. A government bureau
-D. A trading association only
+B. A government bureau
+C. A trading association only
+D. Group of firms producing close substitute products
 
 
-**Answer: B**
+**Answer: D**
 
 Q2. Kotler advocated defining business in terms of:
-A. Products only
-B. The market served
+A. The market served
+B. Patent count
 C. Factory size
-D. Patent count
+D. Products only
 
 
-**Answer: B**
+**Answer: A**
 
 Q3. "We provide climate control in the home" is a _____ definition:
-A. Product-oriented
+A. Financial-oriented
 B. Market-oriented
-C. Financial-oriented
-D. Process-oriented
+C. Process-oriented
+D. Product-oriented
 
 
 **Answer: B**
 
 Q4. An economic sector comprises:
-A. One industry only
-B. Multiple industries
+A. Multiple industries
+B. A single product
 C. One company only
-D. A single product
+D. One industry only
 
 
-**Answer: B**
+**Answer: A**
 
 Q5. Proof of Concept means:
-A. Legal patent registration
-B. The product idea resonates with the target market
-C. Revenue is achieved
-D. Factory is operational
+A. Factory is operational
+B. Revenue is achieved
+C. The product idea resonates with the target market
+D. Legal patent registration
 
 
-**Answer: B**
+**Answer: C**
 
 Q6. Proof of Product confirms:
 A. Market demand exists
-B. Product is technically and operationally viable
-C. Revenue exceeds cost
-D. IPO is possible
+B. IPO is possible
+C. Product is technically and operationally viable
+D. Revenue exceeds cost
 
 
-**Answer: B**
+**Answer: C**
 
 Q7. Proof of Business means:
-A. Concept tested
+A. Prototype ready
 B. Revenues, profits, and sustainability achieved
-C. Patent filed
-D. Prototype ready
+C. Concept tested
+D. Patent filed
 
 
 **Answer: B**
 
 Q8. BD pathway step after generating consistent revenue is:
-A. Close the business
-B. Invest in new markets and new products
-C. Reduce prices immediately
-D. Stop innovation
+A. Stop innovation
+B. Reduce prices immediately
+C. Invest in new markets and new products
+D. Close the business
 
 
-**Answer: B**
+**Answer: C**
 
 Q9. Core competence comprises:
-A. Only branding
-B. Technology + Product + Management
-C. Distribution only
-D. Finance only
+A. Technology + Product + Management
+B. Only branding
+C. Finance only
+D. Distribution only
 
 
-**Answer: B**
+**Answer: A**
 
 Q10. Strategic skill in BD requires:
 A. Legal degree
@@ -105,193 +105,193 @@ D. Only operational metrics
 **Answer: B**
 
 Q11. A market-oriented definition creates:
-A. Narrower strategy space
-B. Greater strategic flexibility and positioning options
-C. Only product focus
-D. Manufacturing rigidity
+A. Greater strategic flexibility and positioning options
+B. Manufacturing rigidity
+C. Narrower strategy space
+D. Only product focus
 
 
-**Answer: B**
+**Answer: A**
 
 Q12. The diversification pathway starts from:
-A. Many products, many customers
-B. One product, one customer
-C. Global operations
+A. Global operations
+B. Many products, many customers
+C. One product, one customer
 D. Acquisition immediately
 
 
-**Answer: B**
+**Answer: C**
 
 Q13. Galaxy Surfactants started with:
-A. Global export immediately
-B. A single toothpaste ingredient
-C. Financial services
-D. IT platform
+A. IT platform
+B. Global export immediately
+C. A single toothpaste ingredient
+D. Financial services
 
 
-**Answer: B**
+**Answer: C**
 
 Q14. Tata Steel was founded for:
-A. Automobile manufacturing
-B. Pig iron production in 1907
-C. Petrochemical business
-D. IT services
+A. Pig iron production in 1907
+B. Automobile manufacturing
+C. IT services
+D. Petrochemical business
 
 
-**Answer: B**
+**Answer: A**
 
 Q15. Acquisitions as BD tools are mainly useful for:
-A. Slowing growth
-B. Compressing the timeline of organic growth
-C. Reducing headcount
-D. Exiting markets only
+A. Compressing the timeline of organic growth
+B. Reducing headcount
+C. Exiting markets only
+D. Slowing growth
 
 
-**Answer: B**
+**Answer: A**
 
 Q16. Google's acquisition of YouTube redefined it as:
-A. A hardware company
-B. A technology media giant
-C. A logistics company
-D. A bank
+A. A technology media giant
+B. A hardware company
+C. A bank
+D. A logistics company
 
 
-**Answer: B**
+**Answer: A**
 
 Q17. Tata Motors + JLR acquisition achieved:
 A. Only domestic market growth
-B. Globalization of Tata Motors
-C. Cost reduction only
-D. Exit from commercial vehicles
+B. Exit from commercial vehicles
+C. Globalization of Tata Motors
+D. Cost reduction only
 
 
-**Answer: B**
+**Answer: C**
 
 Q18. P/E ratios within the same industry vary because of:
 A. Accident
-B. Firm-level competitive strategy differences
-C. Identical strategies
+B. Identical strategies
+C. Firm-level competitive strategy differences
 D. Government fixing returns
 
 
-**Answer: B**
+**Answer: C**
 
 Q19. India's new-gen start-ups reflect:
-A. Only government support
-B. Same BD philosophy as legacy firms: start focused, scale progressively
-C. No core competence needed
-D. Ignoring customers
+A. Ignoring customers
+B. Only government support
+C. Same BD philosophy as legacy firms: start focused, scale progressively
+D. No core competence needed
 
 
-**Answer: B**
+**Answer: C**
 
 Q20. Zerodha's origin was:
-A. A pharmaceutical company
-B. A bootstrapped online stock brokerage
-C. A textile manufacturer
+A. A textile manufacturer
+B. A pharmaceutical company
+C. A bootstrapped online stock brokerage
 D. A government bank
 
 
-**Answer: B**
+**Answer: C**
 
 Q21. Dixon Technologies' growth shows:
-A. Only domestic focus
-B. TV manufacturing origin → globally competitive contract electronics
-C. Only luxury segment
-D. Only software
+A. Only software
+B. Only luxury segment
+C. TV manufacturing origin → globally competitive contract electronics
+D. Only domestic focus
 
 
-**Answer: B**
+**Answer: C**
 
 Q22. India's business development post-2020 is characterized by:
 A. Decline of start-ups
-B. Start-up development and economic competitiveness
+B. Manufacturing collapse
 C. Only import growth
-D. Manufacturing collapse
+D. Start-up development and economic competitiveness
 
 
-**Answer: B**
+**Answer: D**
 
 Q23. The key insight from P/E ratio variation is:
 A. Industry membership determines returns alone
-B. Competitive strategy at firm level determines financial performance
-C. All companies in an industry earn equally
-D. P/E is irrelevant for BD
+B. All companies in an industry earn equally
+C. P/E is irrelevant for BD
+D. Competitive strategy at firm level determines financial performance
 
 
-**Answer: B**
+**Answer: D**
 
 Q24. CDMO stands for:
 A. Consumer Direct Marketing Organization
-B. Contract Development and Manufacturing Organization
-C. Corporate Debt Management Operations
+B. Corporate Debt Management Operations
+C. Contract Development and Manufacturing Organization
 D. Creative Design and Media Operations
 
 
-**Answer: B**
+**Answer: C**
 
 Q25. Acquisition for capability enhancement means:
-A. Buying a competitor to shut them down
-B. Gaining skills/IP unavailable organically
-C. Reducing R&D investment
-D. Exiting a market
+A. Reducing R&D investment
+B. Exiting a market
+C. Buying a competitor to shut them down
+D. Gaining skills/IP unavailable organically
 
 
-**Answer: B**
+**Answer: D**
 
 Q26. Which two drivers are critical for the first business success?
 A. Price cuts and advertising
-B. Innovation and management
-C. Recruitment and logistics
-D. Regulation and compliance
+B. Recruitment and logistics
+C. Regulation and compliance
+D. Innovation and management
 
 
-**Answer: B**
+**Answer: D**
 
 Q27. Sterlite/Vedanta originated from:
-A. IT services
-B. Mining in 1979
+A. Mining in 1979
+B. IT services
 C. Pharmaceutical distribution
 D. Retail grocery
 
 
-**Answer: B**
+**Answer: A**
 
 Q28. L&T's origin was:
-A. An Indian steel company
-B. Representing Danish dairy equipment (1946)
+A. An auto components company
+B. An Indian steel company
 C. A government telecom company
-D. An auto components company
+D. Representing Danish dairy equipment (1946)
 
 
-**Answer: B**
+**Answer: D**
 
 Q29. Multiple business models coexisting in one industry is best shown by:
-A. Pure commodity trading
-B. Pharma industry (API, CDMO, online pharmacy, etc.)
-C. Uniform government pricing
-D. Single product category only
+A. Pharma industry (API, CDMO, online pharmacy, etc.)
+B. Uniform government pricing
+C. Single product category only
+D. Pure commodity trading
 
 
-**Answer: B**
+**Answer: A**
 
 Q30. The general conversion industry value chain starts with:
-A. Marketing
-B. Raw materials manufacture
-C. Customer service
-D. IPO filing
+A. Raw materials manufacture
+B. Marketing
+C. IPO filing
+D. Customer service
 
 
-**Answer: B**
+**Answer: A**
 
 Q31. A niche in BD includes:
-A. Only geographic niche
-B. Product niche, market niche, and business niche
+A. Product niche, market niche, and business niche
+B. Only HR niche
 C. Only financial niche
-D. Only HR niche
+D. Only geographic niche
 
 
-**Answer: B**
+**Answer: A**
 
 Q32. India entered 1990–2019 phase characterized by:
 A. Technology inflows from abroad
@@ -303,112 +303,112 @@ D. Economic isolation
 **Answer: B**
 
 Q33. Reliance's acquisition of IPCL expanded its:
-A. Retail grocery portfolio
-B. Chemicals footprint
-C. Telecom services
+A. Chemicals footprint
+B. Telecom services
+C. Retail grocery portfolio
 D. Auto manufacturing
 
 
-**Answer: B**
+**Answer: A**
 
 Q34. Facebook's acquisition of WhatsApp + Instagram elevated:
 A. Hardware competency
-B. Social media dominance
+B. Automotive AI
 C. Cloud storage
-D. Automotive AI
+D. Social media dominance
 
 
-**Answer: B**
+**Answer: D**
 
 Q35. Business development pathway is described as:
-A. Random opportunity chasing
-B. Sequential, value-accretive steps from product choice to diversified growth
-C. Cost cutting only
-D. Product recall management
+A. Product recall management
+B. Random opportunity chasing
+C. Sequential, value-accretive steps from product choice to diversified growth
+D. Cost cutting only
 
 
-**Answer: B**
+**Answer: C**
 
 Q36. Aavas Financiers originated from:
-A. Urban luxury housing
-B. Home loans in semi-urban/rural India
-C. IT BFSI services
-D. Gold trading
+A. IT BFSI services
+B. Gold trading
+C. Home loans in semi-urban/rural India
+D. Urban luxury housing
 
 
-**Answer: B**
+**Answer: C**
 
 Q37. Industry returns can sustain below-average if:
-A. No customers remain
-B. Strategic importance to the economy supports investment
-C. Product is luxury only
-D. Government bans competition
+A. Government bans competition
+B. No customers remain
+C. Strategic importance to the economy supports investment
+D. Product is luxury only
 
 
-**Answer: B**
+**Answer: C**
 
 Q38. "Market definition affords greater strategic flexibility" is attributed to:
-A. Taylor's scientific management
+A. Ansoff's diversification matrix only
 B. Kotler's market-orientation framework
-C. Porter's cost leadership only
-D. Ansoff's diversification matrix only
+C. Taylor's scientific management
+D. Porter's cost leadership only
 
 
 **Answer: B**
 
 Q39. Route Mobile's specialty was:
-A. Automobile export
-B. Cloud communication platform (CPaaS)
-C. Agricultural supply
-D. Real estate
+A. Real estate
+B. Automobile export
+C. Cloud communication platform (CPaaS)
+D. Agricultural supply
 
 
-**Answer: B**
+**Answer: C**
 
 Q40. The most famous example of product-oriented narrow definition is:
-A. "We provide mobility"
-B. "We run a railroad" (Union Pacific)
-C. "We make entertainment"
-D. "We supply energy"
+A. "We supply energy"
+B. "We make entertainment"
+C. "We run a railroad" (Union Pacific)
+D. "We provide mobility"
 
 
-**Answer: B**
+**Answer: C**
 
 Q41. MMTC's business was primarily:
-A. Consumer electronics
-B. Metals/ore export-import
+A. Metals/ore export-import
+B. Consumer electronics
 C. Insurance
 D. Defence manufacturing
 
 
-**Answer: B**
+**Answer: A**
 
 Q42. Microsoft acquired Activision Blizzard to enter:
-A. Electric vehicles
-B. Metaverse and gaming
-C. Pharmaceutical market
-D. Agricultural technology
+A. Pharmaceutical market
+B. Electric vehicles
+C. Agricultural technology
+D. Metaverse and gaming
 
 
-**Answer: B**
+**Answer: D**
 
 Q43. NALCO is an example of:
-A. Software company
-B. End-to-end bauxite-to-aluminium company
+A. End-to-end bauxite-to-aluminium company
+B. FMCG brand
 C. Textile exporter
-D. FMCG brand
+D. Software company
 
 
-**Answer: B**
+**Answer: A**
 
 Q44. Disney's acquisition of Pixar and Marvel made it:
-A. An IT giant
-B. Most successful blockbuster movie corporation
+A. An industrial conglomerate
+B. An IT giant
 C. A pharmaceutical company
-D. An industrial conglomerate
+D. Most successful blockbuster movie corporation
 
 
-**Answer: B**
+**Answer: D**
 
 Q45. In the auto industry, the highest 5-yr avg P/E belongs to:
 A. Tata Motors
@@ -420,9 +420,9 @@ D. M&M
 **Answer: B**
 
 Q46. Which is NOT among three essential business success requirements?
-A. Core Competence
-B. Niche
-C. Strategic Skill
+A. Niche
+B. Strategic Skill
+C. Core Competence
 D. Tax shelter
 
 
@@ -431,8 +431,8 @@ D. Tax shelter
 Q47. The purpose of industry analysis in BD is:
 A. Determine employee bonuses
 B. Understand competitive forces and identify strategy space
-C. Fix product prices alone
-D. Manage payroll
+C. Manage payroll
+D. Fix product prices alone
 
 
 **Answer: B**
@@ -447,19 +447,19 @@ D. Only applies to luxury goods
 **Answer: B**
 
 Q49. Indian pharma CDMO companies like Suven illustrate:
-A. Only domestic sales
-B. Serving global clients with 100% contract development and manufacturing
-C. Government hospital focus only
-D. Mass retail FMCG
+A. Government hospital focus only
+B. Only domestic sales
+C. Mass retail FMCG
+D. Serving global clients with 100% contract development and manufacturing
 
 
-**Answer: B**
+**Answer: D**
 
 Q50. The starting point of most great businesses is:
-A. Multi-country operations
-B. A single, specific focused activity
+A. A single, specific focused activity
+B. Multi-country operations
 C. Multiple unrelated diversifications simultaneously
 D. Acquisition-first strategy
 
 
-**Answer: B**
+**Answer: A**
