@@ -15,6 +15,8 @@
 - **B)** Automobiles
 - **C)** Pharmaceuticals
 - **D)** Broking
+> ✅ **Correct Answer: D) Broking**
+
 
 ### Q3. The capital goods industry typically serves the following sectors of the economy:
 
@@ -22,6 +24,8 @@
 - **B)** Exports
 - **C)** Banking
 - **D)** Infrastructure and Industry
+> ✅ **Correct Answer: D) Infrastructure and Industry**
+
 
 ### Q4. In the Indian retail industry, the entry of organized players causes:
 
@@ -29,6 +33,8 @@
 - **B)** Shift from informal trade to modern trade
 - **C)** Decrease of prices to consumers in all cases
 - **D)** Cartelization of retail stores
+> ✅ **Correct Answer: B) Shift from informal trade to modern trade**
+
 
 ### Q5. Which of the following industries will be directly benefited by the ‘China Plus One’ policy of  MNCs and the developed world?
 
@@ -36,6 +42,8 @@
 - **B)** Chemical industry
 - **C)** Edible oil industry
 - **D)** Hotel industry
+> ✅ **Correct Answer: B) Chemical industry**
+
 
 ### Q6. Differentiation requires Business Development to strike a prudent balance between the market  share benefits and:
 
@@ -43,6 +51,8 @@
 - **B)** Reputation
 - **C)** Financial returns
 - **D)** Business strategy
+> ✅ **Correct Answer: C) Financial returns**
+
 
 ### Q7. Skill levels of employees lead to:
 
@@ -50,6 +60,8 @@
 - **B)** Repeat work
 - **C)** Competitiveness of the company
 - **D)** Complete elimination of experience curve and learning curve
+> ✅ **Correct Answer: C) Competitiveness of the company**
+
 
 ### Q8. Sudarshan Chemicals operates in the business of:
 
@@ -57,6 +69,8 @@
 - **B)** Solvents
 - **C)** Colours and Pigments
 - **D)** Fertilizers
+> ✅ **Correct Answer: C) Colours and Pigments**
+
 
 ### Q9. The chemical industry needs extraordinary attention to:
 
@@ -64,6 +78,8 @@
 - **B)** People management
 - **C)** Public relations
 - **D)** Safe operations
+> ✅ **Correct Answer: D) Safe operations**
+
 
 ### Q10. Company analysis is done regularly by:
 
@@ -71,6 +87,8 @@
 - **B)** Analysts
 - **C)** Investors
 - **D)** All the above
+> ✅ **Correct Answer: D) All the above**
+
 
 ---
 

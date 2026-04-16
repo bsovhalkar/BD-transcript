@@ -15,6 +15,8 @@
 - **B)** Restaurants
 - **C)** Custom manufacturing of furniture
 - **D)** It being a European company
+> ✅ **Correct Answer: A) Minimalist but durable and elegant furniture**
+
 
 ### Q2. McDonald’s is a:
 
@@ -22,6 +24,8 @@
 - **B)** Primarily EU brand
 - **C)** Primarily Asian brand
 - **D)** Global brand
+> ✅ **Correct Answer: D) Global brand**
+
 
 ### Q3. What describes Toyota best?
 
@@ -29,6 +33,8 @@
 - **B)** Small car manufacture
 - **C)** Toyoda Tsusho exports
 - **D)** Toyoda textile looms
+> ✅ **Correct Answer: A) Toyota Production System**
+
 
 ### Q4. Business markets could be larger and more stable, but are characterised by:
 
@@ -36,6 +42,8 @@
 - **B)** Higher buyer power
 - **C)** Lower buyer power
 - **D)** Lower competition
+> ✅ **Correct Answer: B) Higher buyer power**
+
 
 ### Q5. Which of the following is an example of a whole new market getting built around a completely  novel product?
 
@@ -43,6 +51,8 @@
 - **B)** Low-emission ICE vehicle
 - **C)** Drone
 - **D)** Wide-bodied aircraft
+> ✅ **Correct Answer: C) Drone**
+
 
 ### Q6. Which of the following helps strategic marketing and business development for industrial  transformations?
 
@@ -50,6 +60,8 @@
 - **B)** Exponential smoothing
 - **C)** Statistical forecasting
 - **D)** Analysis of mega trends
+> ✅ **Correct Answer: D) Analysis of mega trends**
+
 
 ### Q7. A particular shoe company is famous for its “Just do it” campaign. Which of the following is  the company?
 
@@ -57,6 +69,8 @@
 - **B)** Sketchers
 - **C)** Reebok
 - **D)** Nike
+> ✅ **Correct Answer: D) Nike**
+
 
 ### Q8. Which of the following is not a disruptive technology required for zero/clean emission  vehicles?
 
@@ -64,6 +78,8 @@
 - **B)** Electric battery technology
 - **C)** Green hydrogen technology
 - **D)** Fuel Cell technology
+> ✅ **Correct Answer: A) BS6 emission technology**
+
 
 ### Q9. Business development leaders successfully market:
 
@@ -71,6 +87,8 @@
 - **B)** The future potential
 - **C)** Strengths
 - **D)** Threats and risks
+> ✅ **Correct Answer: A) Opportunities**
+
 
 ### Q10. Marico had to fend off hostile actions from an MNC with regard to coconut oil and a business  takeover. The MNC was:
 
@@ -78,6 +96,8 @@
 - **B)** Colgate
 - **C)** Procter & Gamble
 - **D)** None of the above
+> ✅ **Correct Answer: A) Hindustan Lever**
+
 
 ---
 

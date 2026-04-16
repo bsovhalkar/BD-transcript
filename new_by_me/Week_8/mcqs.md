@@ -15,6 +15,8 @@
 - **B)** ​ Just good service
 - **C)** ​ Just business development
 - **D)** ​ Only with all the above
+> ✅ **Correct Answer: D) ​ Only with all the above**
+
 
 ### Q2. The trigger for the founding of Happiest Minds was the bid by the following Conglomerate  on MindTree:
 
@@ -22,6 +24,8 @@
 - **B)** ​ Infosys
 - **C)** ​ L&T
 - **D)** ​ TCS
+> ✅ **Correct Answer: C) ​ L&T**
+
 
 ### Q3. Happiest Minds business development has been made possible by:
 
@@ -29,6 +33,8 @@
 - **B)** ​ Only new products and services
 - **C)** ​ Only people skills
 - **D)** ​ All the above together
+> ✅ **Correct Answer: D) ​ All the above together**
+
 
 ### Q4. Happiest Minds derives over 95% of its revenues from:
 
@@ -36,6 +42,8 @@
 - **B)** ​ New age digital services
 - **C)** ​ ERP solutions
 - **D)** ​ Body shopping
+> ✅ **Correct Answer: B) ​ New age digital services**
+
 
 ### Q5. Nirma’s business development strategy is based on:
 
@@ -43,6 +51,8 @@
 - **B)** ​ Only FMCG diversification
 - **C)** ​ Only FMCG integration and diversification
 - **D)** ​ FMCG and Non-FMCG integration and diversification
+> ✅ **Correct Answer: D) ​ FMCG and Non-FMCG integration and diversification**
+
 
 ### Q6. Nirma became a notable player in cement through:
 
@@ -50,6 +60,8 @@
 - **B)** ​ Only inorganic growth
 - **C)** ​ A combination of organic and inorganic growth
 - **D)** ​ Divestments rather than investments
+> ✅ **Correct Answer: C) ​ A combination of organic and inorganic growth**
+
 
 ### Q7. A logistics start-up such as Delhivery cannot even operate without:
 
@@ -57,6 +69,8 @@
 - **B)** ​ Trucks and drivers
 - **C)** ​ Digital backbone
 - **D)** ​ Vision and mission
+> ✅ **Correct Answer: C) ​ Digital backbone**
+
 
 ### Q8. In 2022, Delhivery launched the following for enhanced customer service:
 
@@ -64,6 +78,8 @@
 - **B)** ​ WhatsApp business account
 - **C)** ​ Kardex system
 - **D)** ​ Unified customer portal
+> ✅ **Correct Answer: D) ​ Unified customer portal**
+
 
 ### Q9. Delhivery also provides:
 
@@ -71,6 +87,8 @@
 - **B)** ​ Support to other start-ups
 - **C)** ​ Integrated transport solutions for companies
 - **D)** ​ Software development for others
+> ✅ **Correct Answer: C) ​ Integrated transport solutions for companies**
+
 
 ### Q10. The digital network that Delhivery joined in 2022 is:
 

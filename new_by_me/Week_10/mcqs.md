@@ -15,6 +15,8 @@
 - **B)** ​ Asian countries
 - **C)** ​ USA
 - **D)** ​ Japan
+> ✅ **Correct Answer: B) ​ Asian countries**
+
 
 ### Q2. Adalimumab (Humira) medicine is:
 
@@ -22,6 +24,8 @@
 - **B)** ​ A biological product
 - **C)** ​ A biosimilar product
 - **D)** ​ A genetic product
+> ✅ **Correct Answer: B) ​ A biological product**
+
 
 ### Q3. Operations strategy of a firm determines:
 
@@ -29,6 +33,8 @@
 - **B)** ​ Only quality of supply
 - **C)** ​ Only cost of supply
 - **D)** ​ Capacity, quality and cost of supply
+> ✅ **Correct Answer: D) ​ Capacity, quality and cost of supply**
+
 
 ### Q4. In an organisation, passion and energy are best described as:
 
@@ -36,6 +42,8 @@
 - **B)** ​ Not connected with each other
 - **C)** ​ Interrelated with each other
 - **D)** ​ mutually exclusive
+> ✅ **Correct Answer: C) ​ Interrelated with each other**
+
 
 ### Q5. Negotiation between two partners seeks to develop an agreement in which:
 
@@ -43,6 +51,8 @@
 - **B)** ​ the weaker partner stalls till it gets its due
 - **C)** ​ Both have a shared win-win agenda
 - **D)** ​ Neither partner is a winner
+> ✅ **Correct Answer: C) ​ Both have a shared win-win agenda**
+
 
 ### Q6. Every negotiation must have a pricing outcome. The zone of possible price negotiation:
 
@@ -50,6 +60,8 @@
 - **B)** ​ Is never transparent
 - **C)** ​ Lies between the Buyer’s minimum price intention and the Seller’s maximum price  intention
 - **D)** 
+> ✅ **Correct Answer: C) ​ Lies between the Buyer’s minimum price intention and the Seller’s maximum price  intention**
+
 
 ### Q7. The value chain of a company describes the functions and domains which can be used by a  business development leader to:
 
@@ -57,6 +69,8 @@
 - **B)** ​ Exit from them as a financial initiative
 - **C)** ​ Understand and project the company’s competencies
 - **D)** ​ Reconstruct them as a CEO
+> ✅ **Correct Answer: C) ​ Understand and project the company’s competencies**
+
 
 ### Q8. The following is an important aspect of culture and negotiation:
 
@@ -64,6 +78,8 @@
 - **B)** ​ Time sense
 - **C)** ​ Objectivity
 - **D)** ​ All the above
+> ✅ **Correct Answer: D) ​ All the above**
+
 
 ### Q9. Japanese business etiquette requires that persons be addressed respectfully with suffix of:
 
@@ -71,6 +87,8 @@
 - **B)** ​ Sayonara
 - **C)** ​ Arigato
 - **D)** ​ San
+> ✅ **Correct Answer: D) ​ San**
+
 
 ### Q10. In organisational and leadership contexts, a firm belief in the reliability, integrity, or ability  of an individual or institution is referred to as:
 
@@ -78,6 +96,8 @@
 - **B)** ​ View
 - **C)** ​ Opinion
 - **D)** ​ Trust
+> ✅ **Correct Answer: D) ​ Trust**
+
 
 ---
 

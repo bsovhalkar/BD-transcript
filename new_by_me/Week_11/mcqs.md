@@ -15,6 +15,8 @@
 - **B)** ​ Shareholders
 - **C)** ​ Strategic customers
 - **D)** ​ Internal departments
+> ✅ **Correct Answer: C) ​ Strategic customers**
+
 
 ### Q2. A company will be less vulnerable to new entrants and new technology-driven competition  if the company:
 
@@ -22,6 +24,8 @@
 - **B)** ​ Is large, with a high market share
 - **C)** ​ Is small, with a low market share
 - **D)** ​ Continues on the path of continuous product and market improvement
+> ✅ **Correct Answer: D) ​ Continues on the path of continuous product and market improvement**
+
 
 ### Q3. Which of the following is true?
 
@@ -29,6 +33,8 @@
 - **B)** ​ Innovation can occur in any and all parts of a company’s value chain
 - **C)** ​ Innovation can occur only in start-ups
 - **D)** ​ Innovation cannot occur in marketing
+> ✅ **Correct Answer: B) ​ Innovation can occur in any and all parts of a company’s value chain**
+
 
 ### Q4. One of the more recent improvements in lighting, which is also backed by Nobel  Prize-winning science and technology, has been:
 
@@ -36,6 +42,8 @@
 - **B)** ​ LCD lighting
 - **C)** ​ Fluorescent lighting
 - **D)** ​ Incandescent lighting
+> ✅ **Correct Answer: A) ​ LED lighting**
+
 
 ### Q5. Corning is a great example of global business growth based largely on one product category.  Corning’s core competence is in:
 
@@ -43,6 +51,8 @@
 - **B)** ​ Processing of glass
 - **C)** ​ Processing of Lithium
 - **D)** ​ Processing of Ion
+> ✅ **Correct Answer: B) ​ Processing of glass**
+
 
 ### Q6. Which of the following integrates hardware and software of a device?
 
@@ -50,6 +60,8 @@
 - **B)** ​ Market objective
 - **C)** ​ Operating system
 - **D)** ​ R&D objective
+> ✅ **Correct Answer: C) ​ Operating system**
+
 
 ### Q7. 3D printing is also called:
 
@@ -57,6 +69,8 @@
 - **B)** ​ Deductive manufacturing
 - **C)** ​ 360-degree printing
 - **D)** ​ Additive manufacturing
+> ✅ **Correct Answer: D) ​ Additive manufacturing**
+
 
 ### Q8. Roku Roku Sangyo of Japan deploys the following in its machine tools. That feature  provides competitive advantage for business development for the company:
 
@@ -64,6 +78,8 @@
 - **B)** ​ Tools
 - **C)** ​ Machines
 - **D)** ​ Machines with tools
+> ✅ **Correct Answer: A) ​ Sensors and IoT**
+
 
 ### Q9. Firms in the fragmented industry must understand the following and plan their strategies  accordingly:
 
@@ -71,6 +87,8 @@
 - **B)** ​ Firm
 - **C)** ​ Finance
 - **D)** ​ Structural limitations which include the above and more
+> ✅ **Correct Answer: D) ​ Structural limitations which include the above and more**
+
 
 ### Q10. New technologies, new business models, and hence new industries emerge all the time. An  example of this is:
 
@@ -78,6 +96,8 @@
 - **B)** ​ mRNA vaccine technology
 - **C)** ​ Chemical-free consumer products
 - **D)** ​ All the above
+> ✅ **Correct Answer: D) ​ All the above**
+
 
 ---
 
