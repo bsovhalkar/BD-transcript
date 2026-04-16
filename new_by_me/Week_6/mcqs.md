@@ -15,6 +15,8 @@
 - **B)** ​ Native and foreign countries simultaneously
 - **C)** ​ In the native countries with 100% outsourcing and offshoring
 - **D)** ​ Native countries
+> ✅ **Correct Answer: D) ​ Native countries**
+
 
 ### Q2. In India, certain companies in the following industry started as 100% export-oriented units:
 
@@ -22,6 +24,8 @@
 - **B)** ​ Automobile industry
 - **C)** ​ Capital goods industry
 - **D)** ​ Dairy industry
+> ✅ **Correct Answer: A) ​ Pharmaceutical industry**
+
 
 ### Q3. India’s early global trading by entrepreneurs was on:
 
@@ -29,6 +33,8 @@
 - **B)** ​ Machine tools
 - **C)** ​ Contract research
 - **D)** ​ Spices
+> ✅ **Correct Answer: D) ​ Spices**
+
 
 ### Q4. Airlines provide segmented classes of travel such as economy, business and first to cater to:
 
@@ -36,6 +42,8 @@
 - **B)** ​ Status of travellers
 - **C)** ​ Income of travellers
 - **D)** ​ Income, status of travellers, and purpose of travel
+> ✅ **Correct Answer: D) ​ Income, status of travellers, and purpose of travel**
+
 
 ### Q5. Which of the following categories has led to the emergence of global behemoths based on just one  product?
 
@@ -43,6 +51,8 @@
 - **B)** ​ Carbonated beverages
 - **C)** ​ Staples
 - **D)** ​ Cars
+> ✅ **Correct Answer: B) ​ Carbonated beverages**
+
 
 ### Q6. Which of the following products has a strong geographic association?
 
@@ -50,6 +60,8 @@
 - **B)** ​ Soaps
 - **C)** ​ Textiles
 - **D)** ​ Wines
+> ✅ **Correct Answer: D) ​ Wines**
+
 
 ### Q7. The real estate market is:
 
@@ -57,6 +69,8 @@
 - **B)** ​ One fungible market
 - **C)** ​ A market that is unreal
 - **D)** ​ An aggregation of multiple types, such as residential, office
+> ✅ **Correct Answer: D) ​ An aggregation of multiple types, such as residential, office**
+
 
 ### Q8. The Indian food industry has seen a significant:
 
@@ -64,6 +78,8 @@
 - **B)** ​ Degrowth of packaged branded foods
 - **C)** ​ Growth of packaged branded foods
 - **D)** ​ Growth of unbranded foods
+> ✅ **Correct Answer: C) ​ Growth of packaged branded foods**
+
 
 ### Q9. India is highly dependent on imports for refining the following edible oil:
 
@@ -71,6 +87,8 @@
 - **B)** ​ Mustard oil
 - **C)** ​ Groundnut oil
 - **D)** ​ Sunflower oil
+> ✅ **Correct Answer: D) ​ Sunflower oil**
+
 
 ### Q10. To judge future long-term market growth potential in India, companies may use the following  metric:
 

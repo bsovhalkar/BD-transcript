@@ -15,6 +15,8 @@
 - **B)** Cash collection
 - **C)** Point of Sales development
 - **D)** Price discounts for the day
+> ✅ **Correct Answer: A) Market segmentation**
+
 
 ### Q2. Which of the statements is true?
 
@@ -22,6 +24,8 @@
 - **B)** Only global companies can be in multiple businesses
 - **C)** Only proprietary companies can be in multiple businesses
 - **D)** Any company can be in multiple businesses, based on its business strategy
+> ✅ **Correct Answer: D) Any company can be in multiple businesses, based on its business strategy**
+
 
 ### Q3. For successful business development between partners, there must be a clear:
 
@@ -29,6 +33,8 @@
 - **B)** Lack of resources
 - **C)** Value proposition
 - **D)** Survival instinct
+> ✅ **Correct Answer: C) Value proposition**
+
 
 ### Q4. A good salesperson must be primarily responsible, along with sales, for:
 
@@ -36,6 +42,8 @@
 - **B)** Product development
 - **C)** Customer behaviour
 - **D)** Cash collection
+> ✅ **Correct Answer: D) Cash collection**
+
 
 ### Q5. Business development seeks to achieve:
 
@@ -43,6 +51,8 @@
 - **B)** Immediate sales to customers
 - **C)** Sales training for people
 - **D)** Development of leadership
+> ✅ **Correct Answer: A) Long-term partnerships between companies and between the company and its  customers**
+
 
 ### Q6. Which of the following is an important component of marketing effectiveness? QB
 
@@ -50,6 +60,8 @@
 - **B)** Capacity utilization
 - **C)** Advertising and communication
 - **D)** None of the above
+> ✅ **Correct Answer: C) Advertising and communication**
+
 
 ### Q7. Strategic marketing involves the creation of a marketing thrust for the:
 
@@ -57,6 +69,8 @@
 - **B)** Medium and long term (2 to 3 years)
 - **C)** Old products
 - **D)** None of the above
+> ✅ **Correct Answer: B) Medium and long term (2 to 3 years)**
+
 
 ### Q8. When consumers dislike and avoid a product, it is called:
 
@@ -64,6 +78,8 @@
 - **B)** Negative demand
 - **C)** Seasonal demand
 - **D)** Latent demand
+> ✅ **Correct Answer: B) Negative demand**
+
 
 ### Q9. Strategy once set is rolled out as a set of:
 
@@ -71,6 +87,8 @@
 - **B)** Concepts
 - **C)** Targets
 - **D)** Goals
+> ✅ **Correct Answer: A) Plans and projects**
+
 
 ### Q10. Ford’s earliest Model T car concept involved:
 
@@ -78,6 +96,8 @@
 - **B)** Product standardisation
 - **C)** Geographic diversity
 - **D)** Globalisation
+> ✅ **Correct Answer: B) Product standardisation**
+
 
 ---
 

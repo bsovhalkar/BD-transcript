@@ -15,6 +15,8 @@
 - **B)** Standardised specification for a product
 - **C)** Sales-related incentives to field staff
 - **D)** All departments will have an interface with customers or their needs in one way or  the other
+> ✅ **Correct Answer: D) All departments will have an interface with customers or their needs in one way or  the other**
+
 
 ### Q2. Business development is about offering the following to customers:
 
@@ -22,6 +24,8 @@
 - **B)** Annual maintenance contracts
 - **C)** Exchange of products
 - **D)** Personalised customer experiences, along with the above
+> ✅ **Correct Answer: D) Personalised customer experiences, along with the above**
+
 
 ### Q3. A more recent approach to understanding customer needs and providing solutions is:
 
@@ -29,6 +33,8 @@
 - **B)** Market analysis
 - **C)** Income analysis
 - **D)** Design thinking
+> ✅ **Correct Answer: D) Design thinking**
+
 
 ### Q4. Steve Job’s leadership lay in providing:
 
@@ -36,6 +42,8 @@
 - **B)** Elegant high-specification products to all the customer segments
 - **C)** Products of the lowest price
 - **D)** None of the above
+> ✅ **Correct Answer: B) Elegant high-specification products to all the customer segments**
+
 
 ### Q5. A customer’s typology is usually made up of:
 
@@ -43,6 +51,8 @@
 - **B)** No attribute at all
 - **C)** Different attributes
 - **D)** Completely unpredictable attributes
+> ✅ **Correct Answer: C) Different attributes**
+
 
 ### Q6. Likert scale in market research captures the level of the customer’s:
 
@@ -50,6 +60,8 @@
 - **B)** Interest-disinterest
 - **C)** Happiness-unhappiness
 - **D)** Agreement-disagreement
+> ✅ **Correct Answer: D) Agreement-disagreement**
+
 
 ### Q7. Which of these is not a characteristic of a good market research?
 
@@ -57,6 +69,8 @@
 - **B)** Impulsive conclusion
 - **C)** Objective evaluation
 - **D)** Sampling methodology
+> ✅ **Correct Answer: B) Impulsive conclusion**
+
 
 ### Q8. The following is not an example of a consumer bonding effort:
 
@@ -64,6 +78,8 @@
 - **B)** Consumer offers
 - **C)** Consumer events
 - **D)** Charging high prices in periods of shortage
+> ✅ **Correct Answer: D) Charging high prices in periods of shortage**
+
 
 ### Q9. Britannia is running a CSR cum marketing programme called:
 
@@ -71,6 +87,8 @@
 - **B)** Biscuiteer
 - **C)** Homepreneur
 - **D)** My Britannia
+> ✅ **Correct Answer: C) Homepreneur**
+
 
 ### Q10. B2B Connect platforms help a company in:
 

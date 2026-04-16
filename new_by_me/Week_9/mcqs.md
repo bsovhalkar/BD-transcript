@@ -15,6 +15,8 @@
 - **B)** ​ Franchising of technology
 - **C)** ​ Licensing of a technology for a fee and/or royalty
 - **D)** ​ Acquisition of technology and product
+> ✅ **Correct Answer: C) ​ Licensing of a technology for a fee and/or royalty**
+
 
 ### Q2. Successful technical collaborations may evolve into:
 
@@ -22,6 +24,8 @@
 - **B)** ​ Supply of indigenised components by the licensee to the licensor
 - **C)** ​ Premature terminations
 - **D)** ​ None of the above
+> ✅ **Correct Answer: B) ​ Supply of indigenised components by the licensee to the licensor**
+
 
 ### Q3. The global pharmaceutical corporation that runs an Innovation Mall for open-sourcing of  solutions in drug development is:
 
@@ -29,6 +33,8 @@
 - **B)** ​ Merck
 - **C)** ​ Pfizer
 - **D)** ​ Eli Lilly
+> ✅ **Correct Answer: D) ​ Eli Lilly**
+
 
 ### Q4. Technical collaborations are limited time arrangements that envisage:
 
@@ -36,6 +42,8 @@
 - **B)** ​ Conversion into joint ventures automatically
 - **C)** ​ Indigenisation of technology during the term of the agreement
 - **D)** ​ Import of completely built products
+> ✅ **Correct Answer: C) ​ Indigenisation of technology during the term of the agreement**
+
 
 ### Q5. For an alliance to succeed which combination is the most important?
 
@@ -43,6 +51,8 @@
 - **B)** ​ Competency fit and Organisational fit
 - **C)** ​ Strategic fit, Competency fit, Organisational fit and Cultural fit
 - **D)** ​ Strategic fit and Cultural fit
+> ✅ **Correct Answer: C) ​ Strategic fit, Competency fit, Organisational fit and Cultural fit**
+
 
 ### Q6. A contract development and manufacturing organisation that supports multiple business  partners typically adopts which of the following business development structures?
 
@@ -50,6 +60,8 @@
 - **B)** ​ Strategic alliance with fee for service for each partner
 - **C)** ​ Joint venture with each partner
 - **D)** ​ Franchising with each partner
+> ✅ **Correct Answer: B) ​ Strategic alliance with fee for service for each partner**
+
 
 ### Q7. Joint ventures tend to experience turbulent and stressful phases when:
 
@@ -57,6 +69,8 @@
 - **B)** ​ Disablers overpower enablers
 - **C)** ​ Enablers overpower disablers
 - **D)** ​ There exist no enablers or disablers
+> ✅ **Correct Answer: B) ​ Disablers overpower enablers**
+
 
 ### Q8. When an MNC enters a country to secure resources for itself, it is called:
 
@@ -64,6 +78,8 @@
 - **B)** ​ Growth alliance
 - **C)** ​ Complementarity alliance
 - **D)** ​ Value alliance
+> ✅ **Correct Answer: A) ​ Security alliance**
+
 
 ### Q9. The interesting aspect of Hero Honda JV and the separation of the JV partners has been that  after the separation, Hero and Honda:
 
@@ -71,6 +87,8 @@
 - **B)** ​ Sold, in the aggregate, less vehicles than sold by the JV
 - **C)** ​ Sold, in the aggregate, the same number of vehicles than sold by the JV
 - **D)** ​ Stuck to the JV product line and did not diversify
+> ✅ **Correct Answer: A) ​ Sold more vehicles and more models in the aggregate than likely to have been sold  by the JV**
+
 
 ### Q10. Which of the following Indian pharma companies followed the strategy of joint ventures  with global players for the oncology products?
 

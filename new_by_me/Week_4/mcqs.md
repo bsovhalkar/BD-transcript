@@ -15,6 +15,8 @@
 - **B)** Business users and industries
 - **C)** Governments
 - **D)** None of the above
+> ✅ **Correct Answer: B) Business users and industries**
+
 
 ### Q2. When faced with technological disruption, demand can be forecast only through:
 
@@ -22,6 +24,8 @@
 - **B)** Expert opinions with simulations
 - **C)** Statistical analysis
 - **D)** Salesforce
+> ✅ **Correct Answer: B) Expert opinions with simulations**
+
 
 ### Q3. Analogy as a demand forecasting tool will be useful in:
 
@@ -29,6 +33,8 @@
 - **B)** Equipment industry
 - **C)** Food and beverages industry
 - **D)** Automobile industry
+> ✅ **Correct Answer: B) Equipment industry**
+
 
 ### Q4. In competitor analysis, the following is often ignored:
 
@@ -36,6 +42,8 @@
 - **B)** Leadership strength
 - **C)** Physical performance
 - **D)** Financial performance
+> ✅ **Correct Answer: B) Leadership strength**
+
 
 ### Q5. Ambani and Adani are known for their:
 
@@ -43,6 +51,8 @@
 - **B)** Being silent their approaches
 - **C)** Competitive statements on future goals and investments
 - **D)** None of the above
+> ✅ **Correct Answer: C) Competitive statements on future goals and investments**
+
 
 ### Q6. Demand estimation can be:
 
@@ -50,6 +60,8 @@
 - **B)** Only bottom-up
 - **C)** Both top-down and bottom-up
 - **D)** Anything but structured
+> ✅ **Correct Answer: C) Both top-down and bottom-up**
+
 
 ### Q7. Test marketing will be appropriate for the:
 
@@ -57,6 +69,8 @@
 - **B)** Fully finished product
 - **C)** Basic prototype
 - **D)** Manufacturing concept
+> ✅ **Correct Answer: B) Fully finished product**
+
 
 ### Q8. Market adoption means:
 
@@ -64,6 +78,8 @@
 - **B)** Making of first sale
 - **C)** Converting aware customers to actual users
 - **D)** Changing product profiles
+> ✅ **Correct Answer: C) Converting aware customers to actual users**
+
 
 ### Q9. Smartphones in India exemplify:
 
@@ -71,6 +87,8 @@
 - **B)** Late adoption
 - **C)** Early and rapid adoption
 - **D)** Slow adoption
+> ✅ **Correct Answer: C) Early and rapid adoption**
+
 
 ### Q10. A higher price works as a competitive strategy for firms that are:
 

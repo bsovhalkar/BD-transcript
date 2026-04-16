@@ -15,6 +15,8 @@
 - **B)** ​ Freedom
 - **C)** ​ Dhara
 - **D)** ​ Fortune
+> ✅ **Correct Answer: D) ​ Fortune**
+
 
 ### Q2. For ensuring the effectiveness and growth of the brand, a product manager has to interface  with:
 
@@ -22,6 +24,8 @@
 - **B)** ​ All functions of the company
 - **C)** ​ Only the finance function
 - **D)** ​ Only the production and sales functions
+> ✅ **Correct Answer: B) ​ All functions of the company**
+
 
 ### Q3. Salesforce effectiveness is a function of:
 
@@ -29,6 +33,8 @@
 - **B)** ​ Market size
 - **C)** ​ Sales targets
 - **D)** ​ Training and development imparted for the salesforce
+> ✅ **Correct Answer: D) ​ Training and development imparted for the salesforce**
+
 
 ### Q4. Performance management of sales division starts with:
 
@@ -36,6 +42,8 @@
 - **B)** ​ Company mission, Business strategy and Sales plan
 - **C)** ​ Field execution
 - **D)** ​ Salesforce monitoring
+> ✅ **Correct Answer: B) ​ Company mission, Business strategy and Sales plan**
+
 
 ### Q5. The following is an important, but often ignored, component of any communication process:
 
@@ -43,6 +51,8 @@
 - **B)** ​ Receiving of a message
 - **C)** ​ Feedback on the nature and content of the message
 - **D)** ​ Responding to the instruction
+> ✅ **Correct Answer: C) ​ Feedback on the nature and content of the message**
+
 
 ### Q6. The combined objective of an effective advertising campaign for a product or service is to:
 
@@ -50,6 +60,8 @@
 - **B)** ​ Induce trial
 - **C)** ​ Ensure purchase and repeat purchase
 - **D)** ​ All the above
+> ✅ **Correct Answer: D) ​ All the above**
+
 
 ### Q7. An externally focused activity that is not directly related to sales and marketing could do a  lot of good for the company and brand image. It is:
 
@@ -57,6 +69,8 @@
 - **B)** ​ Government relations
 - **C)** ​ Corporate Social Responsibility
 - **D)** ​ Cybersecurity
+> ✅ **Correct Answer: C) ​ Corporate Social Responsibility**
+
 
 ### Q8. Price of a product has the most relevant bearing on the:
 
@@ -64,6 +78,8 @@
 - **B)** ​ Value perceived by the customer
 - **C)** ​ Morale of the users
 - **D)** ​ Value ignored by the customer
+> ✅ **Correct Answer: B) ​ Value perceived by the customer**
+
 
 ### Q9. Customers attach utmost importance to the following, besides performance, as far as quality  is considered:
 
@@ -71,6 +87,8 @@
 - **B)** ​ Price
 - **C)** ​ Service arrangements
 - **D)** ​ Responsiveness
+> ✅ **Correct Answer: A) ​ Durability and reliability**
+
 
 ### Q10. The concept of experience curve or learning curve suggests that cost of production will  reduce with:
 
